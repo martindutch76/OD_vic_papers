@@ -1,0 +1,4540 @@
+PMID- 42497798
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260731
+LR  - 20260731
+IS  - 1036-7314 (Print)
+IS  - 1036-7314 (Linking)
+VI  - 39
+IP  - 4
+DP  - 2026 Aug
+TI  - Family perspectives on declining organ donation: A qualitative study.
+PG  - 101649
+LID - S1036-7314(26)00119-0 [pii]
+LID - 10.1016/j.aucc.2026.101649 [doi]
+AB  - INTRODUCTION: With a national consent rate of 53%, Australian families decline 
+      donation in much higher numbers than other high-income countries. Yet, few 
+      studies have focused specifically on families who declined donation. OBJECTIVE: 
+      The aim of this study was to examine the experiences of families who declined 
+      donation after the death of a relative. METHODS: A qualitative study using 
+      in-depth interviews was conducted to elicit detailed narrative accounts. 
+      Interviews were conducted between April 2022 and May 2025 in South Australia, 
+      Victoria, Queensland, and New South Wales. Thirty-three recently bereaved 
+      families (43 individuals) who were approached for organ donation were purposively 
+      sampled and participated in the study. This paper reports on the experiences of 
+      the nine families (11 individuals) who declined donation. Data were analysed 
+      inductively through familiarisation, thematic framework development, and 
+      interpretation. FINDINGS: Families who declined donation reported inconsistent, 
+      ambiguous or contradictory communication, limited agency, and a perceived lack of 
+      care and compassion-experiences that intersected with broader social, economic, 
+      and racial marginalisation. Supportive engagements-such as clear and 
+      compassionate communication, rapport with staff, intensive care unit access, and 
+      personalised care-were described as helpful in navigating crisis. However, these 
+      often coexisted with episodes of confusion, exclusion, and powerlessness, shaping 
+      families' (mis)trust in the healthcare system and their attitudes towards organ 
+      donation. CONCLUSIONS: The decision to decline donation is not solely based on 
+      individual, family, or cultural preferences but is embedded within broader 
+      social, emotional, and institutional processes and can be enacted as a form of 
+      resistance by families who experience social disadvantage in and beyond the 
+      intensive care unit. Improving communication and care for the families of 
+      potential organ donors requires addressing institutional exclusion and building 
+      capacities for inclusion and trust to redress structural inequalities and enhance 
+      end-of-life care. Importantly, this study highlights a successful approach to 
+      engaging with families who decline donation, providing a platform for their 
+      experiences to inform improvements to care.
+CI  - Copyright © 2026 The Authors. Published by Elsevier Ltd.. All rights reserved.
+FAU - Zivkovic, Tanya
+AU  - Zivkovic T
+AD  - School of Society and Culture, Adelaide University, South Australia, Australia. 
+      Electronic address: tanya.zivkovic@adelaide.edu.au.
+FAU - Sundararajan, Krishnaswamy
+AU  - Sundararajan K
+AD  - Intensive Care Unit, Royal Adelaide Hospital, South Australia, Australia; School 
+      of Medicine, Adelaide University, South Australia, Australia.
+FAU - Moodie, Stewart
+AU  - Moodie S
+AD  - Intensive Care Unit, Royal Adelaide Hospital, South Australia, Australia; 
+      DonateLife SA, South Australia, Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20260724
+PL  - Australia
+TA  - Aust Crit Care
+JT  - Australian critical care : official journal of the Confederation of Australian 
+      Critical Care Nurses
+JID - 9207852
+SB  - IM
+MH  - Humans
+MH  - *Tissue and Organ Procurement
+MH  - *Family/psychology
+MH  - Qualitative Research
+MH  - Female
+MH  - Male
+MH  - Australia
+MH  - Interviews as Topic
+MH  - Professional-Family Relations
+MH  - Middle Aged
+MH  - Communication
+MH  - Adult
+MH  - Family Support
+OTO - NOTNLM
+OT  - Communication
+OT  - End-of-life care
+OT  - Family engagement;
+OT  - Intensive care
+OT  - Organ donation
+OT  - Professional–family relationships
+COIS- Declaration of competing interests The authors declare that they have no known 
+      competing financial interests or personal relationships that could have appeared 
+      to influence the work reported in this manuscript.
+EDAT- 2026/07/25 00:35
+MHDA- 2026/08/01 00:36
+CRDT- 2026/07/24 18:12
+PHST- 2025/12/29 00:00 [received]
+PHST- 2026/06/06 00:00 [revised]
+PHST- 2026/06/06 00:00 [accepted]
+PHST- 2026/08/01 00:36 [medline]
+PHST- 2026/07/25 00:35 [pubmed]
+PHST- 2026/07/24 18:12 [entrez]
+AID - S1036-7314(26)00119-0 [pii]
+AID - 10.1016/j.aucc.2026.101649 [doi]
+PST - ppublish
+SO  - Aust Crit Care. 2026 Aug;39(4):101649. doi: 10.1016/j.aucc.2026.101649. Epub 2026 
+      Jul 24.
+
+PMID- 42418265
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260824
+LR  - 20260824
+IS  - 1534-6080 (Electronic)
+IS  - 0041-1337 (Print)
+IS  - 0041-1337 (Linking)
+VI  - 110
+IP  - 9
+DP  - 2026 Sep 1
+TI  - Ethical Implementation of Organ Donation Following Medical Assistance in Dying: 
+      Recommendations of the Ethics Committee of the Transplantation Society.
+PG  - e1840-e1851
+LID - 10.1097/TP.0000000000005812 [doi]
+AB  - BACKGROUND: Medical assistance in dying (MAiD) is legally permitted in a growing 
+      number of jurisdictions, and in 6, it can currently be followed by organ 
+      donation. Organ donation following MAiD offers patients an opportunity to address 
+      transplant needs as a final act of altruism, but it also raises complex ethical 
+      questions that require strong safeguards to protect patients, professionals, and 
+      public trust. METHODS: We identified key ethical issues and safeguards by 
+      analyzing guidelines and protocols from the 6 countries where organ donation 
+      following MAiD is performed: Australia, Belgium, Canada, the Netherlands, New 
+      Zealand, and Spain. This article was developed under the auspices of the Ethics 
+      Committee of The Transplantation Society with medical, ethical, and legal experts 
+      from these countries. RESULTS: Three domains of ethical concern emerged: (1) 
+      safeguarding the integrity of patients' decision-making (voluntariness, informed 
+      consent, and how and when information is presented); (2) ethical governance of 
+      donation following MAiD (adherence to the Dead Donor Rule, death determination, 
+      and consent for premortem interventions); and (3) implications for care 
+      relationships and professional practice (end-of-life impacts, recipient 
+      information and donor anonymity, and professional support, including 
+      conscientious objection). Key recommendations include clear and consistent 
+      policies; a patient-centered, nondirective approach; rigorous eligibility and 
+      voluntariness assessments; and strict separation between MAiD and 
+      donation/transplantation teams. CONCLUSIONS: These recommendations provide 
+      practical guidance for implementing organ donation following MAiD in 
+      jurisdictions where it is practiced or being considered. They support patients' 
+      end-of-life wishes while safeguarding ethical and legal standards and maintaining 
+      trust in both MAiD and organ transplantation.
+CI  - Copyright © 2026 The Author(s). Published by Wolters Kluwer Health, LLC.
+FAU - Van Assche, Kristof
+AU  - Van Assche K
+AD  - Research Group Personal Rights and Property Rights, Faculty of Law, University of 
+      Antwerp, Antwerp, Belgium.
+FAU - Mulder, Johannes
+AU  - Mulder J
+AD  - Department of Intensive Care Medicine, Isala Hospital, Zwolle, The Netherlands.
+FAU - Ahn, Curie
+AU  - Ahn C
+AD  - Division of Nephrology, National Medical Center, Seoul, South Korea.
+FAU - Allen, Richard D M
+AU  - Allen RDM
+AD  - Transplantation Services, Faculty of Medicine and Health, University of Sydney, 
+      Sydney, NSW, Australia.
+FAU - Bollen, Jan
+AU  - Bollen J
+AD  - Department of Anesthesiology, Pain and Palliative Medicine, Radboud University 
+      Medical Center, Nijmegen, The Netherlands.
+FAU - Bramstedt, Katrina A
+AU  - Bramstedt KA
+AD  - School of Medicine, Queensland University of Technology, Brisbane, QLD, 
+      Australia.
+AD  - Bioethics Department, Roche, Basel, Switzerland.
+FAU - Burra, Patrizia
+AU  - Burra P
+AD  - Gastroenterology and Multivisceral Transplant Unit, Department of Surgery, 
+      Oncology, and Gastroenterology, Padova University Hospital, Padova, Italy.
+FAU - Cras, Patrick
+AU  - Cras P
+AD  - Department of Translational Neurosciences, Faculty of Medicine and Health 
+      Science, University of Antwerp, Antwerp, Belgium.
+AD  - Department of Neurology, Antwerp University Hospital and Born Bunge Institute, 
+      University of Antwerp, Antwerp, Belgium.
+FAU - Dhital, Kumud
+AU  - Dhital K
+AD  - Department Heart and Lung Transplantation and Mechanical Circulatory Support, 
+      Apollo Hospitals, Vadapalani, Chennai, India.
+FAU - Dittmer, Ian
+AU  - Dittmer I
+AD  - Department of Renal Medicine, Auckland City Hospital, Te Toka Tumai, Te Whatu 
+      Ora, Auckland, New Zealand.
+FAU - Domínguez-Gil, Beatriz
+AU  - Domínguez-Gil B
+AD  - Organización Nacional de Trasplantes, Madrid, Spain.
+FAU - Downar, James
+AU  - Downar J
+AD  - Division of Palliative Care, Department of Medicine, University of Ottawa, 
+      Ottawa, ON, Canada.
+FAU - Fadhil, Riadh A S
+AU  - Fadhil RAS
+AD  - Qatar Organ Donation Centre (Hiba), Hamad Medical Corporation, Weill Cornell 
+      College of Medicine, Doha, Qatar.
+FAU - Ferdinande, Patrick
+AU  - Ferdinande P
+AD  - Department of Intensive Care Medicine, University Hospitals Leuven, Leuven, 
+      Belgium.
+FAU - Forsythe, John L R
+AU  - Forsythe JLR
+AD  - Department of Health and Social Care, Implementation Steering Group for Organ 
+      Utilisation, London, United Kingdom.
+FAU - Fortin, Marie-Chantal
+AU  - Fortin MC
+AD  - Centre de Recherche, Centre Hospitalier de l'Université de Montréal, Montréal, 
+      QC, Canada.
+AD  - Faculty of Medicine, Université de Montréal, Montréal, QC, Canada.
+AD  - Canadian Donation and Transplantation Research Program, Edmonton, AB, Canada.
+FAU - Freeman, Michael A
+AU  - Freeman MA
+AD  - Pediatric Nephrology and Hypertension, Department of Pediatrics, Penn State 
+      Hershey Children's Hospital, Hershey, PA, United States of America.
+AD  - Department of Humanities, Pennsylvania State University College of Medicine, 
+      Hershey, PA, United States of America.
+FAU - Gerritsen, Rik T
+AU  - Gerritsen RT
+AD  - Department of Intensive Care, Medical Centre Leeuwarden, Leeuwarden, The 
+      Netherlands.
+FAU - Grayson, Kim E
+AU  - Grayson KE
+AD  - Organ Donation New Zealand, New Zealand Blood Service, Auckland, New Zealand.
+AD  - Intensive Care Unit, Wellington Hospital, Wellington, New Zealand.
+FAU - Healey, Andrew
+AU  - Healey A
+AD  - Trillium Gift of Life Network, Toronto, ON, Canada.
+AD  - Divisions of Emergency and Critical Care Medicine, Department of Medicine, 
+      McMaster University, Hamilton, ON, Canada.
+FAU - Kazemi, Alex
+AU  - Kazemi A
+AD  - Organ Donation New Zealand, New Zealand Blood Service, Auckland, New Zealand.
+FAU - Kute, Vivek B
+AU  - Kute VB
+AD  - Department of Nephrology, Institute of Kidney Diseases and Research Center, Dr HL 
+      Trivedi Institute of Transplantation Sciences, Ahmedabad, India.
+FAU - Martin, Dominique E
+AU  - Martin DE
+AD  - School of Medicine, Deakin University, Geelong, VIC, Australia.
+FAU - Monbaliu, Diethard
+AU  - Monbaliu D
+AD  - Department of Abdominal Transplantation Surgery and Coordination, University 
+      Hospitals Leuven, Leuven, Belgium.
+AD  - Transplantation Research Group, Department of Microbiology, Immunology, and 
+      Transplantation, KU Leuven, Leuven, Belgium.
+FAU - Muller, Elmi
+AU  - Muller E
+AD  - Faculty of Medicine and Health Sciences, Stellenbosch University, Cape Town, 
+      South Africa.
+FAU - Nino-Murcia, Alejandro
+AU  - Nino-Murcia A
+AD  - Department of Surgery, Colombiana de Trasplantes, Bogotá, Colombia.
+FAU - Olthuis, Gert
+AU  - Olthuis G
+AD  - Ethics of Healthcare Group, Department of IQ Health, Radboud University Medical 
+      Center, Nijmegen, The Netherlands.
+FAU - Opdam, Helen I
+AU  - Opdam HI
+AD  - Department of Intensive Care, Austin Health, Melbourne, VIC, Australia.
+AD  - Australian Organ and Tissue Authority, Canberra, ACT, Australia.
+FAU - Parent, Brendan
+AU  - Parent B
+AD  - Department of Population Health, Division of Medical Ethics, NYU Grossman School 
+      of Medicine, New York, NY, United States of America.
+FAU - Pérez Blanco, Alicia
+AU  - Pérez Blanco A
+AD  - Organización Nacional de Trasplantes, Madrid, Spain.
+FAU - Shemie, Sam D
+AU  - Shemie SD
+AD  - Division of Pediatric Critical Care Medicine, Department of Pediatrics, Montreal 
+      Children's Hospital, McGill University Health Centre, Montreal, QC, Canada.
+AD  - Canadian Blood Services, Ottawa, ON, Canada.
+FAU - Siebelink, Marion
+AU  - Siebelink M
+AD  - Department of Paediatrics, Beatrix Children's Hospital, University Medical Centre 
+      Groningen, University of Groningen, Groningen, The Netherlands.
+AD  - UMCG Transplant Center, University of Groningen, Groningen, The Netherlands.
+FAU - Silva, Amina
+AU  - Silva A
+AD  - Nursing Department, Brock University, St Catherines, ON, Canada.
+FAU - Silva E Silva, Vanessa
+AU  - Silva E Silva V
+AD  - Nursing Department, Brock University, St Catherines, ON, Canada.
+FAU - Sonneveld, Hans P
+AU  - Sonneveld HP
+AD  - Department of Intensive Care Medicine, Isala Hospital, Zwolle, The Netherlands.
+FAU - Stock, Peter G
+AU  - Stock PG
+AD  - Department of Surgery, University of California San Francisco, San Francisco, CA, 
+      United States of America.
+FAU - Ten Hoopen, Rankie
+AU  - Ten Hoopen R
+AD  - Research Group Public Law/Health Law, Faculty of Law, Maastricht University, 
+      Maastricht, The Netherlands.
+FAU - Thiessen, Carrie
+AU  - Thiessen C
+AD  - Division of Transplantation, Department of Surgery, University of Wisconsin 
+      School of Medicine and Public Health, Madison, WI, United States of America.
+FAU - van Mook, Walther
+AU  - van Mook W
+AD  - Department of Intensive Care Medicine, Maastricht University Medical Centre, 
+      Maastricht, The Netherlands.
+FAU - Van Raemdonck, Dirk
+AU  - Van Raemdonck D
+AD  - Department of Thoracic Surgery, University Hospitals Leuven, Leuven, Belgium.
+AD  - Laboratory of Respiratory Diseases and Thoracic Surgery (BREATHE), KU Leuven, 
+      Leuven, Belgium.
+FAU - Wall, Anji E
+AU  - Wall AE
+AD  - Department of Transplant Surgery, Baylor University Medical Center, Dallas, TX, 
+      United States of America.
+FAU - Weiss, Matthew J
+AU  - Weiss MJ
+AD  - Transplant Québec, Montréal, QC, Canada.
+AD  - Population Health and Optimal Health Practices Research Unit, 
+      Trauma-Emergency-Critical Care Medicine, CHU de Québec-Université Laval Research 
+      Center, Université Laval, Québec City, QC, Canada.
+AD  - Canadian Donation and Transplant Research Program, Edmonton, ON, Canada.
+FAU - Woodyatt, Larna
+AU  - Woodyatt L
+AD  - DonateLife Victoria, Melbourne, VIC, Australia.
+AD  - Nursing, Grampians Health Ballarat, Ballarat, VIC, Australia.
+FAU - Ysebaert, Dirk
+AU  - Ysebaert D
+AD  - Faculty of Medicine and Health Sciences, University of Antwerp, Antwerp, Belgium.
+AD  - Department of Hepatobiliary, Transplantation and Endocrine Surgery, University 
+      Hospital Antwerp, Antwerp, Belgium.
+FAU - Thomson, David
+AU  - Thomson D
+AD  - Groote Schuur Hospital, University of Cape Town, Cape Town, South Africa.
+LA  - eng
+PT  - Journal Article
+DEP - 20260708
+PL  - United States
+TA  - Transplantation
+JT  - Transplantation
+JID - 0132144
+SB  - IM
+MH  - Humans
+MH  - *Tissue and Organ Procurement/ethics/legislation & jurisprudence/standards
+MH  - Informed Consent/ethics
+MH  - *Suicide, Assisted/ethics/legislation & jurisprudence
+MH  - *Ethics Committees
+MH  - *Tissue Donors/ethics
+MH  - *Organ Transplantation/ethics/legislation & jurisprudence
+MH  - Australia
+MH  - Spain
+MH  - Netherlands
+MH  - Belgium
+PMC - PMC13489770
+COIS- The authors declare no funding or conflicts of interest.
+EDAT- 2026/07/08 12:56
+MHDA- 2026/08/24 11:37
+PMCR- 2026/08/20
+CRDT- 2026/07/08 11:54
+PHST- 2026/08/24 11:37 [medline]
+PHST- 2026/07/08 12:56 [pubmed]
+PHST- 2026/07/08 11:54 [entrez]
+PHST- 2026/08/20 00:00 [pmc-release]
+AID - 00007890-990000000-01476 [pii]
+AID - TPA-2025-1259 [pii]
+AID - 10.1097/TP.0000000000005812 [doi]
+PST - ppublish
+SO  - Transplantation. 2026 Sep 1;110(9):e1840-e1851. doi: 10.1097/TP.0000000000005812. 
+      Epub 2026 Jul 8.
+
+PMID- 42168859
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260812
+LR  - 20260814
+IS  - 1471-2253 (Electronic)
+IS  - 1471-2253 (Linking)
+VI  - 26
+IP  - 1
+DP  - 2026 May 21
+TI  - Anaesthetics considerations for organ retrieval in the voluntary assisted dying 
+      patient - case report.
+LID - 10.1186/s12871-026-03921-w [doi]
+LID - 475
+AB  - BACKGROUND: Voluntary assisted dying (VAD) is now legalised in several countries. 
+      Organ donation after VAD provides unique moral and logistical challenges. This 
+      report highlights the role of the anaesthetist in such cases. CASE PRESENTATION: 
+      A 50-year-old man with end-stage amyotrophic lateral sclerosis underwent VAD and 
+      became an organ donor. Anaesthetic and logistical considerations during 
+      procurement are described. Advances in organ retrieval after VAD and psychosocial 
+      implications are briefly outlined. CONCLUSIONS: Organ donation after VAD presents 
+      unique opportunities and challenges. The anaesthetist plays a key role in 
+      ensuring both dignity for the patient and optimal conditions for organ retrieval.
+CI  - © 2026. Crown.
+FAU - Levin, Adam B
+AU  - Levin AB
+AD  - Department of Anaesthesia and Pain Medicine, Barwon Health, 277-322 Ryrie St 
+      Geelong Victoria, Victoria, 3222, Australia. adam.levin@barwonhealth.org.au.
+FAU - Joshi, Yashutosh
+AU  - Joshi Y
+AD  - Heart Transplant Unit, StVincent's Hospital, Sydney, NSW, Australia.
+AD  - Victor Chang Cardiac Research Institute, Sydney, NSW, Australia.
+FAU - Vaidhya, Nikunj
+AU  - Vaidhya N
+AD  - Heart Transplant Unit, StVincent's Hospital, Sydney, NSW, Australia.
+FAU - Kantianis, Joanne
+AU  - Kantianis J
+AD  - DonateLife Victoria, Barwon Health, Victoria, Australia.
+FAU - Macdonald, Peter S
+AU  - Macdonald PS
+AD  - Heart Transplant Unit, StVincent's Hospital, Sydney, NSW, Australia.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20260521
+PL  - England
+TA  - BMC Anesthesiol
+JT  - BMC anesthesiology
+JID - 100968535
+RN  - 0 (Anesthetics)
+SB  - IM
+MH  - Humans
+MH  - Middle Aged
+MH  - Male
+MH  - *Suicide, Assisted
+MH  - Amyotrophic Lateral Sclerosis
+MH  - *Tissue and Organ Procurement/methods
+MH  - *Anesthesia/methods
+MH  - *Anesthetics/administration & dosage
+MH  - *Tissue and Organ Harvesting/methods
+PMC - PMC13466185
+OTO - NOTNLM
+OT  - Anaesthesia
+OT  - Case report
+OT  - Euthanasia
+OT  - Medical assisted dying
+OT  - Organ donation
+OT  - Voluntary assisted dying
+COIS- Declarations. Competing interests: The authors declare no competing interests. 
+      Ethics approval and consent to participate: Not applicable. Consent for 
+      publication: Written informed consent to publish the case report was provided by 
+      the patient’s partner in line with institutional policy. Competing interests: The 
+      authors declare that they have no competing interests.
+EDAT- 2026/05/22 06:33
+MHDA- 2026/08/12 06:05
+PMCR- 2026/05/21
+CRDT- 2026/05/22 00:14
+PHST- 2025/10/11 00:00 [received]
+PHST- 2026/05/13 00:00 [accepted]
+PHST- 2026/08/12 06:05 [medline]
+PHST- 2026/05/22 06:33 [pubmed]
+PHST- 2026/05/22 00:14 [entrez]
+PHST- 2026/05/21 00:00 [pmc-release]
+AID - 10.1186/s12871-026-03921-w [pii]
+AID - 3921 [pii]
+AID - 10.1186/s12871-026-03921-w [doi]
+PST - epublish
+SO  - BMC Anesthesiol. 2026 May 21;26(1):475. doi: 10.1186/s12871-026-03921-w.
+
+PMID- 41388861
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260209
+LR  - 20260511
+IS  - 1445-5994 (Electronic)
+IS  - 1444-0903 (Linking)
+VI  - 56
+IP  - 2
+DP  - 2026 Feb
+TI  - Perspectives on organ donation: a survey of Australian voluntary assisted dying 
+      practitioners.
+PG  - 253-261
+LID - 10.1111/imj.70299 [doi]
+AB  - BACKGROUND: Voluntary assisted dying (VAD) is an evolving area of end-of-life 
+      care in Australia. Internationally, over 300 individuals have donated organs 
+      after accessing VAD. AIMS: To explore Australian VAD clinicians' attitudes, 
+      knowledge and experiences regarding organ and tissue donation and to identify 
+      barriers and enablers to integrating donation into VAD practice. METHODS: We 
+      conducted a cross-sectional, mixed-methods online survey from September 2024 to 
+      April 2025 across Victoria, New South Wales, Queensland and South Australia. 
+      Participants included 244 health professionals involved in VAD care -- 
+      coordinating and consulting practitioners, nurses, and support staff -- recruited 
+      via state-based VAD navigation services, professional networks and registries. 
+      RESULTS: Respondents represented ~23% of the VAD workforce in the participating 
+      states. Most supported organ (98%) and tissue (98%) donation, with 91% personally 
+      willing to donate. Only 39% had received prior donation training, and 37% were 
+      aware of existing donation-after-VAD guidelines. While 90% agreed donation should 
+      be discussed when clinically appropriate, only 63% supported routinely raising 
+      the topic in VAD contexts. Key barriers included limited training, time 
+      constraints, ethical concerns (e.g. coercion, conflicts of interest) and 
+      assumptions about donation feasibility. Most respondents (84%) expressed interest 
+      in further education, particularly on eligibility criteria and navigating 
+      donation conversations. CONCLUSIONS: Australian VAD clinicians strongly support 
+      organ and tissue donation but face significant knowledge, logistical and ethical 
+      challenges. Targeted education, clear clinical guidance, structural supports and 
+      the development of national guidelines bridging both VAD and organ donation 
+      sectors are essential to ensure safe, ethical and patient-centred donation 
+      practices.
+CI  - © 2025 Royal Australasian College of Physicians.
+FAU - Dutch, Martin J
+AU  - Dutch MJ
+AD  - Department of Critical Care, University of Melbourne, Parkville, Victoria, 
+      Australia.
+AD  - Royal Melbourne Hospital, Parkville, Victoria, Australia.
+FAU - Amsden, Jessica L
+AU  - Amsden JL
+AD  - Head Office, DonateLife Victoria, Melbourne, Victoria, Australia.
+FAU - Stitt, Nicola D
+AU  - Stitt ND
+AD  - Statewide VAD Navigator Service, Peter MacCallum Cancer Centre, Parkville, 
+      Victoria, Australia.
+FAU - Jury, Susan C
+AU  - Jury SC
+AD  - Statewide VAD Navigator Service, Peter MacCallum Cancer Centre, Parkville, 
+      Victoria, Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20251213
+PL  - Australia
+TA  - Intern Med J
+JT  - Internal medicine journal
+JID - 101092952
+SB  - IM
+MH  - Humans
+MH  - *Tissue and Organ Procurement
+MH  - Cross-Sectional Studies
+MH  - Female
+MH  - Male
+MH  - *Attitude of Health Personnel
+MH  - Surveys and Questionnaires
+MH  - Australia/epidemiology
+MH  - *Suicide, Assisted/psychology
+MH  - Middle Aged
+MH  - Adult
+MH  - Health Knowledge, Attitudes, Practice
+MH  - *Health Personnel/psychology
+MH  - Terminal Care
+OTO - NOTNLM
+OT  - euthanasia
+OT  - medical ethics
+OT  - practice guidelines as topic
+OT  - surveys and questionnaires
+OT  - tissue and organ procurement
+OT  - voluntary active
+EDAT- 2025/12/13 12:59
+MHDA- 2026/02/09 18:49
+CRDT- 2025/12/13 06:22
+PHST- 2025/09/02 00:00 [received]
+PHST- 2025/11/21 00:00 [accepted]
+PHST- 2026/02/09 18:49 [medline]
+PHST- 2025/12/13 12:59 [pubmed]
+PHST- 2025/12/13 06:22 [entrez]
+AID - 10.1111/imj.70299 [doi]
+PST - ppublish
+SO  - Intern Med J. 2026 Feb;56(2):253-261. doi: 10.1111/imj.70299. Epub 2025 Dec 13.
+
+PMID- 40143832
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250328
+IS  - 1441-2772 (Print)
+IS  - 2652-9335 (Electronic)
+IS  - 1441-2772 (Linking)
+VI  - 27
+IP  - 1
+DP  - 2025 Mar
+TI  - Organ donation from extracorporeal membrane oxygenation and ventricular assist 
+      devices in Victoria, Australia: Characteristics and trends.
+PG  - 100102
+LID - 10.1016/j.ccrj.2025.100102 [doi]
+LID - 100102
+AB  - OBJECTIVE: To describe the characteristics and the trend of organ donation from 
+      donors on extracorporeal membrane oxygenation (ECMO) or ventricular assist 
+      devices (LVAD). DESIGN: Retrospective, observational, cohort study from June 2014 
+      to June 2021. SETTING: A multicentre study in Victoria, Australia, using 
+      DonateLife Victoria databases. PARTICIPANTS: All patients on ECMO/LVAD were 
+      referred to DonateLife for organ donation. MAIN OUTCOME MEASURES: Number, 
+      proportion, time trend and type of organ donations from the patients on 
+      ECMO/LVAD. RESULTS: There were 78 donor referrals [mean (SD) age 42 (18.8) yrs, 
+      56 (72 %) males] from patients on Veno-arterial ECMO (73 %), Veno-venous ECMO 
+      (16 %) or LVAD (6.4 %), of which 37 (47 %) donated. The annual median (IQR) 
+      referral and donation rates were 8 (5-10)/year and 4 (3-7)/year, respectively. 
+      Medical contraindications were the main reason for declining organ donation 
+      [21(51 %)]. Donation after neurological determination of death (DNDD) occurred in 
+      20 (54 %), and donation after circulatory determination of death (DCDD) in 17 
+      (46 %). The median (IQR) time from admission to referral for donation was longer 
+      in DCDD compared to DNDD patients. Eighty-three organs were retrieved from 37 
+      donors (2.24 organs per donor), out of which 68 organs (82 %) were transplanted 
+      in 68 recipients. Kidneys were the most common organs retrieved (73 %) and 
+      transplanted (79 %). CONCLUSION: Organ donation on ECMO/LVAD occurs only in half 
+      of the referred patients. Further studies are needed to ascertain the barriers to 
+      donations and to assess the long-term outcomes of these donations.
+CI  - Crown Copyright © 2025 Published by Elsevier B.V. on behalf of College of 
+      Intensive Care Medicine of Australia and New Zealand.
+FAU - Nainani, Viveka K
+AU  - Nainani VK
+AD  - Department of Intensive Care and Hyperbaric Medicine, The Alfred Hospital, 
+      Melbourne, Victoria, Australia.
+FAU - Arcia, Byron
+AU  - Arcia B
+AD  - DonateLife, The Australian Organ and Tissue Authority, ACT, Australia.
+FAU - Pilcher, David
+AU  - Pilcher D
+AD  - Department of Intensive Care and Hyperbaric Medicine, The Alfred Hospital, 
+      Melbourne, Victoria, Australia.
+AD  - The Australian and New Zealand Intensive Care Research Centre, School of Public 
+      Health and Preventative Medicine, Monash University, Melbourne, Victoria, 
+      Australia.
+AD  - DonateLife Victoria, Carlton, Victoria, Australia.
+FAU - Ihle, Joshua
+AU  - Ihle J
+AD  - Department of Intensive Care and Hyperbaric Medicine, The Alfred Hospital, 
+      Melbourne, Victoria, Australia.
+AD  - The Australian and New Zealand Intensive Care Research Centre, School of Public 
+      Health and Preventative Medicine, Monash University, Melbourne, Victoria, 
+      Australia.
+AD  - DonateLife Victoria, Carlton, Victoria, Australia.
+FAU - Diehl, Arne
+AU  - Diehl A
+AD  - Department of Intensive Care and Hyperbaric Medicine, The Alfred Hospital, 
+      Melbourne, Victoria, Australia.
+AD  - The Australian and New Zealand Intensive Care Research Centre, School of Public 
+      Health and Preventative Medicine, Monash University, Melbourne, Victoria, 
+      Australia.
+FAU - Radford, Samuel
+AU  - Radford S
+AD  - DonateLife Victoria, Carlton, Victoria, Australia.
+AD  - Department of Intensive Care, Austin Health, Heidelberg, Victoria, Australia.
+AD  - University of Melbourne, Melbourne, Victoria, Australia.
+FAU - D'Costa, Rohit
+AU  - D'Costa R
+AD  - DonateLife Victoria, Carlton, Victoria, Australia.
+AD  - Department of Intensive Care, Royal Melbourne Hospital, Parkville, Victoria, 
+      Australia.
+FAU - Nanjayya, Vinodh B
+AU  - Nanjayya VB
+AD  - Department of Intensive Care and Hyperbaric Medicine, The Alfred Hospital, 
+      Melbourne, Victoria, Australia.
+AD  - The Australian and New Zealand Intensive Care Research Centre, School of Public 
+      Health and Preventative Medicine, Monash University, Melbourne, Victoria, 
+      Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20250313
+PL  - Netherlands
+TA  - Crit Care Resusc
+JT  - Critical care and resuscitation : journal of the Australasian Academy of Critical 
+      Care Medicine
+JID - 100888170
+PMC - PMC11938037
+OTO - NOTNLM
+OT  - Extracorporeal membrane oxygenation
+OT  - Extracorporeal therapies
+OT  - Organ donation
+OT  - Ventricular assist device
+COIS- David Pilcher declares he is employed as a medical advisor for Donate Life. All 
+      other authors declare that they have no conflicts of interest.
+EDAT- 2025/03/27 06:29
+MHDA- 2025/03/27 06:30
+PMCR- 2025/03/13
+CRDT- 2025/03/27 05:03
+PHST- 2025/01/08 00:00 [received]
+PHST- 2025/02/05 00:00 [revised]
+PHST- 2025/02/05 00:00 [accepted]
+PHST- 2025/03/27 06:30 [medline]
+PHST- 2025/03/27 06:29 [pubmed]
+PHST- 2025/03/27 05:03 [entrez]
+PHST- 2025/03/13 00:00 [pmc-release]
+AID - S1441-2772(25)00006-7 [pii]
+AID - 100102 [pii]
+AID - 10.1016/j.ccrj.2025.100102 [doi]
+PST - epublish
+SO  - Crit Care Resusc. 2025 Mar 13;27(1):100102. doi: 10.1016/j.ccrj.2025.100102. 
+      eCollection 2025 Mar.
+
+PMID- 39904114
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20250419
+LR  - 20250925
+IS  - 1036-7314 (Print)
+IS  - 1036-7314 (Linking)
+VI  - 38
+IP  - 3
+DP  - 2025 May
+TI  - A retrospective review of the characteristics of patients deemed unsuitable for 
+      organ donation in a paediatric intensive care unit over a 5-year period.
+PG  - 101161
+LID - S1036-7314(24)00312-6 [pii]
+LID - 10.1016/j.aucc.2024.101161 [doi]
+AB  - INTRODUCTION: Children on organ transplant lists are more likely than adult 
+      patients to develop complications or die whilst waiting for a transplant. This 
+      reflects children's frequent need for size-matched organs, which are rarely 
+      available. OBJECTIVES: The aim of this study was to review characteristics of 
+      patients deemed unsuitable for organ donation in a paediatric intensive care unit 
+      over a 5-year period to identify opportunities for practice improvement. METHODS: 
+      This was a quantitative, retrospective, observational study, using a descriptive 
+      design. Data were extracted from the clinical intensive care database STATIC into 
+      Microsoft Excel for children who died between the 1st of January 2018 and the 
+      31st of December 2022. Data were analysed descriptively. RESULTS: Across the 5 
+      years, 226 children died; 94 (41%) were referred to the state organ donation 
+      service DonateLife, and 26 (11.5%) became organ donors. Most children died from a 
+      cardiac cause. Of the total children who died, 152 (66%) were deemed to be 
+      unsuitable for organ donation. The most common reasons for children being deemed 
+      unsuitable for organ donation were as follows: poor organ function (46%), 
+      pre-existing systemic disease (34%), sepsis (15%), too young (10.5%), and due to 
+      legislation (9.8%). CONCLUSION: This study identified cohorts of patients who 
+      were deemed unsuitable for organ donation. Based on published evidence, some of 
+      these patients may have been suitable or could have been considered for organ 
+      donation. Identifying these cohorts may optimise knowledge translation regarding 
+      donor suitability, with the outcome of increasing organ donation opportunities.
+CI  - Copyright © 2024 Australian College of Critical Care Nurses Ltd. Published by 
+      Elsevier Ltd. All rights reserved.
+FAU - Short, Mellissa
+AU  - Short M
+AD  - The Royal Children's Hospital Melbourne, Victoria, Australia; DonateLife 
+      Victoria, Carlton, Victoria, Australia. Electronic address: 
+      Mellissa.Short@rch.org.au.
+FAU - Newall, Fiona
+AU  - Newall F
+AD  - The Royal Children's Hospital Melbourne, Victoria, Australia; Murdoch Children's 
+      Research Institute, Australia; The University of Melbourne, Australia.
+FAU - Masterson, Kate
+AU  - Masterson K
+AD  - The Royal Children's Hospital Melbourne, Victoria, Australia; Murdoch Children's 
+      Research Institute, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Observational Study
+DEP - 20250203
+PL  - Australia
+TA  - Aust Crit Care
+JT  - Australian critical care : official journal of the Confederation of Australian 
+      Critical Care Nurses
+JID - 9207852
+SB  - IM
+MH  - Humans
+MH  - Retrospective Studies
+MH  - *Intensive Care Units, Pediatric/statistics & numerical data
+MH  - Child
+MH  - *Tissue and Organ Procurement/statistics & numerical data
+MH  - Male
+MH  - Female
+MH  - Child, Preschool
+MH  - Infant
+MH  - Adolescent
+MH  - *Tissue Donors/statistics & numerical data
+OTO - NOTNLM
+OT  - Organ donation
+OT  - Paediatric intensive care
+OT  - Paediatrics
+OT  - Transplant
+COIS- Conflict of interest Mellissa Short is a paid employee of DonateLife Victoria.
+EDAT- 2025/02/05 00:19
+MHDA- 2025/04/20 00:44
+CRDT- 2025/02/04 18:06
+PHST- 2024/10/16 00:00 [received]
+PHST- 2024/12/17 00:00 [revised]
+PHST- 2024/12/17 00:00 [accepted]
+PHST- 2025/04/20 00:44 [medline]
+PHST- 2025/02/05 00:19 [pubmed]
+PHST- 2025/02/04 18:06 [entrez]
+AID - S1036-7314(24)00312-6 [pii]
+AID - 10.1016/j.aucc.2024.101161 [doi]
+PST - ppublish
+SO  - Aust Crit Care. 2025 May;38(3):101161. doi: 10.1016/j.aucc.2024.101161. Epub 2025 
+      Feb 3.
+
+PMID- 38444694
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20240307
+IS  - 2050-313X (Print)
+IS  - 2050-313X (Electronic)
+IS  - 2050-313X (Linking)
+VI  - 12
+DP  - 2024
+TI  - Elective intensive care unit admissions for organ donation in patients with 
+      terminal brain glioma: Case report.
+PG  - 2050313X241235009
+LID - 10.1177/2050313X241235009 [doi]
+LID - 2050313X241235009
+AB  - Despite being eligible, only 26 patients with primary brain cancer became organ 
+      donors from 2009 to 2018 in Australia. We describe two patients with high grade 
+      gliomas who successfully donated their organs after obtaining first-person 
+      consent in the outpatient setting by careful multidisciplinary planning and an 
+      elective intensive care unit admission for organ donation. Barriers and 
+      facilitators were examined based on these experiences and suggestions for future 
+      practices are explored. The recommended practices include: 1. Systematic 
+      incorporation of organ donation into advance care planning. 2. Integrating organ 
+      donation organisation coordinators into advance care planning. 3. Standardization 
+      of donor care and clear communication and collaboration between treatment teams. 
+      4. Support and involvement of the medical treatment decision maker. 5. 
+      Identification of clinical triggers for admission to hospital and intensive care 
+      unit. These two cases illustrate that with careful coordination and involvement 
+      from a multidisciplinary team, successful organ transplantation outcomes are 
+      possible.
+CI  - © The Author(s) 2024.
+FAU - Waller, Shohei F
+AU  - Waller SF
+AUID- ORCID: 0000-0001-8986-7097
+AD  - Oncology Department, St.Vincent's Hospital Melbourne, VIC, Australia.
+AD  - Medical Oncology Department, The Peter MacCallum Cancer Centre, Melbourne, VIC, 
+      Australia.
+FAU - O'Brien, Yvette
+AU  - O'Brien Y
+AD  - Department of Critical Care Medicine, St.Vincent's Hospital Melbourne, Fitzroy, 
+      VIC, Australia.
+AD  - DonateLife Victoria, Australia.
+FAU - Seah, Jo-An
+AU  - Seah JA
+AD  - Palliative Care Department, St.Vincent's Hospital Melbourne, Fitzroy, VIC, 
+      Australia.
+AD  - Oncology Department, Northern Health, Epping, VIC, Australia.
+FAU - McLachlan, Sue-Anne
+AU  - McLachlan SA
+AD  - Oncology Department, St.Vincent's Hospital Melbourne, VIC, Australia.
+AD  - The Department of Medicine, The University of Melbourne, VIC, Australia.
+FAU - Dowling, Anthony J
+AU  - Dowling AJ
+AD  - Oncology Department, St.Vincent's Hospital Melbourne, VIC, Australia.
+AD  - The Department of Medicine, The University of Melbourne, VIC, Australia.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+DEP - 20240304
+PL  - England
+TA  - SAGE Open Med Case Rep
+JT  - SAGE open medical case reports
+JID - 101638686
+PMC - PMC10913499
+OTO - NOTNLM
+OT  - Organ donation
+OT  - consent
+OT  - oncology
+OT  - palliative care
+OT  - transplantation
+COIS- The author(s) declared no potential conflicts of interest with respect to the 
+      research, authorship, and/or publication of this article.
+EDAT- 2024/03/06 06:43
+MHDA- 2024/03/06 06:44
+PMCR- 2024/03/04
+CRDT- 2024/03/06 03:52
+PHST- 2023/10/06 00:00 [received]
+PHST- 2024/02/07 00:00 [accepted]
+PHST- 2024/03/06 06:44 [medline]
+PHST- 2024/03/06 06:43 [pubmed]
+PHST- 2024/03/06 03:52 [entrez]
+PHST- 2024/03/04 00:00 [pmc-release]
+AID - 10.1177_2050313X241235009 [pii]
+AID - 10.1177/2050313X241235009 [doi]
+PST - epublish
+SO  - SAGE Open Med Case Rep. 2024 Mar 4;12:2050313X241235009. doi: 
+      10.1177/2050313X241235009. eCollection 2024.
+
+PMID- 38046873
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231205
+IS  - 1441-2772 (Print)
+IS  - 2652-9335 (Electronic)
+IS  - 1441-2772 (Linking)
+VI  - 22
+IP  - 4
+DP  - 2020 Dec
+TI  - The impact of organ donation specialists on consent rate in challenging organ 
+      donation conversations.
+PG  - 297-302
+LID - 10.51893/2020.4.OA1 [doi]
+AB  - Background: Consent rates for organ donation conversations (ODCs) vary. We 
+      hypothesised that a simple grading system could identify challenging ODCs. We 
+      further hypothesised that challenging ODCs would have higher consent rates when 
+      conducted by ODC specialists. Objectives: We aimed to study the utility of a 
+      grading system for ODCs and test the hypothesis that any training effect would be 
+      associated with improved consent rates in ODCs graded as most challenging. 
+      Methods: We stratified 2017 Australian DonateLife Audit aggregate consent and 
+      donation discussion data into four ODC grades based on Australian Organ Donor 
+      Register (AODR) status and person first raising the topic of organ donation. 
+      Grade I: "yes" present on AODR and family-raised organ donation; Grade II: "yes" 
+      present on AODR, and clinician-raised organ donation; Grade III: no registration 
+      on AODR but family-raised organ donation; and Grade IV: no registration on AODR, 
+      and clinician-raised organ donation. Results: Grade I ODCs were uncommon 7.7% 
+      (109/1420), with a consent rate of 95.4% (104/109). Grade IV ODCs were frequent 
+      (60.4%, 857/1420), with a consent rate of 41.4% (355/857). However, in Grade IV 
+      ODCs, organ donation specialist consent rate was 53.5% (189/353), significantly 
+      greater than for other trained staff at 33.1% (88/266) (P < 0.005; odds ratio 
+      [OR], 2.33; 95% CI, 1.68-3.24) or untrained requestors at 32.8% (78/238; P < 
+      0.005; OR, 2.36; 95% CI. 1.68-3.33). Conclusion: The likelihood of consent can be 
+      predicted using readily available variables. This allows prospective 
+      identification of Grade IV ODCs, which carry low but potentially modifiable 
+      likelihood of consent. Involving donation specialists was associated with more 
+      consents for organ donation when applied retrospectively to Australian audit 
+      data.
+CI  - © 2020 College of Intensive Care Medicine of Australia and New Zealand.
+FAU - Radford, Sam
+AU  - Radford S
+AD  - DonateLife Victoria, Melbourne, VIC, Australia.
+AD  - Austin Health, Melbourne, VIC, Australia.
+AD  - University of Melbourne, Melbourne, VIC, Australia.
+FAU - D'Costa, Rohit
+AU  - D'Costa R
+AD  - DonateLife Victoria, Melbourne, VIC, Australia.
+AD  - Melbourne Health, Melbourne, VIC, Australia.
+FAU - Opdam, Helen
+AU  - Opdam H
+AD  - Austin Health, Melbourne, VIC, Australia.
+AD  - Organ and Tissue Authority, Melbourne, VIC, Australia.
+FAU - McDonald, Mark
+AU  - McDonald M
+AD  - Organ and Tissue Authority, Melbourne, VIC, Australia.
+FAU - Jones, Daryl
+AU  - Jones D
+AD  - Austin Health, Melbourne, VIC, Australia.
+AD  - Monash University, Melbourne, VIC, Australia.
+AD  - Australian New Zealand Intensive Care Research Centre (ANZIC-RC), Melbourne, VIC, 
+      Australia.
+FAU - Bailey, Michael
+AU  - Bailey M
+AD  - Monash University, Melbourne, VIC, Australia.
+AD  - Australian New Zealand Intensive Care Research Centre (ANZIC-RC), Melbourne, VIC, 
+      Australia.
+FAU - Bellomo, Rinaldo
+AU  - Bellomo R
+AD  - Austin Health, Melbourne, VIC, Australia.
+AD  - University of Melbourne, Melbourne, VIC, Australia.
+AD  - Melbourne Health, Melbourne, VIC, Australia.
+AD  - Monash University, Melbourne, VIC, Australia.
+AD  - Australian New Zealand Intensive Care Research Centre (ANZIC-RC), Melbourne, VIC, 
+      Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20231018
+PL  - Netherlands
+TA  - Crit Care Resusc
+JT  - Critical care and resuscitation : journal of the Australasian Academy of Critical 
+      Care Medicine
+JID - 100888170
+PMC - PMC10692537
+COIS- None declared.
+EDAT- 2023/12/04 06:42
+MHDA- 2023/12/04 06:43
+PMCR- 2020/12/01
+CRDT- 2023/12/04 05:11
+PHST- 2023/12/04 06:43 [medline]
+PHST- 2023/12/04 06:42 [pubmed]
+PHST- 2023/12/04 05:11 [entrez]
+PHST- 2020/12/01 00:00 [pmc-release]
+AID - S1441-2772(23)00252-1 [pii]
+AID - 10.51893/2020.4.OA1 [doi]
+PST - epublish
+SO  - Crit Care Resusc. 2023 Oct 18;22(4):297-302. doi: 10.51893/2020.4.OA1. 
+      eCollection 2020 Dec.
+
+PMID- 38046868
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20231205
+IS  - 1441-2772 (Print)
+IS  - 2652-9335 (Electronic)
+IS  - 1441-2772 (Linking)
+VI  - 22
+IP  - 4
+DP  - 2020 Dec
+TI  - Expedited organ donation in Victoria, Australia: donor characteristics and 
+      donation outcomes.
+PG  - 303-311
+LID - 10.51893/2020.4.OA2 [doi]
+AB  - Background: Deceased organ donation work-up typically takes 24 hours or more. 
+      Clinicians may thus discount the possibility of donation when the potential donor 
+      is physiologically unstable or family requirements do not allow this length of 
+      time. This may lead to loss of transplantable organs. In 2015, we introduced an 
+      expedited work-up guideline with the aim of facilitating donation in these 
+      circumstances and maximising donation potential. Objective: To determine the 
+      number of expedited work-up (consent to retrieval procedure of 6 hours or less) 
+      donors from 2015 to 2018, compare their clinical and demographic characteristics 
+      with standard donors, and assess the outcome of transplanted organs and organ 
+      recipients. Design: We performed a retrospective audit of the electronic database 
+      for all Victorian donors from 2015 to 2018. We obtained transplant outcome data 
+      from the Australia and New Zealand Dialysis and Transplant Registry (ANZDATA). 
+      Results: Overall, 38 expedited pathway donors donated 78 organs for 
+      transplantation (70 kidneys, four lungs, three livers, one pancreas). Of these, 
+      55 retrieved kidneys were successfully transplanted. The lungs, livers and 
+      pancreas retrieved were all transplanted. For the kidney recipients, early graft 
+      dysfunction requiring dialysis was more common than with organs from the standard 
+      pathway (71% v 38%; P < 0.0001); however, short and medium term graft and patient 
+      survival were similar. Three recipients from the expedited pool experienced graft 
+      failure and two subsequently died. Of the two lung recipients, one died at day 
+      622 of chronic rejection. Conclusions: Expedited pathway donation is feasible 
+      with acceptable donation outcomes. Clinicians should consider donation even when 
+      physiological instability or family requirements preclude standard organ donation 
+      work-up times.
+CI  - © 2020 College of Intensive Care Medicine of Australia and New Zealand.
+FAU - D'Costa, Rohit L
+AU  - D'Costa RL
+AD  - DonateLife Victoria, Melbourne, VIC, Australia.
+AD  - Melbourne Health, Melbourne, VIC, Australia.
+FAU - Radford, Samuel
+AU  - Radford S
+AD  - DonateLife Victoria, Melbourne, VIC, Australia.
+AD  - Austin Health, Melbourne, VIC, Australia.
+AD  - University of Melbourne, Melbourne, VIC, Australia.ia.
+FAU - Opdam, Helen I
+AU  - Opdam HI
+AD  - Austin Health, Melbourne, VIC, Australia.
+AD  - Organ and Tissue Authority, Canberra, ACT, Australia.
+FAU - McDonald, Mark
+AU  - McDonald M
+AD  - Organ and Tissue Authority, Canberra, ACT, Australia.
+FAU - McEvoy, Leanne
+AU  - McEvoy L
+AD  - DonateLife Victoria, Melbourne, VIC, Australia.
+FAU - Bellomo, Rinaldo
+AU  - Bellomo R
+AD  - Melbourne Health, Melbourne, VIC, Australia.
+AD  - Austin Health, Melbourne, VIC, Australia.
+AD  - University of Melbourne, Melbourne, VIC, Australia.ia.
+LA  - eng
+PT  - Journal Article
+DEP - 20231018
+PL  - Netherlands
+TA  - Crit Care Resusc
+JT  - Critical care and resuscitation : journal of the Australasian Academy of Critical 
+      Care Medicine
+JID - 100888170
+PMC - PMC10692516
+COIS- Rohit D’Costa, Samuel Radford and Leanne McEvoy are employees of DonateLife 
+      Victoria (part of Australian Red Cross LifeBlood), which coordinates organ and 
+      tissue donation in the State of Victoria, Australia. Helen Opdam is an employee 
+      of the Organ and Tissue Authority, which is an independent statutory agency 
+      within the Australian Government Health portfolio
+EDAT- 2023/12/04 06:42
+MHDA- 2023/12/04 06:43
+PMCR- 2020/12/01
+CRDT- 2023/12/04 05:11
+PHST- 2023/12/04 06:43 [medline]
+PHST- 2023/12/04 06:42 [pubmed]
+PHST- 2023/12/04 05:11 [entrez]
+PHST- 2020/12/01 00:00 [pmc-release]
+AID - S1441-2772(23)00253-3 [pii]
+AID - 10.51893/2020.4.OA2 [doi]
+PST - epublish
+SO  - Crit Care Resusc. 2023 Oct 18;22(4):303-311. doi: 10.51893/2020.4.OA2. 
+      eCollection 2020 Dec.
+
+PMID- 37324328
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230619
+IS  - 2666-2507 (Electronic)
+IS  - 2666-2507 (Linking)
+VI  - 19
+DP  - 2023 Jun
+TI  - Fresh human cardiac tissue for translational research: A novel method of sampling 
+      deceased organ donors.
+PG  - 77-79
+LID - 10.1016/j.xjtc.2023.03.020 [doi]
+FAU - Sharma, Varun
+AU  - Sharma V
+AD  - Department of Surgery, Austin Health, Melbourne Medical School, The University of 
+      Melbourne, Melbourne, Victoria, Australia.
+AD  - Brian F. Buxton Department of Cardiac and Thoracic Aortic Surgery, Austin Health, 
+      Heidelberg, Melbourne, Victoria, Australia.
+FAU - Grant, James A L
+AU  - Grant JAL
+AD  - Department of Surgery, Austin Health, Melbourne Medical School, The University of 
+      Melbourne, Melbourne, Victoria, Australia.
+AD  - Department of Medicine, Melbourne Medical School, The University of Melbourne, 
+      Melbourne, Victoria, Australia.
+FAU - Gangahanumiah, Shivanand
+AU  - Gangahanumiah S
+AD  - Department of Surgery, Austin Health, Melbourne Medical School, The University of 
+      Melbourne, Melbourne, Victoria, Australia.
+AD  - Brian F. Buxton Department of Cardiac and Thoracic Aortic Surgery, Austin Health, 
+      Heidelberg, Melbourne, Victoria, Australia.
+FAU - Singh, Aashima
+AU  - Singh A
+AD  - Department of Surgery, Austin Health, Melbourne Medical School, The University of 
+      Melbourne, Melbourne, Victoria, Australia.
+AD  - Department of Medicine, Melbourne Medical School, The University of Melbourne, 
+      Melbourne, Victoria, Australia.
+FAU - Gordon, Claire L
+AU  - Gordon CL
+AD  - Department of Microbiology and Immunology, Peter Doherty Institute for Infection 
+      and Immunity, The University of Melbourne, Melbourne, Victoria, Australia.
+AD  - Department of Infectious Diseases, Austin Health, Heidelberg, Melbourne, 
+      Victoria, Australia.
+FAU - James, Fiona
+AU  - James F
+AD  - Department of Microbiology and Immunology, Peter Doherty Institute for Infection 
+      and Immunity, The University of Melbourne, Melbourne, Victoria, Australia.
+AD  - Department of Infectious Diseases, Austin Health, Heidelberg, Melbourne, 
+      Victoria, Australia.
+FAU - D'Costa, Rohit
+AU  - D'Costa R
+AD  - Department of Intensive Care Medicine, Melbourne Health, Melbourne, Victoria, 
+      Australia.
+AD  - Donatelife Victoria, Carlton, Victoria, Australia.
+FAU - Starkey, Graham
+AU  - Starkey G
+AD  - Liver Transplant Unit, Austin Health, Heidelberg, Melbourne, Victoria, Australia.
+FAU - Raman, Jaishankar
+AU  - Raman J
+AD  - Department of Surgery, Austin Health, Melbourne Medical School, The University of 
+      Melbourne, Melbourne, Victoria, Australia.
+AD  - Brian F. Buxton Department of Cardiac and Thoracic Aortic Surgery, Austin Health, 
+      Heidelberg, Melbourne, Victoria, Australia.
+AD  - Department of Cardiac Surgery, St Vincent's Hospital, Melbourne, Victoria, 
+      Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20230417
+PL  - United States
+TA  - JTCVS Tech
+JT  - JTCVS techniques
+JID - 101768546
+PMC - PMC10268497
+EDAT- 2023/06/16 06:42
+MHDA- 2023/06/16 06:43
+PMCR- 2023/04/17
+CRDT- 2023/06/16 04:09
+PHST- 2023/01/27 00:00 [received]
+PHST- 2023/03/15 00:00 [accepted]
+PHST- 2023/06/16 06:43 [medline]
+PHST- 2023/06/16 06:42 [pubmed]
+PHST- 2023/06/16 04:09 [entrez]
+PHST- 2023/04/17 00:00 [pmc-release]
+AID - S2666-2507(23)00119-0 [pii]
+AID - 10.1016/j.xjtc.2023.03.020 [doi]
+PST - epublish
+SO  - JTCVS Tech. 2023 Apr 17;19:77-79. doi: 10.1016/j.xjtc.2023.03.020. eCollection 
+      2023 Jun.
+
+PMID- 36591329
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230103
+IS  - 2373-8731 (Print)
+IS  - 2373-8731 (Electronic)
+IS  - 2373-8731 (Linking)
+VI  - 9
+IP  - 1
+DP  - 2023 Jan
+TI  - Australian Donation and Transplantation Biobank: A Research Biobank Integrated 
+      Within a Deceased Organ and Tissue Donation Program.
+PG  - e1422
+LID - 10.1097/TXD.0000000000001422 [doi]
+LID - e1422
+AB  - We aimed to facilitate the donation of tissue samples for research by 
+      establishing a centralized system integrated in the organ donation program for 
+      collection, storage, and distribution of samples (the Australian Donation and 
+      Transplantation Biobank [ADTB]). METHODS: Feasibility of a research biobank 
+      integrated within the deceased organ and tissue donation program was assessed. 
+      DonateLife Victoria sought consent for ADTB donation after consent was received 
+      for organ donation for transplantation from the donor's senior available next of 
+      kin. ADTB samples were collected during donation surgery and distributed fresh to 
+      researchers or stored for future research. The main outcome measures were ADTB 
+      donation rates, ADTB sample collection, ADTB sample use, and to identify ethical 
+      considerations. RESULTS: Over 2 y, samples were collected for the ADTB from 69 
+      donors (28% of 249 donors). Samples were obtained from the spleen (n = 59, 86%), 
+      colon (n = 57, 83%), ileum (n = 56, 82%), duodenum (n = 55, 80%), blood (n = 55, 
+      80%), bone marrow (n = 55, 80%), skin (n = 54, 78%), mesenteric lymph nodes (n = 
+      56, 81%), liver (n = 21, 30%), lung (n = 29, 42%), and lung-draining lymph node 
+      (n = 29, 42%). Heart (n = 20), breast (n = 1), and lower urinary tract (n = 1) 
+      samples were obtained in the second year. Five hundred fifty-six samples were 
+      used in 19 ethics-approved research projects spanning the fields of immunology, 
+      microbiology, oncology, anatomy, physiology, and surgery. CONCLUSIONS: The 
+      integration of routine deceased donation and transplantation activities with a 
+      coordinated system for retrieval and allocation of donor samples for use in a 
+      range of research projects is feasible and valuable.
+CI  - Copyright © 2022 The Author(s). Transplantation Direct. Published by Wolters 
+      Kluwer Health, Inc.
+FAU - Sharma, Varun J
+AU  - Sharma VJ
+AD  - Department of Surgery (Austin Health), Melbourne Medical School, The University 
+      of Melbourne, VIC, Melbourne, Australia.
+AD  - Liver & Intestinal Transplant Unit, Austin Health, Melbourne, VIC, Australia.
+AD  - Department of Cardiac Surgery, Austin Health, Melbourne, VIC, Australia.
+FAU - Starkey, Graham
+AU  - Starkey G
+AD  - Department of Surgery (Austin Health), Melbourne Medical School, The University 
+      of Melbourne, VIC, Melbourne, Australia.
+AD  - Liver & Intestinal Transplant Unit, Austin Health, Melbourne, VIC, Australia.
+FAU - D'Costa, Rohit
+AU  - D'Costa R
+AD  - DonateLife Victoria, Carlton, VIC, Australia.
+AD  - Department of Intensive Care Medicine, Melbourne Health, Melbourne, VIC, 
+      Australia.
+FAU - James, Fiona
+AU  - James F
+AD  - Department of Infectious Diseases, Austin Health, Melbourne, VIC, Australia.
+FAU - Mouhtouris, Effie
+AU  - Mouhtouris E
+AD  - Department of Infectious Diseases, Austin Health, Melbourne, VIC, Australia.
+FAU - Davis, Lisa
+AU  - Davis L
+AD  - Department of Infectious Diseases, Austin Health, Melbourne, VIC, Australia.
+FAU - Wang, Boa Zhong
+AU  - Wang BZ
+AD  - Department of Surgery (Austin Health), Melbourne Medical School, The University 
+      of Melbourne, VIC, Melbourne, Australia.
+AD  - Liver & Intestinal Transplant Unit, Austin Health, Melbourne, VIC, Australia.
+FAU - Vago, Angela
+AU  - Vago A
+AD  - Liver & Intestinal Transplant Unit, Austin Health, Melbourne, VIC, Australia.
+FAU - Raman, Jaishankar
+AU  - Raman J
+AD  - Department of Surgery (Austin Health), Melbourne Medical School, The University 
+      of Melbourne, VIC, Melbourne, Australia.
+AD  - Department of Cardiac Surgery, Austin Health, Melbourne, VIC, Australia.
+FAU - Mackay, Laura K
+AU  - Mackay LK
+AD  - Department of Microbiology and Immunology, The University of Melbourne, The Peter 
+      Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia.
+FAU - Opdam, Helen
+AU  - Opdam H
+AD  - Department of Intensive Care Medicine, Austin Health, Melbourne, VIC, Australia.
+AD  - DonateLife, The Australian Organ and Tissue Authority, ACT, Australia.
+FAU - Jones, Robert
+AU  - Jones R
+AD  - Department of Surgery (Austin Health), Melbourne Medical School, The University 
+      of Melbourne, VIC, Melbourne, Australia.
+AD  - Liver & Intestinal Transplant Unit, Austin Health, Melbourne, VIC, Australia.
+FAU - Grayson, M Lindsay
+AU  - Grayson ML
+AD  - Department of Infectious Diseases, Austin Health, Melbourne, VIC, Australia.
+AD  - Department of Microbiology and Immunology, The University of Melbourne, The Peter 
+      Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia.
+FAU - Martin, Dominique E
+AU  - Martin DE
+AD  - School of Medicine, Deakin University, Geelong, VIC, Australia.
+FAU - Gordon, Claire L
+AU  - Gordon CL
+AD  - Department of Infectious Diseases, Austin Health, Melbourne, VIC, Australia.
+AD  - Department of Microbiology and Immunology, The University of Melbourne, The Peter 
+      Doherty Institute for Infection and Immunity, Melbourne, VIC, Australia.
+AD  - North Eastern Public Health Unit, Austin Health, Melbourne, VIC, Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20221212
+PL  - United States
+TA  - Transplant Direct
+JT  - Transplantation direct
+JID - 101651609
+PMC - PMC9750700
+COIS- The authors declare no conflicts of interest
+EDAT- 2023/01/03 06:00
+MHDA- 2023/01/03 06:01
+PMCR- 2022/12/12
+CRDT- 2023/01/02 04:51
+PHST- 2022/09/22 00:00 [received]
+PHST- 2022/10/04 00:00 [accepted]
+PHST- 2023/01/02 04:51 [entrez]
+PHST- 2023/01/03 06:00 [pubmed]
+PHST- 2023/01/03 06:01 [medline]
+PHST- 2022/12/12 00:00 [pmc-release]
+AID - 10.1097/TXD.0000000000001422 [doi]
+PST - epublish
+SO  - Transplant Direct. 2022 Dec 12;9(1):e1422. doi: 10.1097/TXD.0000000000001422. 
+      eCollection 2023 Jan.
+
+PMID- 35722788
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220912
+LR  - 20250728
+IS  - 0310-057X (Print)
+IS  - 0310-057X (Linking)
+VI  - 50
+IP  - 5
+DP  - 2022 Sep
+TI  - A prediction model to determine the untapped lung donor pool outside of the 
+      DonateLife network in Victoria.
+PG  - 380-387
+LID - 10.1177/0310057X211070011 [doi]
+AB  - Lung transplantation is limited by a lack of suitable lung donors. In Australia, 
+      the national donation organisation (DonateLife) has taken a major role in 
+      optimising organ donor identification. However, the potential outside the 
+      DonateLife network hospitals remains uncertain. We aimed to create a prediction 
+      model for lung donation within the DonateLife network and estimate the untapped 
+      lung donors outside of the DonateLife network. We reviewed all deaths in the 
+      state of Victoria's intensive care units using a prospectively collected 
+      population-based intensive care unit database linked to organ donation records. A 
+      logistic regression model derived using patient-level data was developed to 
+      characterise the lung donors within DonateLife network hospitals. Consequently, 
+      we estimated the expected number of lung donors in Victorian hospitals outside 
+      the DonateLife network and compared the actual number. Between 2014 and 2018, 291 
+      lung donations occurred from 8043 intensive care unit deaths in DonateLife 
+      hospitals, while only three lung donations occurred from 1373 ICU deaths in 
+      non-DonateLife hospitals. Age, sex, postoperative admission, sepsis, neurological 
+      disease, trauma, chronic respiratory disease, lung oxygenation and serum 
+      creatinine were factors independently associated with lung donation. A highly 
+      discriminatory prediction model with area under the receiver operator 
+      characteristic curve of 0.91 was developed and accurately estimated the number of 
+      lung donors. Applying the model to non-DonateLife hospital data predicted only an 
+      additional five lung donors. This prediction model revealed few additional lung 
+      donor opportunities outside the DonateLife network, and the necessity of 
+      alternative and novel strategies for lung donation. A donor prediction model 
+      could provide a useful benchmarking tool to explore organ donation potential 
+      across different jurisdictions, hospitals and transplanting centres.
+FAU - Okahara, Shuji
+AU  - Okahara S
+AUID- ORCID: 0000-0003-1188-158X
+AD  - Australian and New Zealand Intensive Care Research Centre, Monash University, 
+      Melbourne, Australia.
+AD  - Lung Transplant Service, The Alfred Hospital and Monash University, Melbourne, 
+      Australia.
+FAU - Snell, Gregory I
+AU  - Snell GI
+AUID- ORCID: 0000-0002-9093-3669
+AD  - Lung Transplant Service, The Alfred Hospital and Monash University, Melbourne, 
+      Australia.
+FAU - Levvey, Bronwyn J
+AU  - Levvey BJ
+AD  - Lung Transplant Service, The Alfred Hospital and Monash University, Melbourne, 
+      Australia.
+FAU - McDonald, Mark
+AU  - McDonald M
+AD  - Organ and Tissue Authority, Canberra, Australia.
+FAU - D'Costa, Rohit
+AU  - D'Costa R
+AD  - DonateLife Victoria, Carlton, Australia.
+FAU - Opdam, Helen
+AU  - Opdam H
+AD  - Organ and Tissue Authority, Canberra, Australia.
+FAU - Pilcher, David V
+AU  - Pilcher DV
+AUID- ORCID: 0000-0002-8939-7985
+AD  - Australian and New Zealand Intensive Care Research Centre, Monash University, 
+      Melbourne, Australia.
+AD  - Department of Intensive Care, The Alfred Hospital, Melbourne, Australia.
+AD  - The Australian and New Zealand Intensive Care Society (ANZICS), Centre for 
+      Outcome and Resources Evaluation, Melbourne, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220619
+PL  - United States
+TA  - Anaesth Intensive Care
+JT  - Anaesthesia and intensive care
+JID - 0342017
+SB  - IM
+MH  - Humans
+MH  - Lung
+MH  - *Organ Transplantation
+MH  - Tissue Donors
+MH  - *Tissue and Organ Procurement
+MH  - Victoria
+OTO - NOTNLM
+OT  - Organ donation
+OT  - lung transplantation
+OT  - thoracic organ donation
+EDAT- 2022/06/21 06:00
+MHDA- 2022/09/14 06:00
+CRDT- 2022/06/20 04:33
+PHST- 2022/06/21 06:00 [pubmed]
+PHST- 2022/09/14 06:00 [medline]
+PHST- 2022/06/20 04:33 [entrez]
+AID - 10.1177/0310057X211070011 [doi]
+PST - ppublish
+SO  - Anaesth Intensive Care. 2022 Sep;50(5):380-387. doi: 10.1177/0310057X211070011. 
+      Epub 2022 Jun 19.
+
+PMID- 35603762
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220812
+LR  - 20250728
+IS  - 1445-2197 (Electronic)
+IS  - 1445-1433 (Print)
+IS  - 1445-1433 (Linking)
+VI  - 92
+IP  - 7-8
+DP  - 2022 Jul
+TI  - Development of an organ procurement team in South Australia in response to 
+      COVID-19.
+PG  - 1863-1866
+LID - 10.1111/ans.17776 [doi]
+AB  - BACKGROUND: Due to the nature of border closures and quarantine requirements in 
+      Australia during the COVID-19 pandemic, the feasibility of interstate travel for 
+      organ retrieval created complex logistics. An organ procurement service in South 
+      Australia, to procure heart and lungs of local donors, was commenced to mitigate 
+      the impact of the travel restrictions imposed due to COVID-19. The purpose of 
+      this review was to examine the initial data and feasibility of the service. 
+      METHODS: A single unit, multi-site retrospective review from April 2020-August 
+      2021 of all organ retrievals undertaken by the Flinders Medical Centre 
+      cardiothoracic service across Adelaide metropolitan area. Data was prospectively 
+      collected and analysed from the DonateLife South Australian centralized database. 
+      All data was de identified. RESULTS: A total of 25 organ procurements had been 
+      undertaken across 17 months since commencing the program. Total of 9 hearts and 
+      16 bilateral lungs were procured with median age of donor of hearts 49 years (IQR 
+      35.5-51. 5) and 60 years (IQR 44-72) for lung donation. Six organs were donated 
+      after determination of circulatory death and 19 after neurological determination 
+      of death. Median ischaemic time for heart donation was 4.4 h (IQR 3.0-5.8) and 
+      lung donation 4.4 h (IQR 3.4-6.1). All organs procured by the local South 
+      Australian team were successfully transplanted at the recipient site. Recipient 
+      sites included 8 in Victoria, 10 in New South Wales, 4 in Western Australia and 3 
+      in Queensland. CONCLUSIONS: The necessity of flexibility within the field of 
+      cardiothoracic surgery is evident during the COVID-19 pandemic. The 
+      implementation of an organ retrieval service in South Australia has been 
+      successful with no apparent increased risk to successful transplant outcomes.
+CI  - © 2022 Royal Australasian College of Surgeons.
+FAU - Gimpel, Damian Joseph
+AU  - Gimpel DJ
+AUID- ORCID: 0000-0001-7616-6945
+AD  - Cardiothoracic Surgery, Division of Surgery & Perioperative Medicine, Flinders 
+      Medical Centre, Southern Adelaide Local Health Network, Adelaide, South 
+      Australia, Australia.
+FAU - Crouch, Gareth
+AU  - Crouch G
+AD  - Cardiothoracic Surgery, Division of Surgery & Perioperative Medicine, Flinders 
+      Medical Centre, Southern Adelaide Local Health Network, Adelaide, South 
+      Australia, Australia.
+FAU - Szpytma, Malgorzata
+AU  - Szpytma M
+AUID- ORCID: 0000-0002-5545-8794
+AD  - Cardiothoracic Surgery, Division of Surgery & Perioperative Medicine, Flinders 
+      Medical Centre, Southern Adelaide Local Health Network, Adelaide, South 
+      Australia, Australia.
+FAU - Mazzone, Annette
+AU  - Mazzone A
+AUID- ORCID: 0000-0003-4851-8477
+AD  - Cardiothoracic Surgery, Division of Surgery & Perioperative Medicine, Flinders 
+      Medical Centre, Southern Adelaide Local Health Network, Adelaide, South 
+      Australia, Australia.
+FAU - Baker, Robert A
+AU  - Baker RA
+AD  - Cardiothoracic Surgery, Division of Surgery & Perioperative Medicine, Flinders 
+      Medical Centre, Southern Adelaide Local Health Network, Adelaide, South 
+      Australia, Australia.
+AD  - Cardiothoracic Surgery, Department of Surgery, College of Medicine and Public 
+      Health Flinders University, Adelaide, South Australia, Australia.
+FAU - Bennetts, Jayme S
+AU  - Bennetts JS
+AD  - Cardiothoracic Surgery, Division of Surgery & Perioperative Medicine, Flinders 
+      Medical Centre, Southern Adelaide Local Health Network, Adelaide, South 
+      Australia, Australia.
+AD  - Cardiothoracic Surgery, Department of Surgery, College of Medicine and Public 
+      Health Flinders University, Adelaide, South Australia, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20220523
+PL  - Australia
+TA  - ANZ J Surg
+JT  - ANZ journal of surgery
+JID - 101086634
+SB  - IM
+MH  - Adult
+MH  - *COVID-19/epidemiology
+MH  - Humans
+MH  - Middle Aged
+MH  - Pandemics
+MH  - South Australia/epidemiology
+MH  - *Tissue and Organ Procurement
+MH  - Victoria
+PMC - PMC9347653
+OTO - NOTNLM
+OT  - COVID-19
+OT  - organ donation
+OT  - organ transplant
+OT  - procurement
+COIS- None declared.
+EDAT- 2022/05/24 06:00
+MHDA- 2022/08/13 06:00
+PMCR- 2022/05/23
+CRDT- 2022/05/23 06:50
+PHST- 2022/04/22 00:00 [revised]
+PHST- 2022/03/04 00:00 [received]
+PHST- 2022/05/02 00:00 [accepted]
+PHST- 2022/05/24 06:00 [pubmed]
+PHST- 2022/08/13 06:00 [medline]
+PHST- 2022/05/23 06:50 [entrez]
+PHST- 2022/05/23 00:00 [pmc-release]
+AID - ANS17776 [pii]
+AID - 10.1111/ans.17776 [doi]
+PST - ppublish
+SO  - ANZ J Surg. 2022 Jul;92(7-8):1863-1866. doi: 10.1111/ans.17776. Epub 2022 May 23.
+
+PMID- 35592445
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220523
+LR  - 20230916
+IS  - 1432-2277 (Electronic)
+IS  - 0934-0874 (Print)
+IS  - 0934-0874 (Linking)
+VI  - 35
+DP  - 2022
+TI  - Prevalence of Blood-Borne Viruses and Predictors of Risk in Potential Organ 
+      Donors in Australia.
+PG  - 10395
+LID - 10.3389/ti.2022.10395 [doi]
+LID - 10395
+AB  - Internationally, the designation of a patient as an increased viral risk organ 
+      donor has been associated with lower utilisation rates. The actual prevalence of 
+      blood borne viruses in Australian potential organ donors, and the predictive 
+      performance of questionnaires administered to stratify this risk, remains 
+      unknown. We conducted a retrospective review of all patients who commenced workup 
+      for donation on the national database between 2014-2020. The prevalence of HIV, 
+      Active HBV and Active HCV in 3650 potential organ donors was 0.16%, 0.9%, and 
+      2.2%, respectively. The behavioural risk profile was assessed in a subset of 3633 
+      patients. Next-of-kin reported increased risk behaviours were associated with an 
+      increased prevalence of HCV but not of HIV or HBV (OR 13.8, p < 0.01, OR 0.3. p = 
+      0.42, OR 1.5, p = 0.14). Furthermore, the majority of HIV and HBV infections 
+      occurred in potential donors without a disclosed history of increased risk 
+      behaviours. In this series, donors had a higher prevalence of HCV, and similar 
+      rates of HBV and HIV to the broader community. Behavioural transmission risks 
+      were poorly predictive of HIV and HBV. Rather than pre-transplantation 
+      behavioural risk screening, routine post-transplant recipient screening may 
+      provide a more powerful tool in mitigating the consequences of unexpected viral 
+      transmission.
+CI  - Copyright © 2022 Dutch, Patrick, Boan, Knott and Opdam.
+FAU - Dutch, Martin J
+AU  - Dutch MJ
+AD  - Royal Melbourne Hospital, Melbourne, VIC, Australia.
+AD  - DonateLife (Victoria), Melbourne, VIC, Australia.
+AD  - Department of Critical Care, University of Melbourne, Melbourne, VIC, Australia.
+FAU - Patrick, Cameron J
+AU  - Patrick CJ
+AD  - Statistical Consultancy Unit, University of Melbourne, Melbourne, VIC, Australia.
+FAU - Boan, Peter A
+AU  - Boan PA
+AD  - Microbiology Department, PathWest Laboratory Medicine, Perth, WA, Australia.
+AD  - Department of Infectious Disease, Fiona Stanley Hospital, Perth, WA, Australia.
+FAU - Knott, Jonathan C
+AU  - Knott JC
+AD  - Department of Critical Care, University of Melbourne, Melbourne, VIC, Australia.
+AD  - Emergency Department, Royal Melbourne Hospital, Melbourne, VIC, Australia.
+FAU - Opdam, Helen I
+AU  - Opdam HI
+AD  - Intensive Care Unit, Austin Hospital, Melbourne, VIC, Australia.
+AD  - Australian Organ and Tissue Authority, Canberra, ACT, Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20220503
+PL  - Switzerland
+TA  - Transpl Int
+JT  - Transplant international : official journal of the European Society for Organ 
+      Transplantation
+JID - 8908516
+SB  - IM
+MH  - Australia/epidemiology
+MH  - *HIV Infections/prevention & control
+MH  - *Hepatitis C/epidemiology
+MH  - Humans
+MH  - Prevalence
+MH  - Tissue Donors
+MH  - *Viruses
+PMC - PMC9110643
+OTO - NOTNLM
+OT  - Australia
+OT  - behavior
+OT  - disease transmission
+OT  - organ donation
+OT  - predictive value
+OT  - questionnaire
+OT  - residual risk
+OT  - risk
+COIS- The authors declare that the research was conducted in the absence of any 
+      commercial or financial relationships that could be construed as a potential 
+      conflict of interest.
+EDAT- 2022/05/21 06:00
+MHDA- 2022/05/24 06:00
+PMCR- 2022/05/03
+CRDT- 2022/05/20 02:24
+PHST- 2022/01/31 00:00 [received]
+PHST- 2022/04/06 00:00 [accepted]
+PHST- 2022/05/20 02:24 [entrez]
+PHST- 2022/05/21 06:00 [pubmed]
+PHST- 2022/05/24 06:00 [medline]
+PHST- 2022/05/03 00:00 [pmc-release]
+AID - 10395 [pii]
+AID - 10.3389/ti.2022.10395 [doi]
+PST - epublish
+SO  - Transpl Int. 2022 May 3;35:10395. doi: 10.3389/ti.2022.10395. eCollection 2022.
+
+PMID- 34514113
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20220426
+IS  - 2373-8731 (Print)
+IS  - 2373-8731 (Electronic)
+IS  - 2373-8731 (Linking)
+VI  - 7
+IP  - 10
+DP  - 2021 Oct
+TI  - Successful Implementation of an Increased Viral Risk Donor Waiting List for 
+      Preconsented Kidney Transplant Candidates in Victoria, Australia.
+PG  - e758
+LID - 10.1097/TXD.0000000000001211 [doi]
+LID - e758
+AB  - Increased viral risk donors (IVRDs) with increased risk behaviors for blood-borne 
+      virus infection and negative nucleic acid testing have a low absolute risk of 
+      "window period" infection. Utilization and allocation of IVRD organs differ 
+      between jurisdictions. METHODS: We examined the characteristics and utilization 
+      of deceased donor IVRD kidneys and recipient outcomes within a 2-y period (July 
+      31, 2018-July 31, 2020) postimplementation of a new opt-in allocation pathway for 
+      preconsented recipients in Victoria, Australia. RESULTS: Fifty-six kidneys from 
+      31 IVRDs were utilized, comprising 13% of donors. Preconsent rate to accept IVRD 
+      kidneys increased to 41% of the waitlist in the 2 y postimplementation, and IVRDs 
+      having no kidneys utilized reduced to 0%. Compared with non-IVRD kidneys, kidney 
+      offer declines >10 per donor were less likely from IVRDs (3% vs 19%; P < 0.05). 
+      IVRDs were younger (median age 36 [IQR 30-44] vs 51 [35-60] y; P < 0.0001), with 
+      lower kidney donor profile index (25% [13-40%] vs 57% [29-75%]; P < 0.0001), and 
+      less hypertension (0% vs 22%; P < 0.01). Estimated glomerular filtration rate 3 
+      mo post-transplant was superior (P < 0.01). Injecting drug use (61%) was the most 
+      common increased risk behavior. 29% of IVRDs were hepatitis C antibody positive 
+      but nucleic acid testing negative. No active infection was detected in any 
+      recipient post-transplant. CONCLUSIONS: The described opt-in system permits 
+      efficient allocation and utilization of kidneys from IVRDs, with superior quality 
+      and graft function. Education is crucial to facilitate informed consent and 
+      equity of access to this donor pool.
+CI  - Copyright © 2021 The Author(s). Transplantation Direct. Published by Wolters 
+      Kluwer Health, Inc.
+FAU - Lee, Darren
+AU  - Lee D
+AD  - Department of Renal Medicine, Eastern Health Clinical School, Monash University, 
+      Box Hill, Australia.
+AD  - Department of Nephrology, Austin Health, Heidelberg, Australia.
+FAU - Gramnea, Indra
+AU  - Gramnea I
+AD  - DonateLife Victoria, Carlton, Australia.
+FAU - Seng, Nina
+AU  - Seng N
+AD  - DonateLife Victoria, Carlton, Australia.
+FAU - Bruns, Meaghan
+AU  - Bruns M
+AD  - DonateLife Victoria, Carlton, Australia.
+FAU - Hudson, Fiona
+AU  - Hudson F
+AD  - Victorian Transplantation and Immunogenetics Service, Australian Red Cross 
+      Lifeblood, West Melbourne, Australia.
+FAU - D'Costa, Rohit
+AU  - D'Costa R
+AD  - DonateLife Victoria, Carlton, Australia.
+AD  - Intensive Care Unit, Royal Melbourne Hospital, Parkville, Australia.
+FAU - McEvoy, Leanne
+AU  - McEvoy L
+AD  - DonateLife Victoria, Carlton, Australia.
+FAU - Sasadeusz, Joe
+AU  - Sasadeusz J
+AD  - Department of Infectious Diseases, Royal Melbourne Hospital, Parkville, 
+      Australia.
+FAU - O'Leary, Michael J
+AU  - O'Leary MJ
+AD  - New South Wales Organ & Tissue Donation Service, Sydney, Australia.
+FAU - Basu, Gopal
+AU  - Basu G
+AD  - Department of Renal Medicine, The Alfred Hospital, Monash University, Melbourne, 
+      Australia.
+FAU - Kausman, Joshua Y
+AU  - Kausman JY
+AD  - Department of Nephrology, Royal Children's Hospital, Melbourne, Australia.
+AD  - Murdoch Children's Research Institute, Royal Children's Hospital, Melbourne 
+      Australia.
+AD  - Department of Paediatrics, University of Melbourne, Parkville, Australia.
+FAU - Masterson, Rosemary
+AU  - Masterson R
+AD  - Department of Nephrology, Royal Melbourne Hospital, Parkville, Australia.
+AD  - Department of Medicine, University of Melbourne, Parkville, Australia.
+FAU - Paizis, Kathy
+AU  - Paizis K
+AD  - Department of Nephrology, Austin Health, Heidelberg, Australia.
+FAU - Kanellis, John
+AU  - Kanellis J
+AD  - Department of Nephrology, Monash Health, Clayton, Australia.
+AD  - Department of Medicine, Centre for Inflammatory Diseases, Monash University, 
+      Clayton, Australia.
+FAU - Hughes, Peter D
+AU  - Hughes PD
+AD  - Department of Nephrology, Royal Melbourne Hospital, Parkville, Australia.
+AD  - Department of Medicine, University of Melbourne, Parkville, Australia.
+FAU - Goodman, David J
+AU  - Goodman DJ
+AD  - Department of Nephrology, St Vincent's Hospital Melbourne, Fitzroy, Australia.
+FAU - Whitlam, John B
+AU  - Whitlam JB
+AD  - Department of Nephrology, Austin Health, Heidelberg, Australia.
+AD  - Department of Medicine, University of Melbourne, Parkville, Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20210907
+PL  - United States
+TA  - Transplant Direct
+JT  - Transplantation direct
+JID - 101651609
+PMC - PMC8425849
+COIS- The authors declare no funding or conflicts of interest.
+EDAT- 2021/09/14 06:00
+MHDA- 2021/09/14 06:01
+PMCR- 2021/09/07
+CRDT- 2021/09/13 06:59
+PHST- 2021/06/02 00:00 [received]
+PHST- 2021/06/22 00:00 [revised]
+PHST- 2021/07/08 00:00 [accepted]
+PHST- 2021/09/13 06:59 [entrez]
+PHST- 2021/09/14 06:00 [pubmed]
+PHST- 2021/09/14 06:01 [medline]
+PHST- 2021/09/07 00:00 [pmc-release]
+AID - 10.1097/TXD.0000000000001211 [doi]
+PST - epublish
+SO  - Transplant Direct. 2021 Sep 7;7(10):e758. doi: 10.1097/TXD.0000000000001211. 
+      eCollection 2021 Oct.
+
+PMID- 34334277
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220621
+LR  - 20220722
+IS  - 1036-7314 (Print)
+IS  - 1036-7314 (Linking)
+VI  - 35
+IP  - 4
+DP  - 2022 Jul
+TI  - Perceptions held by healthcare professionals concerning organ donation after 
+      circulatory death in an Australian intensive care unit without a local thoracic 
+      transplant service: A descriptive exploratory study.
+PG  - 430-437
+LID - S1036-7314(21)00107-7 [pii]
+LID - 10.1016/j.aucc.2021.06.013 [doi]
+AB  - BACKGROUND AND OBJECTIVE: Organ donation rates continue to be low in Australia 
+      compared with demand. Donation after circulatory death (DCD) has been an 
+      important strategy to increase donation rates, facilitated by advances in 
+      cardiopulmonary support in intensive care units (ICUs). However, DCD may harbour 
+      greater logistical challenges and unfavourable perceptions amongst some ICU 
+      healthcare professionals. The aim of this study was to evaluate and understand 
+      DCD perceptions at an Australian tertiary hospital. METHODS: This descriptive 
+      exploratory study was conducted at an Australian tertiary hospital. Participants 
+      were recruited voluntarily for interview via email and word-of-mouth through the 
+      hospital's ICU network. The study used a mixed-methods approach; five close-ended 
+      questions were included in the form of Likert scales followed by a semistructured 
+      interview with open-ended questions designed to understand participants' 
+      perceptions of DCD. Interviews were recorded, transcribed, and thematically 
+      analysed. RESULTS: Sixteen participants were interviewed including eight 
+      intensive care doctors, four donation specialist nursing coordinators (DSNCs), 
+      and four bedside nurses. Likert responses demonstrated clinicians' support for 
+      both DCD and donation after brain death (DBD). Thematic analysis of the 
+      transcripts yielded three overarching themes including 'Contextual and 
+      environmental influences on DCD decision-making', 'Personal difficulties faced by 
+      clinicians in DCD decision-making', and 'Family influences on DCD 
+      decision-making'. Significant geographical separation between donation and organ 
+      retrieval teams, incurring significant resource utilisation, impacted the 
+      donation team's decision-making around DCD, as did a perceived disruption of ICU 
+      care to facilitate donation especially for cases where successful DCD was 
+      identified to be unlikely. CONCLUSIONS: Overall, DCD was as acceptable to 
+      participants as DBD. However, the geographical separation of this centre meant 
+      that logistical barriers potentially impacted the DCD process. Open lines of 
+      communication with transplant centres, local resourcing, and a culture of 
+      education, experience, and leadership may facilitate the DCD programs where 
+      distant retrieval is commonplace.
+CI  - Copyright © 2021 Australian College of Critical Care Nurses Ltd. Published by 
+      Elsevier Ltd. All rights reserved.
+FAU - Milross, Luke
+AU  - Milross L
+AD  - Department of Intensive Care, The Alfred Hospital, Melbourne, Australia.
+FAU - O'Donnell, Thomas
+AU  - O'Donnell T
+AD  - Department of Intensive Care, The Alfred Hospital, Melbourne, Australia; School 
+      of Medicine, University of Notre Dame Sydney, Sydney, Australia. Electronic 
+      address: Thomasgodonnell@gmail.com.
+FAU - Bucknall, Tracey
+AU  - Bucknall T
+AD  - Centre for Quality and Patient Safety Research, Deakin University, Melbourne, 
+      Australia; The Australian and New Zealand Intensive Care Research Centre, Monash 
+      University, Melbourne, Australia.
+FAU - Pilcher, David
+AU  - Pilcher D
+AD  - Department of Intensive Care, The Alfred Hospital, Melbourne, Australia; The 
+      Australian and New Zealand Intensive Care Research Centre, Monash University, 
+      Melbourne, Australia; DonateLife Victoria, DonateLife, Melbourne.
+FAU - Poole, Alexis
+AU  - Poole A
+AD  - DonateLife South Australia, DonateLife, Adelaide, Australia; School of Medicine, 
+      University of Adelaide, Adelaide, Australia.
+FAU - Reddi, Benjamin
+AU  - Reddi B
+AD  - School of Medicine, University of Adelaide, Adelaide, Australia; Intensive Care 
+      Unit, Royal Adelaide Hospital, Adelaide, Australia.
+FAU - Ihle, Joshua
+AU  - Ihle J
+AD  - Department of Intensive Care, The Alfred Hospital, Melbourne, Australia; 
+      Department of Epidemiology and Preventive Medicine, Monash University, Melbourne, 
+      Australia; DonateLife Victoria, DonateLife, Melbourne.
+LA  - eng
+PT  - Journal Article
+DEP - 20210729
+PL  - Australia
+TA  - Aust Crit Care
+JT  - Australian critical care : official journal of the Confederation of Australian 
+      Critical Care Nurses
+JID - 9207852
+MH  - Australia
+MH  - Brain Death
+MH  - Death
+MH  - Delivery of Health Care
+MH  - Humans
+MH  - Intensive Care Units
+MH  - *Tissue and Organ Procurement
+OTO - NOTNLM
+OT  - Clinical decision-making
+OT  - Donation after circulatory death
+OT  - ICU
+OT  - Organ donation
+EDAT- 2021/08/03 06:00
+MHDA- 2022/06/22 06:00
+CRDT- 2021/08/02 05:35
+PHST- 2020/12/21 00:00 [received]
+PHST- 2021/06/22 00:00 [revised]
+PHST- 2021/06/23 00:00 [accepted]
+PHST- 2021/08/03 06:00 [pubmed]
+PHST- 2022/06/22 06:00 [medline]
+PHST- 2021/08/02 05:35 [entrez]
+AID - S1036-7314(21)00107-7 [pii]
+AID - 10.1016/j.aucc.2021.06.013 [doi]
+PST - ppublish
+SO  - Aust Crit Care. 2022 Jul;35(4):430-437. doi: 10.1016/j.aucc.2021.06.013. Epub 
+      2021 Jul 29.
+
+PMID- 34183263
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20220117
+LR  - 20220117
+IS  - 1444-2892 (Electronic)
+IS  - 1443-9506 (Linking)
+VI  - 31
+IP  - 2
+DP  - 2022 Feb
+TI  - An Audit of Lung Donor Pool: Optimal Current Donation Strategies and the 
+      Potential of Novel Time-Extended Donation After Circulatory Death Donation.
+PG  - 285-291
+LID - S1443-9506(21)00573-4 [pii]
+LID - 10.1016/j.hlc.2021.05.094 [doi]
+AB  - BACKGROUND: In Australia, increased organ donation and subsequent lung 
+      transplantation (LTx) rates have followed enhanced donor identification, referral 
+      and management, as well as the introduction of a donation after circulatory death 
+      (DCD) pathway. However, the number of patients waiting for LTx still continues to 
+      exceed the number of lung donors and the search for further suitable donors is 
+      critical. METHODS: All 2014-2018 Victorian DonateLife hospital deaths after 
+      intensive care unit (ICU) admission were analysed retrospectively to quantify 
+      unrecognised lung donors using current criteria, as well as novel time-extended 
+      (90 mins-24 hrs post-withdrawal) DCD lung donors. RESULTS: Using standard lung 
+      donor eligibility criteria, we identified 473 potential lung donors and a further 
+      122 time-extended DCD potential lung donors among 3,538 patients meeting general 
+      eligibility criteria. Detailed review of end-of-life discussions with patient 
+      families and the reasons why they were not offered donation revealed several 
+      categories of additional lung donors-traditional lung donors missed in current 
+      practice (n=2); hepatitis C infected lung donors potentially treatable with 
+      direct-acting antivirals (n=14), time-extended DCD lung donors (n=60); donor 
+      lungs potentially suitable for transplant with use of ex-vivo lung perfusion 
+      (EVLP) (n=7). CONCLUSION: While the number of lung donor opportunities missed 
+      under existing DonateLife donor identification and management processes was 
+      limited, a time-extended DCD lung donation pathway could substantially expand the 
+      lung donor pool. The use of hepatitis C infected donors, and the possibility of 
+      EVLP to solve donor graft assessment or logistic issues, could also provide small 
+      additional lung donor opportunities.
+CI  - Copyright © 2021 Australian and New Zealand Society of Cardiac and Thoracic 
+      Surgeons (ANZSCTS) and the Cardiac Society of Australia and New Zealand (CSANZ). 
+      Published by Elsevier B.V. All rights reserved.
+FAU - Okahara, Shuji
+AU  - Okahara S
+AD  - Australian and New Zealand Intensive Care Research Centre, Department of 
+      Epidemiology and Preventive Medicine, Monash University, Melbourne, Vic, 
+      Australia; Lung Transplant Service, The Alfred Hospital and Monash University, 
+      Melbourne, Vic, Australia. Electronic address: shuji.okahara@monash.edu.
+FAU - Levvey, Bronwyn
+AU  - Levvey B
+AD  - Lung Transplant Service, The Alfred Hospital and Monash University, Melbourne, 
+      Vic, Australia.
+FAU - McDonald, Mark
+AU  - McDonald M
+AD  - Organ and Tissue Authority, Canberra, ACT, Australia.
+FAU - D'Costa, Rohit
+AU  - D'Costa R
+AD  - DonateLife Victoria, Melbourne, Vic, Australia.
+FAU - Opdam, Helen
+AU  - Opdam H
+AD  - Organ and Tissue Authority, Canberra, ACT, Australia.
+FAU - Pilcher, David V
+AU  - Pilcher DV
+AD  - Australian and New Zealand Intensive Care Research Centre, Department of 
+      Epidemiology and Preventive Medicine, Monash University, Melbourne, Vic, 
+      Australia; Department of Intensive Care, The Alfred Hospital, Melbourne, Vic, 
+      Australia.
+FAU - Snell, Gregory I
+AU  - Snell GI
+AD  - Lung Transplant Service, The Alfred Hospital and Monash University, Melbourne, 
+      Vic, Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20210626
+PL  - Australia
+TA  - Heart Lung Circ
+JT  - Heart, lung & circulation
+JID - 100963739
+RN  - 0 (Antiviral Agents)
+SB  - IM
+MH  - Antiviral Agents
+MH  - Death
+MH  - *Hepatitis C, Chronic
+MH  - Humans
+MH  - Lung
+MH  - *Lung Transplantation
+MH  - Retrospective Studies
+MH  - Tissue Donors
+MH  - *Tissue and Organ Procurement
+OTO - NOTNLM
+OT  - Donation after circulatory death
+OT  - Lung transplantation
+OT  - Time-extended lung donation
+EDAT- 2021/06/30 06:00
+MHDA- 2022/01/18 06:00
+CRDT- 2021/06/29 05:50
+PHST- 2020/09/22 00:00 [received]
+PHST- 2021/05/03 00:00 [revised]
+PHST- 2021/05/15 00:00 [accepted]
+PHST- 2021/06/30 06:00 [pubmed]
+PHST- 2022/01/18 06:00 [medline]
+PHST- 2021/06/29 05:50 [entrez]
+AID - S1443-9506(21)00573-4 [pii]
+AID - 10.1016/j.hlc.2021.05.094 [doi]
+PST - ppublish
+SO  - Heart Lung Circ. 2022 Feb;31(2):285-291. doi: 10.1016/j.hlc.2021.05.094. Epub 
+      2021 Jun 26.
+
+PMID- 33724575
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210702
+LR  - 20210702
+IS  - 1432-2277 (Electronic)
+IS  - 0934-0874 (Linking)
+VI  - 34
+IP  - 5
+DP  - 2021 May
+TI  - Improving the predictability of time to death in controlled donation after 
+      circulatory death lung donors.
+PG  - 906-915
+LID - 10.1111/tri.13862 [doi]
+AB  - Although the use of donation after circulatory death (DCD) donors has increased 
+      lung transplant activity, 25-40% of intended DCD donors do not convert to actual 
+      donation because of no progression to asystole in the required time frame after 
+      withdrawal of cardiorespiratory support (WCRS). No studies have specifically 
+      focussed on DCD lung donor progression. This retrospective study reviewed 
+      intended DCD lung donors to make a prediction model of the likelihood of 
+      progression to death using logistic regression and classification and regression 
+      tree (CART). Between 2014 and 2018, 159 of 334 referred DCD donors were accepted, 
+      with 100 progressing to transplant, while 59 (37%) did not progress. In logistic 
+      regression, a length of ICU stay ≤ 5 days, severe infra-tentorial brain damage on 
+      imaging and use of vasopressin were related with the progression to actual 
+      donation. CART modelling of the likelihood of death within 90-minute post-WCRS 
+      provided prediction with a sensitivity of 1.00 and positive predictive value of 
+      0.56 in the validation data set. In the nonprogressed DCD group, 26 died within 
+      6 h post-WCRS. Referral received early after ICU admission, with nonspontaneous 
+      ventilatory mode, deep coma and severe infra-tentorial damage were relevant 
+      predictors. The CART model is useful to exclude DCD donor candidates with low 
+      probability of progression.
+CI  - © 2021 Steunstichting ESOT. Published by John Wiley & Sons Ltd.
+FAU - Okahara, Shuji
+AU  - Okahara S
+AUID- ORCID: 0000-0003-1188-158X
+AD  - Australian and New Zealand Intensive Care Research Centre, Department of 
+      Epidemiology and Preventive Medicine, Monash University, Melbourne, Vic., 
+      Australia.
+AD  - Lung Transplant Service, The Alfred Hospital and Monash University, Melbourne, 
+      Vic., Australia.
+FAU - Snell, Gregory I
+AU  - Snell GI
+AUID- ORCID: 0000-0002-9093-3669
+AD  - Lung Transplant Service, The Alfred Hospital and Monash University, Melbourne, 
+      Vic., Australia.
+FAU - McDonald, Mark
+AU  - McDonald M
+AD  - Organ and Tissue Authority, Canberra, ACT, Australia.
+FAU - D'Costa, Rohit
+AU  - D'Costa R
+AD  - DonateLife Victoria, Carlton, Vic., Australia.
+FAU - Opdam, Helen
+AU  - Opdam H
+AD  - Organ and Tissue Authority, Canberra, ACT, Australia.
+FAU - Pilcher, David V
+AU  - Pilcher DV
+AD  - Australian and New Zealand Intensive Care Research Centre, Department of 
+      Epidemiology and Preventive Medicine, Monash University, Melbourne, Vic., 
+      Australia.
+AD  - Department of Intensive Care, The Alfred Hospital, Melbourne, Vic., Australia.
+AD  - The Australian and New Zealand Intensive Care Society (ANZICS) Centre for Outcome 
+      and Resources Evaluation, Camberwell, Vic., Australia.
+FAU - Levvey, Bronwyn
+AU  - Levvey B
+AD  - Lung Transplant Service, The Alfred Hospital and Monash University, Melbourne, 
+      Vic., Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20210330
+PL  - Switzerland
+TA  - Transpl Int
+JT  - Transplant international : official journal of the European Society for Organ 
+      Transplantation
+JID - 8908516
+SB  - IM
+MH  - Brain Death
+MH  - Death
+MH  - Humans
+MH  - Lung
+MH  - Retrospective Studies
+MH  - Tissue Donors
+MH  - *Tissue and Organ Procurement
+OTO - NOTNLM
+OT  - donation after circulatory death
+OT  - lung transplant
+OT  - organ donation
+OT  - progression within time frame
+EDAT- 2021/03/17 06:00
+MHDA- 2021/07/03 06:00
+CRDT- 2021/03/16 12:48
+PHST- 2021/03/09 00:00 [revised]
+PHST- 2020/12/26 00:00 [received]
+PHST- 2021/03/10 00:00 [accepted]
+PHST- 2021/03/17 06:00 [pubmed]
+PHST- 2021/07/03 06:00 [medline]
+PHST- 2021/03/16 12:48 [entrez]
+AID - 10.1111/tri.13862 [doi]
+PST - ppublish
+SO  - Transpl Int. 2021 May;34(5):906-915. doi: 10.1111/tri.13862. Epub 2021 Mar 30.
+
+PMID- 33121967
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210906
+LR  - 20210906
+IS  - 1552-6259 (Electronic)
+IS  - 0003-4975 (Linking)
+VI  - 112
+IP  - 2
+DP  - 2021 Aug
+TI  - A Retrospective Review of Declined Lung Donors: Estimating the Potential of 
+      Ex Vivo Lung Perfusion.
+PG  - 443-449
+LID - S0003-4975(20)31734-3 [pii]
+LID - 10.1016/j.athoracsur.2020.08.042 [doi]
+AB  - BACKGROUND: Even in the extended-criteria era, the reasons for declining lung 
+      donors are not always clear. Furthermore, it has not been determined how many 
+      actual declined lungs would be retrieved by ex vivo lung perfusion (EVLP) beyond 
+      that already achieved in centers with an existing high utilization rate. METHODS: 
+      This retrospective study reviewed all lung donor referrals between 2014 and 2018, 
+      including detailed formal referrals and preliminary notifications. This study 
+      categorized reasons for lung donor non-acceptance and estimated how many declined 
+      grafts could have been theoretically retrievable by using EVLP. RESULTS: In 
+      total, 966 lung donor candidates were referred, including 313 transplanted 
+      donors, 336 declined donors after detailed referrals (group A) and 258 
+      preliminary declined. In group A, the primary reasons for refusal were lung 
+      quality issues (49%), general medical issues (25%), and organization issues 
+      (26%), combined with secondary reasons in many cases. Main lung quality issues 
+      were an extensive smoking history, abnormal chest radiography, and underlying 
+      lung disease. Although 73 declined lung donors had indications for EVLP, the 
+      retrievable lungs decreased to only 30 cases after considering the details of all 
+      clinical contraindications and organizational issues. Nevertheless, 59 intended 
+      donation after circulatory death donors did not progress to death after 
+      withdrawal of cardiorespiratory support in the required timeframe, and EVLP may 
+      have an emerging additional role here. CONCLUSIONS: Based on commonly cited 
+      criteria for EVLP indication, the number of EVLP retrievable lung donors 
+      represented only a small portion of declined donor lungs referred to our center 
+      from the state donation network.
+CI  - Copyright © 2021 The Society of Thoracic Surgeons. Published by Elsevier Inc. All 
+      rights reserved.
+FAU - Okahara, Shuji
+AU  - Okahara S
+AD  - Australian and New Zealand Intensive Care Research Centre, Department of 
+      Epidemiology and Preventive Medicine, Monash University, Melbourne, Australia; 
+      Lung Transplant Service, The Alfred Hospital and Monash University, Melbourne, 
+      Australia. Electronic address: shuji.okahara@monash.edu.
+FAU - Levvey, Bronwyn
+AU  - Levvey B
+AD  - Lung Transplant Service, The Alfred Hospital and Monash University, Melbourne, 
+      Australia.
+FAU - McDonald, Mark
+AU  - McDonald M
+AD  - Organ and Tissue Authority, Canberra, Australia.
+FAU - D'Costa, Rohit
+AU  - D'Costa R
+AD  - DonateLife Victoria, Carlton, Australia.
+FAU - Opdam, Helen
+AU  - Opdam H
+AD  - Organ and Tissue Authority, Canberra, Australia.
+FAU - Pilcher, David V
+AU  - Pilcher DV
+AD  - Australian and New Zealand Intensive Care Research Centre, Department of 
+      Epidemiology and Preventive Medicine, Monash University, Melbourne, Australia; 
+      Department of Intensive Care, The Alfred Hospital, Melbourne, Australia.
+FAU - Snell, Gregory I
+AU  - Snell GI
+AD  - Lung Transplant Service, The Alfred Hospital and Monash University, Melbourne, 
+      Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20201026
+PL  - Netherlands
+TA  - Ann Thorac Surg
+JT  - The Annals of thoracic surgery
+JID - 15030100R
+SB  - IM
+MH  - Adult
+MH  - Extracorporeal Circulation/methods
+MH  - Female
+MH  - Humans
+MH  - Lung Diseases/*surgery
+MH  - Lung Transplantation/*methods
+MH  - Male
+MH  - Middle Aged
+MH  - Organ Preservation/*methods
+MH  - Perfusion/*methods
+MH  - Retrospective Studies
+MH  - *Tissue Donors
+EDAT- 2020/10/31 06:00
+MHDA- 2021/09/07 06:00
+CRDT- 2020/10/30 05:36
+PHST- 2020/05/31 00:00 [received]
+PHST- 2020/07/20 00:00 [revised]
+PHST- 2020/08/31 00:00 [accepted]
+PHST- 2020/10/31 06:00 [pubmed]
+PHST- 2021/09/07 06:00 [medline]
+PHST- 2020/10/30 05:36 [entrez]
+AID - S0003-4975(20)31734-3 [pii]
+AID - 10.1016/j.athoracsur.2020.08.042 [doi]
+PST - ppublish
+SO  - Ann Thorac Surg. 2021 Aug;112(2):443-449. doi: 10.1016/j.athoracsur.2020.08.042. 
+      Epub 2020 Oct 26.
+
+PMID- 33012586
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210930
+LR  - 20210930
+IS  - 1557-8615 (Electronic)
+IS  - 0883-9441 (Linking)
+VI  - 63
+DP  - 2021 Jun
+TI  - Duality of roles and the provision of high-quality end-of-life care in the 
+      intensive care.
+PG  - 273-274
+LID - S0883-9441(20)30702-4 [pii]
+LID - 10.1016/j.jcrc.2020.09.023 [doi]
+FAU - Martin, Dominique
+AU  - Martin D
+AD  - School of Medicine, Faculty of Health, Deakin University, Geelong, Australia.
+FAU - Moodie, Stewart
+AU  - Moodie S
+AD  - Department of Intensive Care, Royal Adelaide Hospital, Adelaide, Australia.
+FAU - O'Leary, Michael J
+AU  - O'Leary MJ
+AD  - Intensive Care Service, Royal Prince Alfred Hospital, Sydney, Australia.
+FAU - McGee, Andrew
+AU  - McGee A
+AD  - Australian Centre for Health Law Research, Faculty of Law, Queensland University 
+      of Technology, Brisbane, Australia.
+FAU - Radford, Sam
+AU  - Radford S
+AD  - Intensive Care Unit, Austin Health, Melbourne, Australia; Faculty of Medicine, 
+      Dentistry and Health Science, Melbourne University, Melbourne, Australia.
+FAU - Opdam, Helen
+AU  - Opdam H
+AD  - Intensive Care Unit, Austin Health, Melbourne, Australia.
+FAU - D'Costa, Rohit L
+AU  - D'Costa RL
+AD  - Intensive Care Unit, Royal Melbourne Hospital, Melbourne, Australia.
+FAU - Carter, Angus
+AU  - Carter A
+AD  - Cairns and Hinterland Hospital and Health Service, James Cook University School 
+      of Medicine and Dentistry, Cairns, Australia.
+FAU - Cavazzoni, Elena
+AU  - Cavazzoni E
+AD  - University of Sydney, Children's Hospital at Westmead, Sydney, Australia.
+FAU - Chapman, Michael
+AU  - Chapman M
+AD  - Australian National University, Medical School, Canberra, Australia; University 
+      of Technology, ImPaCCT, Sydney, Australia; Department of Palliative Care, 
+      Canberra Hospital, Canberra, Australia.
+FAU - Jones, Sarah L
+AU  - Jones SL
+AD  - Intensive Care Unit, The Northern Hospital, Epping, Australia.
+FAU - Nunnink, Leo
+AU  - Nunnink L
+AD  - University of Queensland, Brisbane, Australia.
+FAU - Turner, Andrew J
+AU  - Turner AJ
+AD  - Intensive Care Unit, Royal Hobart Hospital, Hobart, Australia.
+FAU - van Haren, Frank M P
+AU  - van Haren FMP
+AD  - Australian National University, Medical School, Canberra, Australia; University 
+      of Canberra, Faculty of Health, Canberra, Australia; Canberra Hospital, Canberra, 
+      Australia. Electronic address: fvanharen@me.com.
+LA  - eng
+PT  - Comment
+PT  - Letter
+DEP - 20200925
+PL  - United States
+TA  - J Crit Care
+JT  - Journal of critical care
+JID - 8610642
+SB  - IM
+CON - J Crit Care. 2020 Oct;59:166-171. doi: 10.1016/j.jcrc.2020.06.016. PMID: 32674003
+CON - J Crit Care. 2021 Jun;63:272. doi: 10.1016/j.jcrc.2020.09.026. PMID: 33097318
+MH  - Critical Care
+MH  - Humans
+MH  - Palliative Care
+MH  - *Terminal Care
+COIS- Declaration of Competing Interest Dr. van Haren is State Medical Director (SMD) 
+      of DonateLife (Australian Capital Territory); Dr. Nunnink is SMD and Dr. Carter 
+      is Deputy-SMD of DonateLife (Queensland); Dr. Cavazzoni and Dr. O'Leary are 
+      co-SMDs of the New South Wales Organ and Tissue Donation Service; Dr. D'Costa is 
+      SMD and Dr. Radford Deputy-SMD of DonateLife (Victoria); Dr. Jones is SMD of 
+      DonateLife (Northern Territory); Dr. Moodie is SMD of DonateLife (South 
+      Australia); Dr. Opdam is National Medical Director of DonateLife Australia; Dr. 
+      Turner is SMD of DonateLife (Tasmania).
+EDAT- 2020/10/06 06:00
+MHDA- 2021/10/01 06:00
+CRDT- 2020/10/05 05:33
+PHST- 2020/08/22 00:00 [received]
+PHST- 2020/09/19 00:00 [revised]
+PHST- 2020/09/21 00:00 [accepted]
+PHST- 2020/10/06 06:00 [pubmed]
+PHST- 2021/10/01 06:00 [medline]
+PHST- 2020/10/05 05:33 [entrez]
+AID - S0883-9441(20)30702-4 [pii]
+AID - 10.1016/j.jcrc.2020.09.023 [doi]
+PST - ppublish
+SO  - J Crit Care. 2021 Jun;63:273-274. doi: 10.1016/j.jcrc.2020.09.023. Epub 2020 Sep 
+      25.
+
+PMID- 32890490
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210406
+LR  - 20210406
+IS  - 1552-6259 (Electronic)
+IS  - 0003-4975 (Linking)
+VI  - 111
+IP  - 4
+DP  - 2021 Apr
+TI  - Common Criteria for Ex Vivo Lung Perfusion Have No Significant Impact on 
+      Posttransplant Outcomes.
+PG  - 1156-1163
+LID - S0003-4975(20)31432-6 [pii]
+LID - 10.1016/j.athoracsur.2020.06.081 [doi]
+AB  - BACKGROUND: Although it is intense in health care resources, by facilitating 
+      assessment and reconditioning, ex vivo lung perfusion (EVLP) has the potential to 
+      expand the donor pool and improve lung transplant outcomes. However, inclusion 
+      criteria used in EVLP trials have not been validated. METHODS: This retrospective 
+      study from 2014 to 2018 reviewed our local state-based donation organization 
+      donor records as well as subsequent recipient outcomes to explore the relation 
+      between EVLP indications used in clinical trials and recipient outcomes. The 
+      primary outcome was primary graft dysfunction grade 3 at 24 hours, with 30-day 
+      mortality and posttransplant survival time as secondary outcomes, compared with 
+      univariate and multivariate analysis. RESULTS: From 705 lung donor referrals, 304 
+      lung transplantations were performed (use rate of 42%); 212 of recipients (70%) 
+      met at least 1 of the commonly cited EVLP initiation criteria. There was no 
+      significant difference in primary graft dysfunction grade 3 or 30-day mortality 
+      between recipients with or without an EVLP indication (10.2% versus 7.8%, P = 
+      .51; and 2.4% versus 0%, P = .14, respectively). Multivariate analyses showed no 
+      significant relationship between commonly cited EVLP criteria and primary graft 
+      dysfunction grade 3 or survival time. Recipient outcomes were significantly 
+      associated with recipient diagnosis. CONCLUSIONS: At least 1 commonly cited 
+      criterion for EVLP initiation was present in 70% of the transplanted donors, and 
+      yet it did not predict clinical results; acceptable outcomes were seen in both 
+      subgroups. To discover the true utility of EVLP beyond good clinical management 
+      and focus EVLP on otherwise unacceptable lungs, a reconsideration of EVLP 
+      inclusion criteria is required.
+CI  - Copyright © 2021 The Society of Thoracic Surgeons. Published by Elsevier Inc. All 
+      rights reserved.
+FAU - Okahara, Shuji
+AU  - Okahara S
+AD  - Australian and New Zealand Intensive Care Research Centre, Department of 
+      Epidemiology and Preventive Medicine, Monash University, Melbourne, Australia; 
+      Lung Transplant Service, Alfred Hospital, Melbourne, Australia. Electronic 
+      address: shuji.okahara@monash.edu.
+FAU - Levvey, Bronwyn
+AU  - Levvey B
+AD  - Lung Transplant Service, Alfred Hospital, Melbourne, Australia.
+FAU - McDonald, Mark
+AU  - McDonald M
+AD  - Organ and Tissue Authority, Canberra, Australia.
+FAU - D'Costa, Rohit
+AU  - D'Costa R
+AD  - DonateLife Victoria, Carlton, Australia.
+FAU - Opdam, Helen
+AU  - Opdam H
+AD  - Organ and Tissue Authority, Canberra, Australia.
+FAU - Pilcher, David V
+AU  - Pilcher DV
+AD  - Australian and New Zealand Intensive Care Research Centre, Department of 
+      Epidemiology and Preventive Medicine, Monash University, Melbourne, Australia.
+FAU - Snell, Gregory I
+AU  - Snell GI
+AD  - Lung Transplant Service, Alfred Hospital, Melbourne, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20200902
+PL  - Netherlands
+TA  - Ann Thorac Surg
+JT  - The Annals of thoracic surgery
+JID - 15030100R
+SB  - IM
+MH  - Adult
+MH  - Extracorporeal Circulation/methods
+MH  - Female
+MH  - Humans
+MH  - *Lung Transplantation
+MH  - Male
+MH  - Middle Aged
+MH  - Organ Preservation/*methods
+MH  - Perfusion/*methods
+MH  - Primary Graft Dysfunction/*prevention & control
+MH  - Respiratory Insufficiency/surgery
+MH  - Retrospective Studies
+MH  - Tissue and Organ Procurement/*methods
+MH  - Treatment Outcome
+EDAT- 2020/09/06 06:00
+MHDA- 2021/04/07 06:00
+CRDT- 2020/09/05 20:06
+PHST- 2020/02/26 00:00 [received]
+PHST- 2020/05/11 00:00 [revised]
+PHST- 2020/06/23 00:00 [accepted]
+PHST- 2020/09/06 06:00 [pubmed]
+PHST- 2021/04/07 06:00 [medline]
+PHST- 2020/09/05 20:06 [entrez]
+AID - S0003-4975(20)31432-6 [pii]
+AID - 10.1016/j.athoracsur.2020.06.081 [doi]
+PST - ppublish
+SO  - Ann Thorac Surg. 2021 Apr;111(4):1156-1163. doi: 
+      10.1016/j.athoracsur.2020.06.081. Epub 2020 Sep 2.
+
+PMID- 32593560
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210831
+LR  - 20210831
+IS  - 1557-3117 (Electronic)
+IS  - 1053-2498 (Linking)
+VI  - 39
+IP  - 9
+DP  - 2020 Sep
+TI  - Influence of the donor history of tobacco and marijuana smoking on early and 
+      intermediate lung transplant outcomes.
+PG  - 962-969
+LID - S1053-2498(20)31578-3 [pii]
+LID - 10.1016/j.healun.2020.05.019 [doi]
+AB  - BACKGROUND: Donor smoking histories are common in the lung donor pool, which are 
+      known to adversely affect post-lung transplant (LTx) outcomes. However, no 
+      evidence is available about smoking status (current/former), cumulative dose 
+      effect, or the combined effect of tobacco with marijuana. METHODS: We 
+      retrospectively reviewed our local state-based donation organization records and 
+      subsequent LTx recipient outcomes. The primary outcome was 3-year graft survival, 
+      with cause of death as secondary outcomes. Univariate and multivariate Cox 
+      regression analyses were used to explore smoking status or cumulative dose 
+      effect. RESULTS: Between 2014 and 2018, 304 LTxs were performed: 133 (44%) LTxs 
+      were from never-smoker donors, 68 (22%) from former-smoker donors, and 103 (34%) 
+      from current-smoker donors. Of the current-smoker donors, 48% had a marijuana use 
+      history. There was no significant difference in early mortality, although 
+      recipients who received transplants from current-smoker donors had a lower 3-year 
+      graft survival than those who received transplants from never smokers. 
+      Multivariate modeling showed that current tobacco smoking (hazard ratio: 2.13, 
+      95% CI: 1.13-3.99) and a more than 5-year weekly marijuana use (hazard ratio: 
+      2.97, 95% CI: 1.29-6.87) were independent donor factors affecting graft survival. 
+      Chronic lung allograft dysfunction accounted for a higher proportion of the 
+      causes of death within 3 years after LTx where lungs from current/former smokers 
+      were utilized compared with those from never smokers (chronic lung allograft 
+      dysfunction-cause mortality: 11%, 7%, 0%, respectively). CONCLUSIONS: More than 
+      50% of LTx donors had smoking histories. Current tobacco use or more than 5-year 
+      weekly marijuana smoking history adversely affected 3-year graft survival. Our 
+      findings support the importance of obtaining a detailed donor tobacco and 
+      marijuana smoking history.
+CI  - Copyright © 2020 International Society for Heart and Lung Transplantation. 
+      Published by Elsevier Inc. All rights reserved.
+FAU - Okahara, Shuji
+AU  - Okahara S
+AD  - Australian and New Zealand Intensive Care Research Centre, Department of 
+      Epidemiology and Preventive Medicine, Monash University, Melbourne, Victoria, 
+      Australia; Lung Transplant Service, The Alfred Hospital and Monash University, 
+      Melbourne, Victoria, Australia. Electronic address: shuji.okahara@monash.edu.
+FAU - Levvey, Bronwyn
+AU  - Levvey B
+AD  - Lung Transplant Service, The Alfred Hospital and Monash University, Melbourne, 
+      Victoria, Australia.
+FAU - McDonald, Mark
+AU  - McDonald M
+AD  - Organ and Tissue Authority, Canberra, Australia.
+FAU - D'Costa, Rohit
+AU  - D'Costa R
+AD  - DonateLife Victoria, Carlton, Australia.
+FAU - Opdam, Helen
+AU  - Opdam H
+AD  - Organ and Tissue Authority, Canberra, Australia.
+FAU - Pilcher, David V
+AU  - Pilcher DV
+AD  - Australian and New Zealand Intensive Care Research Centre, Department of 
+      Epidemiology and Preventive Medicine, Monash University, Melbourne, Victoria, 
+      Australia; Department of Intensive Care, The Alfred Hospital, Melbourne, 
+      Victoria, Australia.
+FAU - Paul, Eldho
+AU  - Paul E
+AD  - Australian and New Zealand Intensive Care Research Centre, Department of 
+      Epidemiology and Preventive Medicine, Monash University, Melbourne, Victoria, 
+      Australia.
+FAU - Snell, Gregory I
+AU  - Snell GI
+AD  - Lung Transplant Service, The Alfred Hospital and Monash University, Melbourne, 
+      Victoria, Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20200611
+PL  - United States
+TA  - J Heart Lung Transplant
+JT  - The Journal of heart and lung transplantation : the official publication of the 
+      International Society for Heart Transplantation
+JID - 9102703
+SB  - IM
+MH  - Adult
+MH  - Female
+MH  - Graft Survival
+MH  - Humans
+MH  - Lung Transplantation/*methods
+MH  - Male
+MH  - Marijuana Smoking/*adverse effects
+MH  - Middle Aged
+MH  - Retrospective Studies
+MH  - Risk Factors
+MH  - *Tissue Donors
+MH  - Tobacco Smoking/*adverse effects
+OTO - NOTNLM
+OT  - donor smoking history
+OT  - graft survival
+OT  - lung transplant
+OT  - marijuana
+OT  - tobacco
+EDAT- 2020/07/01 06:00
+MHDA- 2021/09/01 06:00
+CRDT- 2020/06/29 06:00
+PHST- 2020/03/18 00:00 [received]
+PHST- 2020/05/13 00:00 [revised]
+PHST- 2020/05/31 00:00 [accepted]
+PHST- 2020/07/01 06:00 [pubmed]
+PHST- 2021/09/01 06:00 [medline]
+PHST- 2020/06/29 06:00 [entrez]
+AID - S1053-2498(20)31578-3 [pii]
+AID - 10.1016/j.healun.2020.05.019 [doi]
+PST - ppublish
+SO  - J Heart Lung Transplant. 2020 Sep;39(9):962-969. doi: 
+      10.1016/j.healun.2020.05.019. Epub 2020 Jun 11.
+
+PMID- 31098779
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20191119
+LR  - 20200309
+IS  - 1432-1238 (Electronic)
+IS  - 0342-4642 (Linking)
+VI  - 45
+IP  - 8
+DP  - 2019 Aug
+TI  - Confirmation of brain death on VA-ECMO should mandate simultaneous distal 
+      arterial and post-oxygenator blood gas sampling.
+PG  - 1165-1166
+LID - 10.1007/s00134-019-05637-7 [doi]
+FAU - Ihle, Joshua
+AU  - Ihle J
+AUID- ORCID: 0000-0001-7867-3713
+AD  - Department of Intensive Care, The Alfred Hospital, Melbourne, Australia. 
+      j.ihle@alfred.org.au.
+AD  - DonateLife, Victoria, Australia. j.ihle@alfred.org.au.
+AD  - Department of Epidemiology and Preventative Medicine, Monash University, 
+      Melbourne, Australia. j.ihle@alfred.org.au.
+FAU - Burrell, Aidan
+AU  - Burrell A
+AD  - Department of Intensive Care, The Alfred Hospital, Melbourne, Australia.
+AD  - Department of Epidemiology and Preventative Medicine, Monash University, 
+      Melbourne, Australia.
+AD  - Department of Epidemiology and Preventative Medicine, Australian and New Zealand 
+      Intensive Care Research Centre, Monash University, Melbourne, Australia.
+LA  - eng
+PT  - Comment
+PT  - Letter
+DEP - 20190516
+PL  - United States
+TA  - Intensive Care Med
+JT  - Intensive care medicine
+JID - 7704851
+SB  - IM
+CON - Intensive Care Med. 2019 Mar;45(3):364-366. doi: 10.1007/s00134-018-05510-z. 
+      PMID: 30627781
+MH  - Arteries
+MH  - Blood Specimen Collection
+MH  - Brain Death
+MH  - *Extracorporeal Membrane Oxygenation
+MH  - Humans
+MH  - Oxygenators
+EDAT- 2019/05/18 06:00
+MHDA- 2019/11/20 06:00
+CRDT- 2019/05/18 06:00
+PHST- 2019/05/02 00:00 [accepted]
+PHST- 2019/05/18 06:00 [pubmed]
+PHST- 2019/11/20 06:00 [medline]
+PHST- 2019/05/18 06:00 [entrez]
+AID - 10.1007/s00134-019-05637-7 [pii]
+AID - 10.1007/s00134-019-05637-7 [doi]
+PST - ppublish
+SO  - Intensive Care Med. 2019 Aug;45(8):1165-1166. doi: 10.1007/s00134-019-05637-7. 
+      Epub 2019 May 16.
+
+PMID- 31081209
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20200430
+LR  - 20200430
+IS  - 1440-1797 (Electronic)
+IS  - 1320-5358 (Linking)
+VI  - 24
+IP  - 12
+DP  - 2019 Dec
+TI  - Frequency and outcomes of kidney donation from intensive care patients with acute 
+      renal failure requiring renal replacement therapy.
+PG  - 1296-1303
+LID - 10.1111/nep.13601 [doi]
+AB  - BACKGROUND: Kidney transplantation is the preferred treatment for end-stage renal 
+      failure. Unfortunately, donor organ shortages prevent many individuals receiving 
+      a renal transplant and there is a need to increase the pool of appropriate 
+      donors. The presence of acute kidney injury (AKI) in deceased donors has 
+      traditionally been a relative contraindication to renal transplantation, even 
+      though renal recovery may be favorable in the absence of chronic renal disease. 
+      METHODS: We undertook an 8 years retrospective observational study of potential 
+      deceased organ donors with AKI requiring renal replacement therapy (RRT). We 
+      evaluated the rate of successful transplantation as well as short term and 
+      outcomes at a median of 19.5 (13.0-52.7) months after donation. RESULTS: Amongst 
+      1058 consented potential organ donors, 39 patients had AKI requiring RRT, of 
+      which 19 became donors (13 not medically suitable, 7 did not proceed to 
+      donation). The median (interquartile range (IQR)) donor age was 41 (34-50) years 
+      and norepinephrine, epinephrine and vasopressin were given to 18, 14 and 9 
+      donors, respectively. From the 38 donated kidneys 34 were transplanted. The 
+      median (IQR) age of recipients was 53 (42.8-58.5) years and they were dialysis 
+      free in a median (IQR) of 5.5 (2.3-10.8) days. Only minor abnormalities were 
+      found at 3 and 6 months renal biopsies, and two patients experienced graft 
+      failure in the first 12 months. CONCLUSION: Amongst deceased donors with AKI 
+      receiving RRT and vasoactive medications outcomes of renal transplantation seems 
+      acceptable in the absence of pre-existing renal failure and other donor 
+      co-morbidity. Such patients may be an important additional source of kidney 
+      donation.
+CI  - © 2019 Asian Pacific Society of Nephrology.
+FAU - Sanders, Jo M
+AU  - Sanders JM
+AUID- ORCID: 0000-0001-6174-2751
+AD  - DonateLife Victoria, Carlton, Victoria, Australia.
+FAU - Opdam, Helen I
+AU  - Opdam HI
+AD  - Austin Health, Heidelberg, Victoria, Australia.
+AD  - Organ and Tissue Authority Canberra, Canberra, Canberra ACT, Australia.
+FAU - Furniss, Hayley
+AU  - Furniss H
+AD  - DonateLife Victoria, Carlton, Victoria, Australia.
+FAU - Hughes, Peter D
+AU  - Hughes PD
+AD  - Department of Nephrology, Royal Melbourne Hospital, University of Melbourne, 
+      Melbourne, Victoria, Australia.
+AD  - Department of Medicine (RMH), Royal Melbourne Hospital, University of Melbourne, 
+      Melbourne, Victoria, Australia.
+FAU - Kanellis, John
+AU  - Kanellis J
+AD  - Department of Nephrology, Monash Health and Centre for Inflammatory Diseases, 
+      Monash University, Melbourne, Victoria, Australia.
+AD  - Department of Medicine, Monash Health and Centre for Inflammatory Diseases, 
+      Monash University, Melbourne, Victoria, Australia.
+FAU - Jones, Daryl
+AU  - Jones D
+AD  - Austin Health, Heidelberg, Victoria, Australia.
+AD  - School of Public Health and Preventive Medicine, Monash University, Melbourne, 
+      Victoria, Australia.
+AD  - Department of Surgery, University of Melbourne, Melbourne, Victoria, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Observational Study
+DEP - 20190610
+PL  - Australia
+TA  - Nephrology (Carlton)
+JT  - Nephrology (Carlton, Vic.)
+JID - 9615568
+SB  - IM
+MH  - *Acute Kidney Injury/physiopathology/therapy
+MH  - Adult
+MH  - Australia
+MH  - Donor Selection/*methods
+MH  - Female
+MH  - Graft Survival
+MH  - Humans
+MH  - *Kidney/pathology/physiopathology
+MH  - *Kidney Failure, Chronic/physiopathology/surgery
+MH  - *Kidney Transplantation/adverse effects/methods
+MH  - Male
+MH  - Middle Aged
+MH  - Outcome and Process Assessment, Health Care
+MH  - Recovery of Function/physiology
+MH  - Renal Replacement Therapy/*methods
+MH  - Tissue and Organ Harvesting/methods
+MH  - Tissue and Organ Procurement/methods
+OTO - NOTNLM
+OT  - acute renal failure
+OT  - continuous renal replacement therapy
+OT  - dialysis
+OT  - expanded criteria donor
+OT  - transplantation
+EDAT- 2019/05/14 06:00
+MHDA- 2020/05/01 06:00
+CRDT- 2019/05/14 06:00
+PHST- 2019/04/24 00:00 [accepted]
+PHST- 2019/05/14 06:00 [pubmed]
+PHST- 2020/05/01 06:00 [medline]
+PHST- 2019/05/14 06:00 [entrez]
+AID - 10.1111/nep.13601 [doi]
+PST - ppublish
+SO  - Nephrology (Carlton). 2019 Dec;24(12):1296-1303. doi: 10.1111/nep.13601. Epub 
+      2019 Jun 10.
+
+PMID- 31060909
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210120
+LR  - 20210120
+IS  - 1444-2892 (Electronic)
+IS  - 1443-9506 (Linking)
+VI  - 29
+IP  - 5
+DP  - 2020 May
+TI  - Donor Lung Referrals for Lung Transplantation: A 'Behind The Scenes' View.
+PG  - 793-799
+LID - S1443-9506(19)30346-4 [pii]
+LID - 10.1016/j.hlc.2019.04.007 [doi]
+AB  - BACKGROUND: Australia's increasing organ donor rate has translated to increased 
+      lung donor referrals and subsequent lung transplantation (LTx). The LTx sector 
+      attempts to utilise as many organs as possible-but in reality, not all are used. 
+      This analysis aims to assess the utility and efficiency of donor lung referrals 
+      to the Alfred Hospital. METHODS: All Donatelife Australia donor lung referrals 
+      for the year 2017 were analysed retrospectively. RESULTS: From a total of 440 
+      lung referrals, 220 were local from the state of Victoria (population 6.4 
+      million) and 220 from the Rest-of-Australia (ROA). Sixty-eight per cent (68%) of 
+      Victorian and 48% of the ROA were via the donation after circulatory death (DCD) 
+      pathway. One hundred and two (102) LTx were performed: 32 represent 21% of 149 
+      Victorian and 8% of 106 ROA DCD donors, 70 represent 54% of the Victorian and 24% 
+      of the ROA donation after brain death (DBD) donors. Eighty per cent (80%) of all 
+      donors aged <35 and 30% >35 years were used or potentially useable. Thirteen per 
+      cent (13%) of DCD and 44% of DBD donors aged >65 years were used. Logistical and 
+      resource considerations, around the retrieval of older DCD lungs, are a 
+      significant issue. At 11.1 LTx per-million-population the Alfred has one of the 
+      highest lung donor conversion and LTx activity rates in the world. CONCLUSION: 
+      The Australian donor lung pool could still be further extended by focussing 
+      effort and logistics on optimising DBD referrals. Additional resources (staff and 
+      transport), tighter referral criteria, and the use of extended warm ischaemic 
+      time donors could increase particularly DCD recovery rates.
+CI  - Copyright © 2019 Australian and New Zealand Society of Cardiac and Thoracic 
+      Surgeons (ANZSCTS) and the Cardiac Society of Australia and New Zealand (CSANZ). 
+      Published by Elsevier B.V. All rights reserved.
+FAU - Snell, Gregory I
+AU  - Snell GI
+AD  - Lung Transplant Service, Alfred Hospital and Monash University, Melbourne, Vic, 
+      Australia. Electronic address: g.snell@alfred.org.au.
+FAU - Levvey, Bronwyn J
+AU  - Levvey BJ
+AD  - Lung Transplant Service, Alfred Hospital and Monash University, Melbourne, Vic, 
+      Australia.
+FAU - Henriksen, Aimee
+AU  - Henriksen A
+AD  - Lung Transplant Service, Alfred Hospital and Monash University, Melbourne, Vic, 
+      Australia.
+FAU - Whitford, Helen M
+AU  - Whitford HM
+AD  - Lung Transplant Service, Alfred Hospital and Monash University, Melbourne, Vic, 
+      Australia.
+FAU - Levin, Kovi
+AU  - Levin K
+AD  - Lung Transplant Service, Alfred Hospital and Monash University, Melbourne, Vic, 
+      Australia.
+FAU - Paraskeva, Miranda
+AU  - Paraskeva M
+AD  - Lung Transplant Service, Alfred Hospital and Monash University, Melbourne, Vic, 
+      Australia.
+FAU - Kotecha, Sakhee
+AU  - Kotecha S
+AD  - Lung Transplant Service, Alfred Hospital and Monash University, Melbourne, Vic, 
+      Australia.
+FAU - Williams, Trevor
+AU  - Williams T
+AD  - Lung Transplant Service, Alfred Hospital and Monash University, Melbourne, Vic, 
+      Australia.
+FAU - Westall, Glen P
+AU  - Westall GP
+AD  - Lung Transplant Service, Alfred Hospital and Monash University, Melbourne, Vic, 
+      Australia.
+FAU - McGiffin, David
+AU  - McGiffin D
+AD  - Lung Transplant Service, Alfred Hospital and Monash University, Melbourne, Vic, 
+      Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20190426
+PL  - Australia
+TA  - Heart Lung Circ
+JT  - Heart, lung & circulation
+JID - 100963739
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Female
+MH  - Follow-Up Studies
+MH  - Graft Rejection/*epidemiology
+MH  - Humans
+MH  - Incidence
+MH  - Lung Transplantation/*methods
+MH  - Male
+MH  - Middle Aged
+MH  - *Referral and Consultation
+MH  - Retrospective Studies
+MH  - Tissue Donors/*supply & distribution
+MH  - Tissue and Organ Procurement/*methods
+MH  - Victoria/epidemiology
+MH  - Young Adult
+OTO - NOTNLM
+OT  - Donation after circulatory death
+OT  - Lung transplantation
+OT  - Organ donation
+EDAT- 2019/05/08 06:00
+MHDA- 2021/01/21 06:00
+CRDT- 2019/05/08 06:00
+PHST- 2019/02/16 00:00 [received]
+PHST- 2019/04/08 00:00 [accepted]
+PHST- 2019/05/08 06:00 [pubmed]
+PHST- 2021/01/21 06:00 [medline]
+PHST- 2019/05/08 06:00 [entrez]
+AID - S1443-9506(19)30346-4 [pii]
+AID - 10.1016/j.hlc.2019.04.007 [doi]
+PST - ppublish
+SO  - Heart Lung Circ. 2020 May;29(5):793-799. doi: 10.1016/j.hlc.2019.04.007. Epub 
+      2019 Apr 26.
+
+PMID- 29470348
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20190318
+LR  - 20190318
+IS  - 1534-6080 (Electronic)
+IS  - 0041-1337 (Print)
+IS  - 0041-1337 (Linking)
+VI  - 102
+IP  - 8
+DP  - 2018 Aug
+TI  - Predicting Expected Organ Donor Numbers in Australian Hospitals Outside of the 
+      Donate-Life Network Using the ANZICS Adult Patient Database.
+PG  - 1323-1329
+LID - 10.1097/TP.0000000000002111 [doi]
+AB  - BACKGROUND: The majority of organ donations in Australia occur in the DonateLife 
+      Network of hospitals, but limited monitoring at other sites may allow donation 
+      opportunities to be missed. Our aim was to estimate expected donor numbers using 
+      routinely collected data from the Australian and New Zealand Intensive Care 
+      Society Adult Patient Database and determine whether unrecognized potential 
+      donors might exist in non-DonateLife hospitals. METHODS: All deaths at 150 
+      Australian intensive care units (ICUs) contributing to the Australian and New 
+      Zealand Intensive Care Society Adult Patient Database were analyzed between 
+      January 2010 and December 2015. Donor numbers were extracted from the Australian 
+      and New Zealand Organ Donor registry. A univariate linear regression model was 
+      developed to estimate expected donor numbers in DonateLife hospitals, then 
+      applied to non-DonateLife hospitals. RESULTS: Of 33 614 deaths at 71 DonateLife 
+      hospitals, 6835 (20%) met criteria as "ICU deaths potentially suitable to be 
+      donors," and 1992 (6%) were actual donors. There was a consistent relationship 
+      between these groups (R = 0.626, P < 0.001) allowing the development of a 
+      prediction model which adequately estimated expected donors. Of 8077 deaths in 79 
+      non-DonateLife ICUs, 452 (6%) met criteria as potentially suitable donors. 
+      Applying the prediction model developed in DonateLife hospitals, the estimated 
+      expected donors in non-DonateLife hospitals was 130. However, there were only 75 
+      actual donors. CONCLUSIONS: It is possible to estimate the expected number of 
+      Australian organ donors using routinely collected registry data. These findings 
+      suggest that there may be a small but significant pool of underutilized potential 
+      donors in non-DonateLife hospitals. This may provide an opportunity to increase 
+      donation rates.
+FAU - OʼBrien, Yvette
+AU  - OʼBrien Y
+AD  - Department of Intensive Care Medicine, The Alfred Hospital, Commercial Road, 
+      Prahran, VIC, Australia.
+AD  - Department of Intensive Care Medicine, St Vincent's Hospital, Victoria Parade, 
+      Fitzroy, VIC, Australia.
+FAU - Chavan, Shaila
+AU  - Chavan S
+AD  - The Australian and New Zealand Intensive Care Society (ANZICS) Centre for Outcome 
+      and Resource Evaluation (CORE), Ievers Terrace, Carlton, VIC, Australia.
+FAU - Huckson, Sue
+AU  - Huckson S
+AD  - The Australian and New Zealand Intensive Care Society (ANZICS) Centre for Outcome 
+      and Resource Evaluation (CORE), Ievers Terrace, Carlton, VIC, Australia.
+FAU - Russ, Graeme
+AU  - Russ G
+AD  - The Australian and New Zealand Organ Donation Registry, Adelaide, SA, Australia.
+FAU - Opdam, Helen
+AU  - Opdam H
+AD  - The Australian Organ and Tissue Authority, London Circuit Canberra, ACT, 
+      Australia.
+AD  - Department of Intensive Care Medicine, The Austin Hospital, Heidelberg, VIC, 
+      Australia.
+FAU - Pilcher, David
+AU  - Pilcher D
+AD  - Department of Intensive Care Medicine, The Alfred Hospital, Commercial Road, 
+      Prahran, VIC, Australia.
+AD  - The Australian and New Zealand Intensive Care Society (ANZICS) Centre for Outcome 
+      and Resource Evaluation (CORE), Ievers Terrace, Carlton, VIC, Australia.
+AD  - The Australian and New Zealand Intensive Care Research Centre, Department of 
+      Epidemiology and Preventive Medicine, School of Public Health and Preventive 
+      Medicine, Monash University, VIC, Australia.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Transplantation
+JT  - Transplantation
+JID - 0132144
+SB  - IM
+MH  - Adolescent
+MH  - Adult
+MH  - Aged
+MH  - Algorithms
+MH  - Australia
+MH  - Critical Care
+MH  - Databases, Factual
+MH  - Death
+MH  - Hospitals
+MH  - Humans
+MH  - Intensive Care Units
+MH  - Linear Models
+MH  - Middle Aged
+MH  - New Zealand
+MH  - *Organ Transplantation
+MH  - Registries
+MH  - Retrospective Studies
+MH  - *Tissue Donors
+MH  - Tissue and Organ Procurement/*methods
+MH  - Young Adult
+PMC - PMC6072376
+EDAT- 2018/02/23 06:00
+MHDA- 2019/03/19 06:00
+PMCR- 2018/08/02
+CRDT- 2018/02/23 06:00
+PHST- 2018/02/23 06:00 [pubmed]
+PHST- 2019/03/19 06:00 [medline]
+PHST- 2018/02/23 06:00 [entrez]
+PHST- 2018/08/02 00:00 [pmc-release]
+AID - TP501381 [pii]
+AID - 10.1097/TP.0000000000002111 [doi]
+PST - ppublish
+SO  - Transplantation. 2018 Aug;102(8):1323-1329. doi: 10.1097/TP.0000000000002111.
+
+PMID- 28806221
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170925
+LR  - 20260127
+IS  - 1530-0293 (Electronic)
+IS  - 0090-3493 (Print)
+IS  - 0090-3493 (Linking)
+VI  - 45
+IP  - 10
+DP  - 2017 Oct
+TI  - Admission to Intensive Care for Palliative Care or Potential Organ Donation: 
+      Demographics, Circumstances, Outcomes, and Resource Use.
+PG  - e1050-e1059
+LID - 10.1097/CCM.0000000000002655 [doi]
+AB  - OBJECTIVES: To describe the characteristics, circumstances, change over time, 
+      resource use, and outcomes of patients admitted to ICUs in Australia and New 
+      Zealand for the purposes of "palliative care of a dying patient" or "potential 
+      organ donation," and compare with actively managed ICU patients. DESIGN: A 
+      retrospective study of data from the Australian and New Zealand Intensive Care 
+      Society Adult Patient Database and a nested cohort analysis of a single center. 
+      SETTING: One hundred seventy-seven ICUs in Australia and New Zealand and a nested 
+      analysis of one university-affiliated hospital ICU in Melbourne, VIC, Australia. 
+      PATIENTS: Three thousand seven hundred "palliative care of a dying patient" and 
+      1,115 "potential organ donation" patients from 2007 to 2016. The nested cohort 
+      included 192 patients. INTERVENTIONS: No interventions. Data extracted included 
+      patient demographics, diagnoses, length of stay, circumstances, and outcome of 
+      admission. MEASUREMENTS AND MAIN RESULTS: ICU admissions for "palliative care of 
+      a dying patient" and "potential organ donation" increased from 179 in 2007 to 551 
+      in 2016 and from 44 in 2007 to 174 in 2016 in each respective group, though only 
+      the "potential organ donation" cohort showed an increase in proportion of total 
+      ICU admissions. Lengths of stay in ICU were a mean of 33.8 hours (median, 17.5; 
+      interquartile range, 6.4-38.8) and 44.7 hours (26.6; 16.0-44.6), respectively, 
+      compared with 74.2 hours (41.5; 21.7-77.0) in actively managed patients. Hospital 
+      mortality was 86.6% and 95.9%, respectively. In the nested cohort of 192 
+      patients, facilitating family discussions about goals of treatment and organ 
+      donation represented the most common reason for ICU admission. CONCLUSIONS: 
+      Patients admitted to ICU to manage end-of-life care represent a small proportion 
+      of overall ICU admissions, with an increasing proportion of "potential organ 
+      donation" admissions. They have shorter ICU lengths of stay than actively managed 
+      patients, suggesting resource use for these patients is not disproportionate.
+FAU - Melville, Andrew
+AU  - Melville A
+AD  - 1Department of Anaesthesia and Perioperative Medicine, Alfred Health, Melbourne, 
+      VIC, Australia. 2Alfred Health, Melbourne, VIC, Australia. 3Department of 
+      Intensive Care, Alfred Health, Melbourne, VIC, Australia. 4Department of Aged 
+      Care, Alfred Health, Melbourne, VIC, Australia. 5Australian and New Zealand 
+      Intensive Care Society Centre for Outcomes and Resource Evaluation, Carlton, VIC, 
+      Australia. 6Australian and New Zealand Intensive Care Research Centre, School of 
+      Public Health and Preventive Medicine, Monash University, VIC, Australia.
+FAU - Kolt, Gali
+AU  - Kolt G
+FAU - Anderson, David
+AU  - Anderson D
+FAU - Mitropoulos, Joanna
+AU  - Mitropoulos J
+FAU - Pilcher, David
+AU  - Pilcher D
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Crit Care Med
+JT  - Critical care medicine
+JID - 0355501
+SB  - IM
+MH  - Aged
+MH  - Australia
+MH  - Humans
+MH  - *Intensive Care Units
+MH  - Length of Stay/statistics & numerical data
+MH  - Middle Aged
+MH  - New Zealand
+MH  - *Palliative Care
+MH  - Patient Admission/*statistics & numerical data/trends
+MH  - Resource Allocation
+MH  - Retrospective Studies
+MH  - *Tissue Donors
+MH  - Tissue and Organ Procurement
+PMC - PMC5598912
+COIS- Dr. Anderson is a Hospital Medical Director for organ donation at The Alfred 
+      Hospital in Victoria. Prof. Pilcher is a medical advisor for DonateLife in 
+      Victoria. The remaining authors have disclosed that they do not have any 
+      potential conflicts of interest.
+EDAT- 2017/08/15 06:00
+MHDA- 2017/09/26 06:00
+PMCR- 2017/09/14
+CRDT- 2017/08/15 06:00
+PHST- 2017/08/15 06:00 [pubmed]
+PHST- 2017/09/26 06:00 [medline]
+PHST- 2017/08/15 06:00 [entrez]
+PHST- 2017/09/14 00:00 [pmc-release]
+AID - 10.1097/CCM.0000000000002655 [doi]
+PST - ppublish
+SO  - Crit Care Med. 2017 Oct;45(10):e1050-e1059. doi: 10.1097/CCM.0000000000002655.
+
+PMID- 28398658
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20180409
+LR  - 20260127
+IS  - 1440-1754 (Electronic)
+IS  - 1034-4810 (Linking)
+VI  - 53
+IP  - 6
+DP  - 2017 Jun
+TI  - Challenges of paediatric organ donation.
+PG  - 534-539
+LID - 10.1111/jpc.13541 [doi]
+AB  - Paediatric organ donation represents a small fraction of overall organ donation 
+      in Australia and New Zealand and indeed world-wide. Many factors contribute to 
+      low donation rates including low paediatric intensive care mortality, consent 
+      rates and medical suitability relating to disease, age and size. In the past 
+      decade, the re-emergence of donation after circulatory death has changed the 
+      landscape for the paediatric population. This article reviews the current status 
+      and challenges of organ donation for the paediatric population.
+CI  - © 2017 Paediatrics and Child Health Division (The Royal Australasian College of 
+      Physicians).
+FAU - Gelbart, Ben
+AU  - Gelbart B
+AD  - Paediatric Intensive Care Unit, Royal Children's Hospital, Murdoch Children's 
+      Research Institute, DonateLife, Victoria, Melbourne, Victoria, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20170411
+PL  - Australia
+TA  - J Paediatr Child Health
+JT  - Journal of paediatrics and child health
+JID - 9005421
+SB  - IM
+MH  - Australia
+MH  - Child
+MH  - Child, Preschool
+MH  - Death
+MH  - *Decision Making
+MH  - Female
+MH  - Humans
+MH  - *Intensive Care Units, Pediatric
+MH  - Male
+MH  - Needs Assessment
+MH  - New Zealand
+MH  - Tissue Donors/*statistics & numerical data
+MH  - Tissue and Organ Procurement/*organization & administration
+OTO - NOTNLM
+OT  - brain death
+OT  - consent
+OT  - infant
+OT  - newborn
+OT  - paediatric intensive care unit
+OT  - tissue and organ procurement
+EDAT- 2017/04/12 06:00
+MHDA- 2018/04/10 06:00
+CRDT- 2017/04/12 06:00
+PHST- 2016/06/07 00:00 [received]
+PHST- 2017/01/20 00:00 [revised]
+PHST- 2017/01/20 00:00 [accepted]
+PHST- 2017/04/12 06:00 [pubmed]
+PHST- 2018/04/10 06:00 [medline]
+PHST- 2017/04/12 06:00 [entrez]
+AID - 10.1111/jpc.13541 [doi]
+PST - ppublish
+SO  - J Paediatr Child Health. 2017 Jun;53(6):534-539. doi: 10.1111/jpc.13541. Epub 
+      2017 Apr 11.
+
+PMID- 27608344
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170615
+LR  - 20190319
+IS  - 0310-057X (Print)
+IS  - 0310-057X (Linking)
+VI  - 44
+IP  - 5
+DP  - 2016 Sep
+TI  - The Alfred Hospital experience of resumption of cardiac activity after withdrawal 
+      of life-sustaining therapy.
+PG  - 605-6
+AB  - With the advent of donation after circulatory death programs in Australia and New 
+      Zealand, greater knowledge is needed about physiologic variation in haemodynamic 
+      activity following withdrawal of cardiorespiratory support. The ANZICS Statement 
+      on Death and Organ Donation allows provision for variation in the observation 
+      times between two and five minutes after cessation of the circulation prior to 
+      declaration of death. We report our experience of two cases, the first where 
+      electrical activity and pulse returned after a 102 second pause and the second 
+      where electrical activity returned after a three minute pause; both longer than 
+      previously reported cases.
+FAU - Yong, S A
+AU  - Yong SA
+AD  - Intensivist, Department of Intensive Care, The Alfred Hospital, Melbourne, 
+      Victoria.
+FAU - D'Souza, S
+AU  - D'Souza S
+AD  - Donation Specialist Nursing , Department of Intensive Care, The Alfred Hospital, 
+      Melbourne, Victoria.
+FAU - Philpot, S
+AU  - Philpot S
+AD  - Intensivist, Department of Intensive Care, Cabrini Hospital, Adjunct Senior 
+      Lecturer, Monash University, Melbourne, Victoria.
+FAU - Pilcher, D V
+AU  - Pilcher DV
+AD  - Intensivist, Department of Intensive Care, The Alfred Hospital, Adjunct Clinical 
+      Professor, Department of Epidemiology & Preventive Medicine, Monash University, 
+      Chairman, ANZICS Centre for Outcome and Resource Evaluation, Director, ANZICS 
+      Adult Patient Database, Medical Advisor, DonateLife, Melbourne, Victoria.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - United States
+TA  - Anaesth Intensive Care
+JT  - Anaesthesia and intensive care
+JID - 0342017
+SB  - IM
+MH  - *Electrocardiography
+MH  - Female
+MH  - *Heart Arrest
+MH  - Hospitals
+MH  - Humans
+MH  - Middle Aged
+MH  - *Tissue and Organ Procurement
+OTO - NOTNLM
+OT  - organ donation, donation after cardiac death, end of life, death, dying, 
+      determination of death, declaration of death, cessation of circulation
+EDAT- 2016/09/09 06:00
+MHDA- 2017/06/16 06:00
+CRDT- 2016/09/09 06:00
+PHST- 2016/09/09 06:00 [entrez]
+PHST- 2016/09/09 06:00 [pubmed]
+PHST- 2017/06/16 06:00 [medline]
+AID - 20150567 [pii]
+AID - 10.1177/0310057X1604400508 [doi]
+PST - ppublish
+SO  - Anaesth Intensive Care. 2016 Sep;44(5):605-6. doi: 10.1177/0310057X1604400508.
+
+PMID- 27456178
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160922
+LR  - 20190319
+IS  - 0310-057X (Print)
+IS  - 0310-057X (Linking)
+VI  - 44
+IP  - 4
+DP  - 2016 Jul
+TI  - Organ donation after circulatory death in a university teaching hospital.
+PG  - 477-83
+AB  - Although organ transplantation is well established for end-stage organ failure, 
+      many patients die on waiting lists due to insufficient donor numbers. Recently, 
+      there has been renewed interest in donation after circulatory death (DCD). In a 
+      retrospective observational study we reviewed the screening of patients 
+      considered for DCD between March 2007 and December 2012 in our hospital. Overall, 
+      148 patients were screened, 17 of whom were transferred from other hospitals. 
+      Ninety-three patients were excluded (53 immediately and 40 after review by 
+      donation staff). The 55 DCD patients were younger than those excluded (P=0.007) 
+      and they died from hypoxic brain injury (43.6%), intraparenchymal haemorrhage 
+      (21.8%) and subarachnoid haemorrhage (14.5%). Antemortem heparin administration 
+      and bronchoscopy occurred in 50/53 (94.3%) and 22/55 (40%) of cases, 
+      respectively. Forty-eight patients died within 90 minutes and proceeded to 
+      donation surgery. Associations with not dying in 90 minutes included spontaneous 
+      ventilation mode (P=0.022), absence of noradrenaline infusion (P=0.051) and 
+      higher PaO2:FiO2 ratio (P=0.052). The number of brain dead donors did not 
+      decrease over the study period. The time interval between admission and death was 
+      longer for DCD than for the 45 brain dead donors (5 [3-11] versus 2 [2-3] days; 
+      P<0.001), and 95 additional patients received organ transplants due to DCD. 
+      Introducing a DCD program can increase potential organ donors without reducing 
+      brain dead donors. Antemortem investigations appear to be acceptable to relatives 
+      when included in the consent process.
+FAU - Sidiropoulos, S
+AU  - Sidiropoulos S
+AD  - Anaesthesia Research Coordinator, Austin Health, ANZCA Clinical Trials Network 
+      Coordinator, Monash University, Melbourne, Victoria.
+FAU - Treasure, E
+AU  - Treasure E
+AD  - Organ Donor Coordinator, DonateLife Victoria, Victoria.
+FAU - Silvester, W
+AU  - Silvester W
+AD  - Director, Respecting Patient Choices, Medical Consultant, DonateLife Victoria, 
+      Adjunct Associate Professor, University of Melbourne, Victoria, Adjunct Associate 
+      Professor, University of Sydney, NSW.
+FAU - Opdam, H
+AU  - Opdam H
+AD  - Director of Intensive Care, Warringal Private Hospital, Victoria, National 
+      Medical Director, Organ and Tissue Authority, Canberra, ACT.
+FAU - Warrillow, S J
+AU  - Warrillow SJ
+AD  - Deputy Director of Intensive Care and Medical Donation Specialist, Austin Health, 
+      Director of Intensive Care, Epworth Eastern Private Hospital, Senior Lecturer and 
+      Research Fellow, The University of Melbourne, Melbourne, Victoria.
+FAU - Jones, D
+AU  - Jones D
+AD  - A/Prof, Department of Epidemiology and Preventive Medicine, Monash University, 
+      Consultant Intensive Care Specialist, Austin Health, Adjunct Associate Professor, 
+      University of Melbourne, Medical Director Critical Care Outreach, Austin 
+      Hospital, Victoria.
+LA  - eng
+PT  - Journal Article
+PL  - United States
+TA  - Anaesth Intensive Care
+JT  - Anaesthesia and intensive care
+JID - 0342017
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Brain Death
+MH  - Female
+MH  - *Heart Arrest
+MH  - Hospitals, University
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Retrospective Studies
+MH  - *Tissue and Organ Procurement
+OTO - NOTNLM
+OT  - donation after cardiac death
+OT  - donation after circulatory death
+OT  - organ donation
+EDAT- 2016/07/28 06:00
+MHDA- 2016/09/23 06:00
+CRDT- 2016/07/27 06:00
+PHST- 2016/07/27 06:00 [entrez]
+PHST- 2016/07/28 06:00 [pubmed]
+PHST- 2016/09/23 06:00 [medline]
+AID - 20150217 [pii]
+AID - 10.1177/0310057X1604400402 [doi]
+PST - ppublish
+SO  - Anaesth Intensive Care. 2016 Jul;44(4):477-83. doi: 10.1177/0310057X1604400402.
+
+PMID- 27322832
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170717
+LR  - 20190213
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 11
+IP  - 6
+DP  - 2016
+TI  - Randomised, Double Blind, Controlled Trial of the Provision of Information about 
+      the Benefits of Organ Donation during a Family Donation Conversation.
+PG  - e0155778
+LID - 10.1371/journal.pone.0155778 [doi]
+LID - e0155778
+AB  - INTRODUCTION: It is unclear how much information should be provided to families 
+      of potential organ donors about the benefits of organ donation. Whilst this 
+      information is material to the donation decision, it may also be perceived as 
+      coercive. METHODS: Randomised, double blind, controlled trial in which community 
+      members watched one of two videos of a simulated organ donation conversation that 
+      differed only in the amount of information provided about the benefits of 
+      donation. Participants then completed a questionnaire about the adequacy of the 
+      information provided and the degree to which they felt the doctor was trying to 
+      convince the family member to say yes to donation. RESULTS: There was a wide 
+      variability in what participants considered was the "right" amount of information 
+      about organ donation. Those who watched the conversation that included 
+      information about the benefits of donation were more likely to feel that the 
+      information provided to the family was sufficient. They were more likely to 
+      report that the doctor was trying to convince the family member to say yes to 
+      donation, yet were no more likely to feel uncomfortable or to feel that the 
+      doctor was uncaring or cared more about transplant recipients than he did for the 
+      patient and their family. CONCLUSIONS: This study suggests that community members 
+      are comfortable with health care staff providing information to family members 
+      that may be influential in supporting them to give consent for donation.
+FAU - Philpot, Steve John
+AU  - Philpot SJ
+AUID- ORCID: 0000-0002-6091-9495
+AD  - Alfred Health, Melbourne, Victoria, Australia.
+AD  - DonateLife Victoria, Melbourne, Victoria, Australia.
+AD  - Monash University, Melbourne, Victoria, Australia.
+FAU - Aranha, Sarah
+AU  - Aranha S
+AD  - DonateLife Victoria, Melbourne, Victoria, Australia.
+FAU - Pilcher, David V
+AU  - Pilcher DV
+AD  - Alfred Health, Melbourne, Victoria, Australia.
+AD  - DonateLife Victoria, Melbourne, Victoria, Australia.
+AD  - Department Epidemiology and Preventive Medicine, Monash University, Melbourne, 
+      Victoria, Australia.
+FAU - Bailey, Michael
+AU  - Bailey M
+AD  - Australian and New Zealand Intensive Care Research Centre, Melbourne, Victoria, 
+      Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+DEP - 20160620
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+SB  - IM
+MH  - Adult
+MH  - Decision Making
+MH  - Double-Blind Method
+MH  - Family/*psychology
+MH  - Female
+MH  - Humans
+MH  - Intensive Care Units
+MH  - Male
+MH  - Middle Aged
+MH  - Organ Transplantation/ethics/*psychology
+MH  - Surveys and Questionnaires
+MH  - Tissue Donors/ethics/*psychology
+MH  - *Tissue and Organ Procurement
+PMC - PMC4913899
+COIS- Competing Interests: The authors have declared that no competing interests exist.
+EDAT- 2016/06/21 06:00
+MHDA- 2017/07/18 06:00
+PMCR- 2016/06/20
+CRDT- 2016/06/21 06:00
+PHST- 2016/01/05 00:00 [received]
+PHST- 2016/05/04 00:00 [accepted]
+PHST- 2016/06/21 06:00 [entrez]
+PHST- 2016/06/21 06:00 [pubmed]
+PHST- 2017/07/18 06:00 [medline]
+PHST- 2016/06/20 00:00 [pmc-release]
+AID - PONE-D-16-00347 [pii]
+AID - 10.1371/journal.pone.0155778 [doi]
+PST - epublish
+SO  - PLoS One. 2016 Jun 20;11(6):e0155778. doi: 10.1371/journal.pone.0155778. 
+      eCollection 2016.
+
+PMID- 26673595
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20160211
+LR  - 20190302
+IS  - 0310-057X (Print)
+IS  - 0310-057X (Linking)
+VI  - 44
+IP  - 1
+DP  - 2016 Jan
+TI  - Potential donor families' experiences of organ and tissue donation-related 
+      communication, processes and outcome.
+PG  - 99-106
+AB  - We aimed to describe the experiences of families of potential organ and tissue 
+      donors eligible for donation after circulatory death or brain death. Forty-nine 
+      family members of potential donors from four Melbourne hospitals were interviewed 
+      to assess their experiences of communication, processes and the outcomes of 
+      donation. Interviews were recorded, transcribed verbatim and analysed 
+      thematically. Families expressed a range of perspectives on themes of 
+      communication, hospital processes and care, the processes of consent and donation 
+      and reflected on decisions and outcomes. They expressed satisfaction overall with 
+      communication when receiving bad news, discussing death and donation. Honest and 
+      frank communication and being kept up-to-date and prepared for potential outcomes 
+      were important aspects for families, especially those of post circulatory death 
+      donors. Participants reported high levels of trust in healthcare professionals 
+      and satisfaction with the level of care received. Many donor families indicated 
+      the process was lengthy and stressful, but not significantly enough to adversely 
+      affect their satisfaction with the outcome. Both the decision itself and knowing 
+      others' lives had been saved provided them with consolation. No consenting 
+      families, and only some non-consenting families, regretted their decisions. Many 
+      expressed they would benefit from a follow-up opportunity to ask questions and 
+      clarify possible misunderstandings. Overall, while experiences varied, Australian 
+      families valued frank communication, trusted health professionals, were satisfied 
+      with the care their family member received and with donation processes, despite 
+      some apparent difficulties. Family satisfaction, infrequently assessed, is an 
+      important outcome and these findings may assist education for Australian organ 
+      donation professionals.
+FAU - Marck, C H
+AU  - Marck CH
+AD  - Emergency Practice Innovation Centre, St Vincent's Hospital, Melbourne, Victoria.
+FAU - Neate, S L
+AU  - Neate SL
+AD  - Emergency Department, St Vincent's Hospital, Melbourne, Victoria.
+FAU - Skinner, M
+AU  - Skinner M
+AD  - DonateLife Victoria, Melbourne, Victoria.
+FAU - Dwyer, B
+AU  - Dwyer B
+AD  - Organ and Tissue Authority, Canberra, Australian Capital Territory.
+FAU - Hickey, B B
+AU  - Hickey BB
+AD  - Intensive Care unit, St Vincent's Hospital, Melbourne, Victoria.
+FAU - Radford, S T
+AU  - Radford ST
+AD  - Intensive Care Unit, Austin Hospital, Melbourne, Victoria.
+FAU - Weiland, T J
+AU  - Weiland TJ
+AD  - Emergency Practice Innovation Centre, St Vincent's Hospital, Melbourne, Victoria.
+FAU - Jelinek, G A
+AU  - Jelinek GA
+AD  - Practice Innovation Centre, St Vincent's Hospital, Melbourne, Victoria.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Anaesth Intensive Care
+JT  - Anaesthesia and intensive care
+JID - 0342017
+SB  - IM
+MH  - *Communication
+MH  - Family
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Personal Satisfaction
+MH  - *Tissue Donors
+MH  - *Tissue and Organ Procurement
+OTO - NOTNLM
+OT  - brain death
+OT  - circulatory death
+OT  - consent
+OT  - donor family
+OT  - intensive care
+OT  - organ donation
+EDAT- 2015/12/18 06:00
+MHDA- 2016/02/13 06:00
+CRDT- 2015/12/18 06:00
+PHST- 2015/12/18 06:00 [entrez]
+PHST- 2015/12/18 06:00 [pubmed]
+PHST- 2016/02/13 06:00 [medline]
+AID - 20150213 [pii]
+AID - 10.1177/0310057X1604400115 [doi]
+PST - ppublish
+SO  - Anaesth Intensive Care. 2016 Jan;44(1):99-106. doi: 10.1177/0310057X1604400115.
+
+PMID- 25579288
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20150303
+LR  - 20190302
+IS  - 0310-057X (Print)
+IS  - 0310-057X (Linking)
+VI  - 43
+IP  - 1
+DP  - 2015 Jan
+TI  - Understanding Australian families' organ donation decisions.
+PG  - 42-50
+AB  - Numbers of deceased organ donors in Australia have increased, but rates of 
+      consent to donation remain at around 60%. Increasing family consent is a key 
+      target for the Australian Organ and Tissue Authority. Reasons for donation 
+      decisions have been reported in the international literature, but little is known 
+      of reasons for Australian families' decisions. Potential organ donors in four 
+      Melbourne hospitals were identified and 49 participants from 40 families (23 
+      consenting and 17 non-consenting) were interviewed to understand reasons for 
+      consent decisions. Themes for consent to organ donation included that: donation 
+      was consistent with the deceased's explicit wishes or known values, the desire to 
+      help others or self-including themes of altruism, pragmatism, preventing others 
+      from being in the same position, consolation received from donation and aspects 
+      of the donation conversation and care that led families to believe donation was 
+      right for them. Themes for non-consent included: lack of knowledge of wishes; 
+      social, cultural and religious beliefs; factors related to the donation process 
+      and family exhaustion; and conversation factors where negative events influenced 
+      decisions. While reasons for consent were similar to those described in 
+      international literature, reasons for non-consent differed in that there was 
+      little emphasis on lack of trust of the medical profession, concerns regarding 
+      level of care provided to the potential donor, preserving the deceased's body, 
+      fears of body invasion or organ allocation fairness.
+FAU - Neate, S L
+AU  - Neate SL
+AD  - Emergency Department, St Vincent's Hospital, Melbourne, Victoria.
+FAU - Marck, C H
+AU  - Marck CH
+AD  - Emergency Practice Innovation Centre, St Vincent's Hospital, Melbourne, Victoria.
+FAU - Skinner, M
+AU  - Skinner M
+AD  - DonateLife Victoria, Melbourne, Victoria.
+FAU - Dwyer, B
+AU  - Dwyer B
+AD  - Organ and Tissue Authority, Canberra, Australian Capital Territory.
+FAU - McGain, F
+AU  - McGain F
+AD  - Intensive Care Unit, Western Hospital, Melbourne, Victoria.
+FAU - Weiland, T J
+AU  - Weiland TJ
+AD  - Emergency Practice Innovation Centre, St Vincent's Hospital, Melbourne, Victoria.
+FAU - Hickey, B B
+AU  - Hickey BB
+AD  - Intensive Care Unit, St Vincent's Hospital, Melbourne, Victoria.
+FAU - Jelinek, G A
+AU  - Jelinek GA
+AD  - Emergency Practice Innovation Centre, St Vincent's Hospital, Melbourne, Victoria.
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - United States
+TA  - Anaesth Intensive Care
+JT  - Anaesthesia and intensive care
+JID - 0342017
+SB  - IM
+CIN - Anaesth Intensive Care. 2015 Jan;43(1):12-3. doi: 10.1177/0310057X1504300103. 
+      PMID: 25579284
+MH  - Altruism
+MH  - *Attitude to Death
+MH  - Australia
+MH  - Decision Making/*physiology
+MH  - Family/*psychology
+MH  - Female
+MH  - Humans
+MH  - Interviews as Topic/methods
+MH  - Male
+MH  - Tissue Donors/*psychology
+MH  - *Tissue and Organ Procurement
+OTO - NOTNLM
+OT  - altruism
+OT  - human rights
+OT  - tissue and organ procurement
+OT  - tissue donors
+EDAT- 2015/01/13 06:00
+MHDA- 2015/03/04 06:00
+CRDT- 2015/01/13 06:00
+PHST- 2015/01/13 06:00 [entrez]
+PHST- 2015/01/13 06:00 [pubmed]
+PHST- 2015/03/04 06:00 [medline]
+AID - 20140415 [pii]
+AID - 10.1177/0310057X1504300107 [doi]
+PST - ppublish
+SO  - Anaesth Intensive Care. 2015 Jan;43(1):42-50. doi: 10.1177/0310057X1504300107.
+
+PMID- 23116566
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20130702
+LR  - 20260128
+IS  - 0156-5788 (Print)
+IS  - 0156-5788 (Linking)
+VI  - 37
+IP  - 1
+DP  - 2013 Feb
+TI  - Resource barriers to the facilitation of organ and tissue donation reported by 
+      Australian emergency clinicians.
+PG  - 60-5
+LID - 10.1071/AH11121 [doi]
+AB  - OBJECTIVE: To explore emergency department clinicians' perceived resource 
+      barriers to facilitating organ and tissue donation (OTD). METHODS: A 
+      cross-sectional national online survey of Australian emergency department (ED) 
+      clinicians. RESULTS: ED clinicians reported a range of resource barriers that 
+      hinder the facilitation of OTD, most notably a lack of time to discuss OTD with a 
+      patient's family (74.6%). Those reporting more resource barriers had been less 
+      involved in OTD-related tasks. For example, those reporting a lack of time to 
+      assess a patient's suitability to be a potential donor had less experience with 
+      OTD-related tasks in the last calendar year than did those who reported that they 
+      often or always have enough time for this (P<0.01). In addition, ED clinicians 
+      working in DonateLife network hospitals were more involved in OTD-related tasks 
+      (P<0.01) and reported fewer resource shortages in the ED and the hospital 
+      overall. CONCLUSIONS: Resource shortages hinder the facilitation of OTD in the ED 
+      and are related to decreased involvement in OTD-related tasks. In addition, ED 
+      clinicians working in DonateLife hospitals are more involved in OTD-related tasks 
+      and report fewer resource shortages overall. Addressing resource shortages and 
+      extending the DonateLife network could benefit OTD rates initiated from the ED.
+FAU - Marck, Claudia H
+AU  - Marck CH
+AD  - Emergency Practice Innovation Centre, St. Vincent's Hospital Melbourne, 35 
+      Victoria Parade, Fitzroy, VIC. 3065, Australia. claudia.marck@svhm.org.au
+FAU - Jelinek, George A
+AU  - Jelinek GA
+FAU - Neate, Sandra L
+AU  - Neate SL
+FAU - Dwyer, Bernadine M
+AU  - Dwyer BM
+FAU - Hickey, Bernadette B
+AU  - Hickey BB
+FAU - Weiland, Tracey J
+AU  - Weiland TJ
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, Non-U.S. Gov't
+PL  - Australia
+TA  - Aust Health Rev
+JT  - Australian health review : a publication of the Australian Hospital Association
+JID - 8214381
+MH  - Adult
+MH  - *Attitude of Health Personnel
+MH  - Australia
+MH  - Cross-Sectional Studies
+MH  - Emergency Service, Hospital/organization & administration/*statistics & numerical 
+      data
+MH  - Female
+MH  - Health Care Surveys
+MH  - Health Resources/standards/*statistics & numerical data
+MH  - Humans
+MH  - Internet
+MH  - Male
+MH  - Middle Aged
+MH  - Organizational Culture
+MH  - Organizational Policy
+MH  - Time Factors
+MH  - Tissue Donors/*supply & distribution
+MH  - Tissue and Organ Procurement/*statistics & numerical data
+MH  - Waiting Lists
+MH  - Workforce
+MH  - Young Adult
+EDAT- 2012/11/03 06:00
+MHDA- 2013/07/03 06:00
+CRDT- 2012/11/03 06:00
+PHST- 2011/12/05 00:00 [received]
+PHST- 2012/05/13 00:00 [accepted]
+PHST- 2012/11/03 06:00 [entrez]
+PHST- 2012/11/03 06:00 [pubmed]
+PHST- 2013/07/03 06:00 [medline]
+AID - AH11121 [pii]
+AID - 10.1071/AH11121 [doi]
+PST - ppublish
+SO  - Aust Health Rev. 2013 Feb;37(1):60-5. doi: 10.1071/AH11121.
+
+PMID- 28954604
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20171004
+LR  - 20260127
+IS  - 1326-5377 (Electronic)
+IS  - 0025-729X (Linking)
+VI  - 207
+IP  - 7
+DP  - 2017 Sep 2
+TI  - Untapped potential in Australian hospitals for organ donation after circulatory 
+      death.
+PG  - 294-301
+AB  - OBJECTIVE: To determine the potential for organ donation after circulatory death 
+      (DCD) in Australia by applying ideal and expanded organ suitability criteria, and 
+      to compare this potential with actual DCD rates. DESIGN: Retrospective cohort 
+      study. Setting, methods: We analysed DonateLife audit data for patients aged 28 
+      days to 80 years who died between July 2012 and December 2014 in an intensive 
+      care unit or emergency department, or who died within 24 hours of discharge from 
+      either, in the 75 Australian hospitals contributing data to DonateLife. Ideal and 
+      expanded organ donation criteria were derived from international and national 
+      guidelines, and from expert opinion. Potential DCD organ donors were identified 
+      by applying these criteria to patients who had been intubated and were neither 
+      confirmed as being brain-dead nor likely to have met brain death criteria at the 
+      official time of death. RESULTS: 8780 eligible patients were identified, of whom 
+      202 were actual DCD donors. For 193 potential ideal (61%) and 313 potential 
+      expanded criteria DCD donors (72%), organ donation had not been discussed with 
+      their families; most were potential donors of kidneys (416 potential donors) or 
+      lungs (117 potential donors). Potential donors were typically older, dying of 
+      non-neurological causes, and more frequently had chronic organ disease than 
+      actual donors. Identifying all these potential donors, assuming a consent rate of 
+      60%, would have increased Australia's donation rate from 16.1 to 21.3 per million 
+      population in 2014. CONCLUSIONS: The untapped potential for DCD in Australia, 
+      particularly of kidneys and lungs, is significant. Systematic review of all 
+      patients undergoing end-of-life care in critical care environments for donor 
+      suitability could result in significant increases in organ donation rates.
+FAU - Rakhra, Sandeep S
+AU  - Rakhra SS
+AD  - Alfred Health, Melbourne, VIC sandeeprakhra@gmail.com.
+FAU - Opdam, Helen I
+AU  - Opdam HI
+AD  - Austin Health, Melbourne, VIC.
+FAU - Gladkis, Laura
+AU  - Gladkis L
+AD  - Australian Organ and Tissue Authority, Canberra, ACT.
+FAU - Arcia, Byron
+AU  - Arcia B
+AD  - Australian Organ and Tissue Authority, Canberra, ACT.
+FAU - Fink, Michael A
+AU  - Fink MA
+AD  - Austin Health, Melbourne, VIC.
+FAU - Kanellis, John
+AU  - Kanellis J
+AD  - Monash Health, Melbourne, VIC.
+FAU - Macdonald, Peter S
+AU  - Macdonald PS
+AD  - St Vincent's Hospital, Sydney, NSW.
+FAU - Snell, Gregory I
+AU  - Snell GI
+AD  - Alfred Health, Melbourne, VIC.
+FAU - Pilcher, David V
+AU  - Pilcher DV
+LA  - eng
+PT  - Journal Article
+PL  - Australia
+TA  - Med J Aust
+JT  - The Medical journal of Australia
+JID - 0400714
+SB  - IM
+CIN - Med J Aust. 2017 Sep 2;207(7):287-288. doi: 10.5694/mja17.00590. PMID: 28954614
+CIN - Med J Aust. 2018 Apr 2;208(6):276. doi: 10.5694/mja16.01405. PMID: 29614944
+MH  - Adult
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Australia
+MH  - *Donor Selection
+MH  - *Hospital Administration
+MH  - Humans
+MH  - Middle Aged
+MH  - Retrospective Studies
+MH  - Terminal Care
+MH  - Time Factors
+MH  - *Tissue Donors/statistics & numerical data/supply & distribution
+MH  - Tissue and Organ Procurement/*methods/statistics & numerical data
+OTO - NOTNLM
+OT  - Cardiac transplantation
+OT  - Intensive care
+OT  - Kidney transplantation
+OT  - Liver transplantation
+OT  - Lung transplantation
+OT  - Tissue and organ procurement
+EDAT- 2017/09/29 06:00
+MHDA- 2017/10/05 06:00
+CRDT- 2017/09/29 06:00
+PHST- 2016/12/08 00:00 [received]
+PHST- 2017/03/31 00:00 [accepted]
+PHST- 2017/09/29 06:00 [entrez]
+PHST- 2017/09/29 06:00 [pubmed]
+PHST- 2017/10/05 06:00 [medline]
+AID - 10.5694/mja16.01405 [pii]
+AID - 10.5694/mja16.01405 [doi]
+PST - ppublish
+SO  - Med J Aust. 2017 Sep 2;207(7):294-301. doi: 10.5694/mja16.01405.
+
+PMID- 31160214
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210311
+LR  - 20210311
+IS  - 1036-7314 (Print)
+IS  - 1036-7314 (Linking)
+VI  - 33
+IP  - 2
+DP  - 2020 Mar
+TI  - Exploring staff perceptions of organ donation after circulatory death.
+PG  - 175-180
+LID - S1036-7314(18)30189-9 [pii]
+LID - 10.1016/j.aucc.2019.05.001 [doi]
+AB  - BACKGROUND AND OBJECTIVE: Solid organ donation remains low in Australia; however, 
+      donation after circulatory death (DCD) bolsters rates and is associated with good 
+      short- and long-term clinical outcomes among recipients, especially in lung and 
+      kidney recipients. However, its reintroduction is met with resistance within 
+      hospitals. The aim of the present study was to develop a greater understanding of 
+      DCD perceptions among staff involved. METHODS: This descriptive exploratory study 
+      incorporated open-ended and scaled questions with intensive care staff at a 
+      public tertiary teaching hospital in Australia. Interviews were digitally 
+      recorded and transcribed verbatim before thematic analysis. Quantitative 
+      responses were assessed using a 10-point Likert scale. RESULTS: Twelve 
+      participants were interviewed. Responses to the Likert scale questions were 
+      averaged. Donation after brain death was unanimously accepted (average = 10.0), 
+      whereas DCD acceptance was lower but remained supported (average = 8.8). 
+      Interview responses generated five themes, each containing subthemes. Respondents 
+      had concerns with DCD where perceptions existed that DCD would increase family 
+      distress, from either timeframes not being met or logistical delays. A second 
+      major source of concern stemmed from personal conflict relating to their role. 
+      There was difficulty transitioning from primarily sustaining life or facilitating 
+      palliation alone to advocating for DCD, especially where there was perceived 
+      potential for deviations from standard palliation in analgesia, sedation, and 
+      investigations. Overall, concerns were overcome by reliance on a supportive work 
+      environment, rationalisation of concerns over time, and reliance on protocols. 
+      CONCLUSIONS: Supportive leadership within the hospital's intensive care unit 
+      meant DCD occurred with minimal institutional resistance. However, some 
+      individual concerns surrounding DCD were identified. These may be present and 
+      amplified in other centres. More study is required in centres where institutional 
+      resistance to DCD is identified so that DCD may be further promoted to expand the 
+      donor pool.
+CI  - Copyright © 2019 Australian College of Critical Care Nurses Ltd. Published by 
+      Elsevier Ltd. All rights reserved.
+FAU - Milross, Luke A
+AU  - Milross LA
+AD  - Department of Intensive Care, The Alfred Hospital, 55 Commercial Rd, Melbourne 
+      VIC, 3004, Australia; School of Medicine, University of Notre Dame Sydney, 160 
+      Oxford St, Darlinghurst NSW, 2010, Australia. Electronic address: 
+      L.Milross@alfred.org.au.
+FAU - O'Donnell, Thomas G
+AU  - O'Donnell TG
+AD  - School of Medicine, University of Notre Dame Sydney, 160 Oxford St, Darlinghurst 
+      NSW, 2010, Australia.
+FAU - Bucknall, Tracey K
+AU  - Bucknall TK
+AD  - Centre for Quality and Patient Safety Research, Deakin University, 221 Burwood 
+      Highway, Burwood VIC, 3125, Australia; The Australian and New Zealand Intensive 
+      Care Research Centre, Monash University, 553 St Kilda Road, Melbourne VIC 3004, 
+      Australia.
+FAU - Pilcher, David V
+AU  - Pilcher DV
+AD  - Department of Intensive Care, The Alfred Hospital, 55 Commercial Rd, Melbourne 
+      VIC, 3004, Australia; The Australian and New Zealand Intensive Care Research 
+      Centre, Monash University, 553 St Kilda Road, Melbourne VIC 3004, Australia.
+FAU - Ihle, Joshua F
+AU  - Ihle JF
+AD  - Department of Intensive Care, The Alfred Hospital, 55 Commercial Rd, Melbourne 
+      VIC, 3004, Australia; Department of Epidemiology and Preventive Medicine, Monash 
+      University, 99 Commercial Road, Melbourne VIC 3004, Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20190531
+PL  - Australia
+TA  - Aust Crit Care
+JT  - Australian critical care : official journal of the Confederation of Australian 
+      Critical Care Nurses
+JID - 9207852
+MH  - Adult
+MH  - Australia
+MH  - Brain Death
+MH  - Female
+MH  - Health Knowledge, Attitudes, Practice
+MH  - *Health Personnel
+MH  - Humans
+MH  - Intensive Care Units
+MH  - Male
+MH  - *Perception
+MH  - Retrospective Studies
+MH  - Tissue and Organ Procurement/*methods
+OTO - NOTNLM
+OT  - DBD: Donation after brain death
+OT  - DCD: Donation after circulatory death
+OT  - Organ donation
+OT  - Transplantation
+EDAT- 2019/06/05 06:00
+MHDA- 2021/03/12 06:00
+CRDT- 2019/06/05 06:00
+PHST- 2018/08/02 00:00 [received]
+PHST- 2019/04/06 00:00 [revised]
+PHST- 2019/05/02 00:00 [accepted]
+PHST- 2019/06/05 06:00 [pubmed]
+PHST- 2021/03/12 06:00 [medline]
+PHST- 2019/06/05 06:00 [entrez]
+AID - S1036-7314(18)30189-9 [pii]
+AID - 10.1016/j.aucc.2019.05.001 [doi]
+PST - ppublish
+SO  - Aust Crit Care. 2020 Mar;33(2):175-180. doi: 10.1016/j.aucc.2019.05.001. Epub 
+      2019 May 31.
+
+PMID- 42020936
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20260715
+LR  - 20260813
+IS  - 1326-5377 (Electronic)
+IS  - 0025-729X (Print)
+IS  - 0025-729X (Linking)
+VI  - 224
+IP  - 4
+DP  - 2026 Apr
+TI  - Organ Donation After Oral Ingestion of a Voluntary Assisted Dying Substance.
+PG  - e70193
+LID - 10.5694/mja2.70193 [doi]
+LID - e70193
+AB  - Organ donation after voluntary assisted dying (VAD) is increasingly undertaken in 
+      jurisdictions where it is legally permissible, including Australia, although 
+      previously all reported cases involved intravenous administration of the 
+      life-ending substance. A 55-year-old woman in Victoria has become the first known 
+      person to have successfully donated organs and tissues after self-administration 
+      of an oral substance, despite initial uncertainty about feasibility due to the 
+      unpredictable time to death (agonal phase). With Victorian legislation requiring 
+      self-administration as the default, this case provides a precedent, opening the 
+      possibility of donation for others in this majority VAD cohort where oral 
+      administration is obligatory.
+CI  - © 2026 The Author(s). Medical Journal of Australia published by John Wiley & Sons 
+      Australia, Ltd on behalf of AMPCo Pty Ltd.
+FAU - Kantianis, Joanne
+AU  - Kantianis J
+AUID- ORCID: 0009-0000-0701-6310
+AD  - University Hospital Geelong, Geelong, Victoria, Australia.
+FAU - Opdam, Helen I
+AU  - Opdam HI
+AD  - Austin Health, Melbourne, Victoria, Australia.
+AD  - Australian Organ and Tissue Authority, Canberra, Australian Capital Territory, 
+      Australia.
+FAU - D'Costa, Rohit L
+AU  - D'Costa RL
+AUID- ORCID: 0000-0003-2313-2623
+AD  - Royal Melbourne Hospital, Melbourne, Victoria, Australia.
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - Australia
+TA  - Med J Aust
+JT  - The Medical journal of Australia
+JID - 0400714
+SB  - IM
+MH  - Humans
+MH  - Female
+MH  - Middle Aged
+MH  - *Suicide, Assisted/legislation & jurisprudence
+MH  - *Tissue and Organ Procurement/legislation & jurisprudence/ethics
+MH  - Victoria
+MH  - Administration, Oral
+PMC - PMC13102989
+OTO - NOTNLM
+OT  - death
+OT  - ethics
+OT  - euthanasia
+OT  - motor neuron disease
+OT  - tissue and organ procurement
+OT  - transplantation
+COIS- Not commissioned; externally peer reviewed. The authors declare no conflicts of 
+      interest.
+EDAT- 2026/04/23 06:32
+MHDA- 2026/04/23 06:33
+PMCR- 2026/04/23
+CRDT- 2026/04/23 00:03
+PHST- 2026/02/13 00:00 [revised]
+PHST- 2025/06/11 00:00 [received]
+PHST- 2026/04/08 00:00 [accepted]
+PHST- 2026/04/23 06:33 [medline]
+PHST- 2026/04/23 06:32 [pubmed]
+PHST- 2026/04/23 00:03 [entrez]
+PHST- 2026/04/23 00:00 [pmc-release]
+AID - MJA270193 [pii]
+AID - 10.5694/mja2.70193 [doi]
+PST - ppublish
+SO  - Med J Aust. 2026 Apr;224(4):e70193. doi: 10.5694/mja2.70193.
+
+PMID- 25369793
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20151013
+LR  - 20220310
+IS  - 1445-5994 (Electronic)
+IS  - 1444-0903 (Linking)
+VI  - 45
+IP  - 1
+DP  - 2015 Jan
+TI  - Factors relating to consent for organ donation: prospective data on potential 
+      organ donors.
+PG  - 40-7
+LID - 10.1111/imj.12628 [doi]
+AB  - BACKGROUND: Obtaining family consent to organ donation is a significant obstacle 
+      to improving further Australian deceased organ donation rates. Currently, neither 
+      the consent rates for donors eligible to donate after circulatory death, nor 
+      factors that influence decision to decline or consent to donation in general are 
+      known in Australia. METHODS: This study at four university teaching hospitals in 
+      Melbourne, Victoria, examined consecutive patients where organ donation was 
+      discussed with the family RESULTS: A total of 123 cases were identified; the 
+      family consent rate was 52.8%, and 34.1% proceeded to donation. Consent to 
+      donation was related to potential donor factors such as country of birth, 
+      cultural background in Australia, a non-religious or Christian background and 
+      registration on the Australian Organ Donor Register. Family-related factors 
+      included being English speaking and having knowledge of the deceased's wishes 
+      about organ donation. Family of donation after circulatory death-eligible donors 
+      were less likely to consent to donation than the family of donation after brain 
+      death-eligible donors, although not reaching statistical significance. Among 
+      consented potential donors, those eligible for donation after brain death and 
+      with a shorter length of stay were more likely to proceed to donating organs for 
+      transplantation. CONCLUSION: Despite a small sample size, these findings describe 
+      current consent and donation rates and associated factors and may assist in 
+      improving conversations about organ donation.
+CI  - © 2014 Royal Australasian College of Physicians.
+FAU - Marck, C H
+AU  - Marck CH
+AD  - Emergency Practice Innovation Centre, St Vincent's Hospital Melbourne, Melbourne, 
+      Victoria, Australia.
+FAU - Neate, S L
+AU  - Neate SL
+FAU - Skinner, M R
+AU  - Skinner MR
+FAU - Dwyer, B M
+AU  - Dwyer BM
+FAU - Hickey, B B
+AU  - Hickey BB
+FAU - D'Costa, R
+AU  - D'Costa R
+FAU - Weiland, T J
+AU  - Weiland TJ
+FAU - Jelinek, G A
+AU  - Jelinek GA
+LA  - eng
+PT  - Journal Article
+PT  - Multicenter Study
+PT  - Research Support, Non-U.S. Gov't
+PL  - Australia
+TA  - Intern Med J
+JT  - Internal medicine journal
+JID - 101092952
+SB  - IM
+MH  - Aged
+MH  - *Culture
+MH  - *Decision Making
+MH  - Family/psychology
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Prospective Studies
+MH  - *Tissue Donors
+MH  - Tissue and Organ Procurement/*trends
+MH  - Victoria
+OTO - NOTNLM
+OT  - brain death
+OT  - circulatory death
+OT  - consent
+OT  - organ transplantation
+OT  - prospective audit
+EDAT- 2014/11/06 06:00
+MHDA- 2015/10/16 06:00
+CRDT- 2014/11/06 06:00
+PHST- 2014/06/23 00:00 [received]
+PHST- 2014/09/28 00:00 [accepted]
+PHST- 2014/11/06 06:00 [entrez]
+PHST- 2014/11/06 06:00 [pubmed]
+PHST- 2015/10/16 06:00 [medline]
+AID - 10.1111/imj.12628 [doi]
+PST - ppublish
+SO  - Intern Med J. 2015 Jan;45(1):40-7. doi: 10.1111/imj.12628.
+
+PMID- 33914908
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20211213
+LR  - 20211214
+IS  - 1365-2044 (Electronic)
+IS  - 0003-2409 (Linking)
+VI  - 76
+IP  - 12
+DP  - 2021 Dec
+TI  - Understanding the organ donation conversation landscape in the UK.
+PG  - 1567-1571
+LID - 10.1111/anae.15497 [doi]
+FAU - Opdam, H
+AU  - Opdam H
+AD  - Department of Intensive Care, Austin Hospital, Melbourne, Victoria, Australia.
+AD  - Department of Intensive Care, Austin Hospital, Melbourne, Victoria, Australia.
+FAU - Radford, S
+AU  - Radford S
+AD  - Department of Intensive Care, Austin Hospital, Melbourne, Victoria, Australia.
+LA  - eng
+PT  - Comment
+PT  - Editorial
+DEP - 20210429
+PL  - England
+TA  - Anaesthesia
+JT  - Anaesthesia
+JID - 0370524
+SB  - IM
+CON - Anaesthesia. 2021 Dec;76(12):1625-1634. doi: 10.1111/anae.15485. PMID: 33860929
+MH  - Humans
+MH  - *Organ Transplantation
+MH  - *Tissue and Organ Procurement
+MH  - United Kingdom
+OTO - NOTNLM
+OT  - donation after brain death
+OT  - donation after circulatory death
+OT  - organ donation
+OT  - transplantation
+EDAT- 2021/04/30 06:00
+MHDA- 2021/12/15 06:00
+CRDT- 2021/04/29 17:39
+PHST- 2021/04/04 00:00 [accepted]
+PHST- 2021/04/30 06:00 [pubmed]
+PHST- 2021/12/15 06:00 [medline]
+PHST- 2021/04/29 17:39 [entrez]
+AID - 10.1111/anae.15497 [doi]
+PST - ppublish
+SO  - Anaesthesia. 2021 Dec;76(12):1567-1571. doi: 10.1111/anae.15497. Epub 2021 Apr 
+      29.
+
+PMID- 32674003
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20210603
+LR  - 20210929
+IS  - 1557-8615 (Electronic)
+IS  - 0883-9441 (Linking)
+VI  - 59
+DP  - 2020 Oct
+TI  - Conflicts of interest in the context of end of life care for potential organ 
+      donors in Australia.
+PG  - 166-171
+LID - S0883-9441(20)30601-8 [pii]
+LID - 10.1016/j.jcrc.2020.06.016 [doi]
+AB  - End-of-life (EOL) care has become an integral part of intensive care medicine and 
+      includes the exploration of possibilities for deceased organ and tissue donation. 
+      Donation physicians are specialist doctors with expertise in EOL processes 
+      encompassing organ and tissue donation, who contribute significantly to 
+      improvements in organ and tissue donation services in many countries around the 
+      world. Donation physicians are usually also intensive care physicians, and thus 
+      they may be faced with the dual obligation of caring for dying patients and their 
+      families in the intensive care unit (ICU), whilst at the same time ensuring organ 
+      and tissue donation is considered according to best practice. This dual 
+      obligation poses specific ethical challenges that need to be carefully understood 
+      by clinicians, institutions and health care networks. These obligations are 
+      complementary and provide a unique skillset to care for dying patients and their 
+      families in the ICU. In this paper we review current controversies around EOL 
+      care in the ICU, including the use of palliative analgesia and sedation 
+      specifically with regards to withdrawal of cardiorespiratory support, the 
+      usefulness of the so-called doctrine of double effect to guide ethical 
+      decision-making, and the management of potential or perceived conflicts of 
+      interest in the context of dual professional roles.
+CI  - Copyright © 2020 Elsevier Inc. All rights reserved.
+FAU - van Haren, Frank M P
+AU  - van Haren FMP
+AD  - Australian National University, Medical School, University of Canberra, Faculty 
+      of Health, Intensive Care Unit, Canberra Hospital, Canberra, Australia. 
+      Electronic address: frank.vanharen@anu.edu.au.
+FAU - Carter, Angus
+AU  - Carter A
+AD  - Cairns and Hinterland Hospital and Health Service, James Cook University School 
+      of Medicine and Dentistry, Cairns, Australia.
+FAU - Cavazzoni, Elena
+AU  - Cavazzoni E
+AD  - University of Sydney, Children's Hospital at Westmead, Sydney, Australia.
+FAU - Chapman, Michael
+AU  - Chapman M
+AD  - Australian National University, Medical School, University of Technology Sydney, 
+      ImPaCCT, Department of Palliative Care, Canberra Hospital, Canberra, Australia.
+FAU - D'Costa, Rohit L
+AU  - D'Costa RL
+AD  - Intensive Care Unit, Royal Melbourne Hospital, Melbourne, Australia.
+FAU - Jones, Sarah L
+AU  - Jones SL
+AD  - Intensive Care Unit, the Northern Hospital, Epping, Australia.
+FAU - McGee, Andrew
+AU  - McGee A
+AD  - Australian Centre for Health Law Research, Faculty of Law, Queensland University 
+      of Technology, Brisbane, Australia.
+FAU - Moodie, Stewart
+AU  - Moodie S
+AD  - Department of Intensive Care, Royal Adelaide Hospital, Adelaide, Australia.
+FAU - Nunnink, Leo
+AU  - Nunnink L
+AD  - University of Queensland, Brisbane, Australia.
+FAU - O'Leary, Michael
+AU  - O'Leary M
+AD  - Intensive Care Service, Royal Prince Alfred Hospital, Sydney, Australia.
+FAU - Opdam, Helen
+AU  - Opdam H
+AD  - Intensive Care Unit, Austin Health, Melbourne, Australia.
+FAU - Radford, Sam
+AU  - Radford S
+AD  - Intensive Care Unit, Austin Health, Faculty of Medicine, Dentistry and Health 
+      Science, Melbourne University, Y, Australia.
+FAU - Turner, Andrew J
+AU  - Turner AJ
+AD  - Department of Critical Care Medicine, Royal Hobart Hospital, Hobart, Australia.
+FAU - Martin, Dominique
+AU  - Martin D
+AD  - School of Medicine, Faculty of Health, Deakin University. Geelong, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Review
+DEP - 20200704
+PL  - United States
+TA  - J Crit Care
+JT  - Journal of critical care
+JID - 8610642
+SB  - IM
+CIN - J Crit Care. 2021 Jun;63:273-274. doi: 10.1016/j.jcrc.2020.09.023. PMID: 33012586
+CIN - J Crit Care. 2021 Jun;63:272. doi: 10.1016/j.jcrc.2020.09.026. PMID: 33097318
+MH  - Australia
+MH  - Conflict of Interest
+MH  - Critical Care
+MH  - Humans
+MH  - Intensive Care Units
+MH  - Palliative Care
+MH  - Physicians
+MH  - Terminal Care/*ethics
+MH  - Tissue Donors/*ethics
+MH  - Tissue and Organ Procurement
+OTO - NOTNLM
+OT  - Conflict of interest
+OT  - Donation physician
+OT  - Dual roles
+OT  - End of life
+OT  - Ethics
+OT  - Organ donation
+OT  - Palliative care
+EDAT- 2020/07/17 06:00
+MHDA- 2021/06/04 06:00
+CRDT- 2020/07/17 06:00
+PHST- 2020/04/26 00:00 [received]
+PHST- 2020/06/01 00:00 [revised]
+PHST- 2020/06/22 00:00 [accepted]
+PHST- 2020/07/17 06:00 [pubmed]
+PHST- 2021/06/04 06:00 [medline]
+PHST- 2020/07/17 06:00 [entrez]
+AID - S0883-9441(20)30601-8 [pii]
+AID - 10.1016/j.jcrc.2020.06.016 [doi]
+PST - ppublish
+SO  - J Crit Care. 2020 Oct;59:166-171. doi: 10.1016/j.jcrc.2020.06.016. Epub 2020 Jul 
+      4.
+
+PMID- 37885419
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20240216
+LR  - 20240216
+IS  - 1399-3062 (Electronic)
+IS  - 1398-2273 (Linking)
+VI  - 26
+IP  - 1
+DP  - 2024 Feb
+TI  - Revised nucleic acid test window periods: Applications and limitations in organ 
+      donation practice.
+PG  - e14180
+LID - 10.1111/tid.14180 [doi]
+AB  - BACKGROUND: Nucleic acid test window periods for HIV, HCV, and HBV facilitate 
+      estimation of the residual risk of unexpected disease transmission and assist 
+      clinicians in determining the timeframe in which a recently acquired infection is 
+      at risk of nondetection. OBJECTIVES: Firstly, to provide revised estimates of the 
+      NAT window periods based on a currently used triplex NAT assay. Secondly, to 
+      examine their validity in organ donation and transplantation practice. METHOD: 
+      Estimates were based on the Procleix Ultrio Elite Assay (Grifols Diagnostic 
+      Solutions Inc. California, USA). The manufacturer's X50 and X95 limits of 
+      detection (LOD) were utilised. Viral doubling times of 0.85, 0.45, and 2.56 days 
+      and conversion factors for IU per ml to copies per mL of 0.6, 3.4, and 5 were 
+      assumed for HIV, HCV, and HBV respectively. Window periods were derived from the 
+      X50 and X95 LODs, based on a range of potential inoculum volumes. RESULTS: 
+      Calculated X50 window periods were 5.1 (4.5-5.8), 2.7 (2.4-2.9), and 16.6 
+      (14.2-19.1) days for HIV, HCV, and HBV respectively. Calculated X50 window 
+      periods, based on whole body plasma volume, were 11.8 (10.3-13.3), 6.2 (5.6-6.8) 
+      and 36.7 (31.3-42.1) days respectively. CONCLUSION: X50 NAT window periods were 
+      significantly shorter for HBV and HCV and sit at the lower range of previously 
+      published estimates for HIV .  Current modeling assumptions may not account for 
+      all unexpected transmission events and may no longer be suitable for application 
+      to organ donation and transplantation.
+CI  - © 2023 The Authors. Transplant Infectious Disease published by Wiley Periodicals 
+      LLC.
+FAU - Dutch, Martin
+AU  - Dutch M
+AUID- ORCID: 0000-0003-1074-8699
+AD  - Emergency Department, Royal Melbourne Hospital, Melbourne, Victoria, Australia.
+AD  - Department of Critical Care, University of Melbourne, Melbourne, Victoria, 
+      Australia.
+FAU - Cheng, Anthea
+AU  - Cheng A
+AUID- ORCID: 0000-0002-0805-5474
+AD  - Pathology and Clinical Governance, Australian Red Cross Lifeblood, West 
+      Melbourne, Victoria, Australia.
+FAU - Kiely, Philip
+AU  - Kiely P
+AD  - Pathology and Clinical Governance, Australian Red Cross Lifeblood, West 
+      Melbourne, Victoria, Australia.
+AD  - Transfusion Research Unit, School of Public Health and Preventive Medicine, 
+      Monash University, Prahran, Victoria, Australia.
+FAU - Seed, Clive
+AU  - Seed C
+AD  - Pathology and Clinical Governance, Australian Red Cross Lifeblood, West 
+      Melbourne, Victoria, Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20231027
+PL  - Denmark
+TA  - Transpl Infect Dis
+JT  - Transplant infectious disease : an official journal of the Transplantation 
+      Society
+JID - 100883688
+RN  - 0 (DNA, Viral)
+SB  - IM
+MH  - Humans
+MH  - Hepatitis B virus/genetics
+MH  - *HIV Infections
+MH  - *Tissue and Organ Procurement
+MH  - *Hepatitis C/diagnosis
+MH  - Blood Donors
+MH  - Nucleic Acid Amplification Techniques
+MH  - DNA, Viral
+MH  - Hepacivirus/genetics
+EDAT- 2023/10/27 06:42
+MHDA- 2024/02/16 06:43
+CRDT- 2023/10/27 04:16
+PHST- 2023/10/10 00:00 [revised]
+PHST- 2023/09/04 00:00 [received]
+PHST- 2023/10/15 00:00 [accepted]
+PHST- 2024/02/16 06:43 [medline]
+PHST- 2023/10/27 06:42 [pubmed]
+PHST- 2023/10/27 04:16 [entrez]
+AID - 10.1111/tid.14180 [doi]
+PST - ppublish
+SO  - Transpl Infect Dis. 2024 Feb;26(1):e14180. doi: 10.1111/tid.14180. Epub 2023 Oct 
+      27.
+
+PMID- 40810059
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20250816
+IS  - 2373-8731 (Print)
+IS  - 2373-8731 (Electronic)
+IS  - 2373-8731 (Linking)
+VI  - 11
+IP  - 9
+DP  - 2025 Sep
+TI  - The Impact of Critical Care Quarantine on the Residual Risk of Unexpected Organ 
+      Donor Blood-borne Virus Infection.
+PG  - e1843
+LID - 10.1097/TXD.0000000000001843 [doi]
+LID - e1843
+AB  - BACKGROUND: The transmission of undetected infections from organ donors to 
+      recipients is a persistent concern in transplantation medicine. Despite nucleic 
+      acid testing, some infections, especially those acquired recently, may evade 
+      detection. This study aimed to model the effects of critical care interval before 
+      screening on the residual risk of undetected infections in organ donors. METHODS: 
+      We modeled the risk of blood-borne virus acquisition in donors using a Poisson 
+      process, assuming that the critical care interval carries negligible risk. A 
+      continuous probability function was developed using estimates of HIV, hepatitis C 
+      virus, and hepatitis B virus incidence, viral doubling rates, and assay 
+      performance characteristics from a commonly used triplex nucleic acid screening 
+      test. RESULTS: Our quarantine-adjusted window period model showed that longer 
+      critical care intervals resulted in a decreased quarantine-adjusted residual risk 
+      of undetected infections. This relationship was linear for most assay window 
+      periods. For example, a typical critical care interval of 2.7 d reduces the 
+      residual risk by 43.5% for hepatitis C virus, 22.9% for HIV, and 7.4% for 
+      hepatitis B virus. In some clinical situations, the critical care quarantine 
+      effect may outweigh intragroup variations in risk behavior. The model also 
+      enabled comparisons of different blood collection times. CONCLUSIONS: The 
+      quarantine-adjusted window period model indicates that the critical care interval 
+      further reduces the risk of undetected infections in deceased organ donors. This 
+      supports and quantifies the impact of screening organ donors as close to 
+      retrieval surgery as possible, rather than delaying surgery solely based on the 
+      risk of residual infection.
+CI  - Copyright © 2025 The Author(s). Transplantation Direct. Published by Wolters 
+      Kluwer Health, Inc.
+FAU - Dutch, Martin J
+AU  - Dutch MJ
+AUID- ORCID: 0000-0003-1074-8699
+AD  - Department of Critical Care, Melbourne Medical School, University of Melbourne, 
+      Parkville, VIC, Australia.
+AD  - Emergency Department, Royal Melbourne Hospital, Parkville, VIC, Australia.
+FAU - Maillardet, Robert J
+AU  - Maillardet RJ
+AUID- ORCID: 0000-0003-3513-0465
+AD  - School of Mathematics and Statistics, University of Melbourne, Parkville, VIC, 
+      Australia.
+FAU - Knott, Jonathan C
+AU  - Knott JC
+AUID- ORCID: 0000-0003-1503-0440
+AD  - Department of Critical Care, Melbourne Medical School, University of Melbourne, 
+      Parkville, VIC, Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20250813
+PL  - United States
+TA  - Transplant Direct
+JT  - Transplantation direct
+JID - 101651609
+PMC - PMC12348399
+COIS- The authors declare no funding or conflicts of interest.
+EDAT- 2025/08/14 19:54
+MHDA- 2025/08/14 19:55
+PMCR- 2025/08/13
+CRDT- 2025/08/14 05:32
+PHST- 2025/06/11 00:00 [received]
+PHST- 2025/06/13 00:00 [accepted]
+PHST- 2025/08/14 19:55 [medline]
+PHST- 2025/08/14 19:54 [pubmed]
+PHST- 2025/08/14 05:32 [entrez]
+PHST- 2025/08/13 00:00 [pmc-release]
+AID - TXD-2025-0128 [pii]
+AID - 10.1097/TXD.0000000000001843 [doi]
+PST - epublish
+SO  - Transplant Direct. 2025 Aug 13;11(9):e1843. doi: 10.1097/TXD.0000000000001843. 
+      eCollection 2025 Sep.
+
+PMID- 36845855
+OWN - NLM
+STAT- PubMed-not-MEDLINE
+LR  - 20230228
+IS  - 2373-8731 (Print)
+IS  - 2373-8731 (Electronic)
+IS  - 2373-8731 (Linking)
+VI  - 9
+IP  - 3
+DP  - 2023 Mar
+TI  - Recently Acquired Blood-borne Virus Infections in Australian Deceased Organ 
+      Donors: Estimation of the Residual Risk of Unexpected Transmission.
+PG  - e1447
+LID - 10.1097/TXD.0000000000001447 [doi]
+LID - e1447
+AB  - Unexpected donor-derived infections of hepatitis B virus (HBV), hepatitis C virus 
+      (HCV), and HIV are rare but important potential complications of deceased organ 
+      transplantation. The prevalence of recently acquired (yield) infections has not 
+      been previously described in a national cohort of Australian deceased organ 
+      donors. Donor yield infections are of particularly significance, as they can be 
+      used to gain insights in the incidence of disease in the donor pool and in turn, 
+      estimate the risk of unexpected disease transmission to recipients. METHODS: We 
+      conducted a retrospective review of all patients who commenced workup for 
+      donation in Australia between 2014 and 2020. Yield cases were defined by having 
+      both unreactive serological screening for current or previous infection and 
+      reactive nucleic acid testing screening on initial and repeat testing. Incidence 
+      was calculated using a yield window estimate and residual risk using the 
+      incidence/window period model. RESULTS: The review identified only a single yield 
+      infection of HBV in 3724 persons who commenced donation workup. There were no 
+      yield cases of HIV or HCV. There were no yield infections in donors with 
+      increased viral risk behaviors. The prevalence of HBV, HCV, and HIV was 0.06% 
+      (0.01-0.22), 0.00% (0-0.11), and 0.00% (0-0.11), respectively. The residual risk 
+      of HBV was estimated to be 0.021% (0.001-0.119). CONCLUSIONS: The prevalence of 
+      recently acquired HBV, HCV, and HIV in Australians who commence workup for 
+      deceased donation is low. This novel application of yield-case-methodology has 
+      produced estimates of unexpected disease transmission which are modest, 
+      particularly when contrasted with local average waitlist mortality. Supplemental 
+      Visual Abstract; http://links.lww.com/TXD/A503.
+CI  - Copyright © 2023 The Author(s). Transplantation Direct. Published by Wolters 
+      Kluwer Health, Inc.
+FAU - Dutch, Martin J
+AU  - Dutch MJ
+AD  - Emergency Department, Royal Melbourne Hospital, Melbourne, Australia.
+AD  - Department of Critical Care, University of Melbourne, Melbourne, Australia.
+FAU - Seed, Clive R
+AU  - Seed CR
+AD  - Clinical Services and Research, Australian Red Cross Blood Service, Perth, 
+      Australia.
+AD  - Medical School, University of Western Australia, Perth, Australia.
+FAU - Cheng, Anthea
+AU  - Cheng A
+AD  - Clinical Services and Research, Australian Red Cross Blood Service, Perth, 
+      Australia.
+FAU - Kiely, Philip
+AU  - Kiely P
+AD  - Department of Clinical Services and Research, Australian Red Cross Blood Service, 
+      Melbourne, Australia.
+FAU - Patrick, Cameron J
+AU  - Patrick CJ
+AD  - Statistical Consultancy Centre, University of Melbourne, Melbourne, Australia.
+FAU - Opdam, Helen I
+AU  - Opdam HI
+AD  - Intensive Care Unit, Austin Hospital, Melbourne, Australia.
+AD  - The Australian Organ and Tissue Authority, Canberra, Australia.
+FAU - Knott, Jonathan C
+AU  - Knott JC
+AD  - Emergency Department, Royal Melbourne Hospital, Melbourne, Australia.
+AD  - Department of Critical Care, University of Melbourne, Melbourne, Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20230217
+PL  - United States
+TA  - Transplant Direct
+JT  - Transplantation direct
+JID - 101651609
+PMC - PMC9944344
+COIS- The authors declare no funding or conflicts of interest.
+EDAT- 2023/02/28 06:00
+MHDA- 2023/02/28 06:01
+PMCR- 2023/02/17
+CRDT- 2023/02/27 05:24
+PHST- 2022/12/05 00:00 [received]
+PHST- 2022/12/29 00:00 [accepted]
+PHST- 2023/02/27 05:24 [entrez]
+PHST- 2023/02/28 06:00 [pubmed]
+PHST- 2023/02/28 06:01 [medline]
+PHST- 2023/02/17 00:00 [pmc-release]
+AID - 10.1097/TXD.0000000000001447 [doi]
+PST - epublish
+SO  - Transplant Direct. 2023 Feb 17;9(3):e1447. doi: 10.1097/TXD.0000000000001447. 
+      eCollection 2023 Mar.
+
+PMID- 29230596
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20181102
+LR  - 20260127
+IS  - 1573-6814 (Electronic)
+IS  - 1389-9333 (Linking)
+VI  - 19
+IP  - 3
+DP  - 2018 Sep
+TI  - Distribution of potential eye and tissue donors within an Australian teaching 
+      hospital.
+PG  - 323-331
+LID - 10.1007/s10561-017-9676-8 [doi]
+AB  - Eye and Tissue donation has the capacity to transform lives, yet the vast 
+      majority of potential in-hospital donors are not recognised. Studies which 
+      describe the relative importance of specific units or wards in determining the 
+      size of the donor pool are limited. The aim of this study was to map the 
+      distribution of potential Eye and Tissue donors within the study hospital. A 
+      12-month retrospective analysis of all patient deaths at the study hospital was 
+      undertaken. The ability to donate corneal, heart valve, bone and skin tissue was 
+      investigated. Patients were classified as potential donors if they met specific 
+      age criteria and had an absence of contraindications based on electronic database 
+      search. There were 985 deaths during the study period. Deaths occurred under the 
+      care of 26 separate clinical units, and within 28 unique wards and treatment 
+      spaces. Four hundred and forty nine (45.6%) patients were identified as potential 
+      eye or tissue donors. The majority of potential donors occurred in ICU, Emergency 
+      and palliative care units. Of the subset of 328 deaths ≤ 70 years, the frequency 
+      of potential tissue donors was 55% (n = 181). ED and ICU had significantly higher 
+      frequencies of potential donor than other wards (86 and 77%, p < 0.01). The 
+      current study has identified the ED, ICU and PCUs are being important sites for 
+      potential Eye and Tissue Donors within our hospital. These will provide an 
+      important focus for future interventions to improve the rate of eye and tissue 
+      donation.
+FAU - Dutch, Martin J
+AU  - Dutch MJ
+AUID- ORCID: 0000-0003-1074-8699
+AD  - Organ and Tissue Donation Team, Royal Melbourne Hospital, Parkville, VIC, 3000, 
+      Australia. martin.dutch@mh.org.au.
+FAU - Denahy, Anthony F
+AU  - Denahy AF
+AD  - Business Intelligence Unit, Royal Melbourne Hospital, Parkville, VIC, 3000, 
+      Australia.
+LA  - eng
+PT  - Journal Article
+DEP - 20171211
+PL  - Netherlands
+TA  - Cell Tissue Bank
+JT  - Cell and tissue banking
+JID - 100965121
+SB  - IM
+MH  - Aged
+MH  - Aged, 80 and over
+MH  - Australia
+MH  - Eye/transplantation
+MH  - Female
+MH  - Hospitals, Teaching/*methods/statistics & numerical data
+MH  - Humans
+MH  - Male
+MH  - Tissue Donors/statistics & numerical data
+MH  - Tissue and Organ Procurement/*methods/statistics & numerical data
+OTO - NOTNLM
+OT  - Hospitals/statistics and numerical data
+OT  - Tissue and organ procurement/statistics and numerical data
+OT  - Tissue donation
+OT  - Tissue donors/supply and distribution
+OT  - Tissue procurement
+EDAT- 2017/12/13 06:00
+MHDA- 2018/11/06 06:00
+CRDT- 2017/12/13 06:00
+PHST- 2017/06/13 00:00 [received]
+PHST- 2017/12/06 00:00 [accepted]
+PHST- 2017/12/13 06:00 [pubmed]
+PHST- 2018/11/06 06:00 [medline]
+PHST- 2017/12/13 06:00 [entrez]
+AID - 10.1007/s10561-017-9676-8 [pii]
+AID - 10.1007/s10561-017-9676-8 [doi]
+PST - ppublish
+SO  - Cell Tissue Bank. 2018 Sep;19(3):323-331. doi: 10.1007/s10561-017-9676-8. Epub 
+      2017 Dec 11.
+
+PMID- 27250670
+OWN - NLM
+STAT- MEDLINE
+DCOM- 20170221
+LR  - 20260127
+IS  - 1742-6723 (Electronic)
+IS  - 1742-6723 (Linking)
+VI  - 28
+IP  - 3
+DP  - 2016 Jun
+TI  - Estimation of the potential eye and tissue donor pool in an Australian emergency 
+      department.
+PG  - 300-6
+LID - 10.1111/1742-6723.12576 [doi]
+AB  - OBJECTIVE: EDs have long been considered a potential source of eye and tissue 
+      donors, but no specific evidence to support this was identified in the Australian 
+      setting. The present study aims to bridge that knowledge gap, by analysing 
+      medical and social histories of those who have died over a 5 year period so as to 
+      determine donation eligibility in this population. METHODS: A retrospective audit 
+      was undertaken of all patients who died within the Royal Melbourne Hospital ED 
+      between 2010 and 2014. ED records, pharmacy records and electronic medical 
+      histories were audited for the presence of eye and tissue donation exclusion 
+      criteria and the distribution of these criteria within the target population. 
+      RESULTS: Over the 5 year period, of 326 deaths that occurred in the ED, one third 
+      was suitable for eye donation (n = 106) and one in seven (n = 45) for tissue 
+      donation. Of the age appropriate patients, five criteria were identified that 
+      excluded up to 85% of the population not eligible to donate. These were: 
+      haematological malignancies, neurodegenerative conditions, non-haematological 
+      malignancies, chronic renal failure and eye disease. CONCLUSION: The present 
+      study has identified a large pool of potential eye and tissue donors; a pool 
+      mostly unrecognised by emergency clinicians. An extensive list of exclusion 
+      criteria restricts donor potential. However, the present study has identified 
+      that only five fundamentally limit donation in the ED population. Utilisation of 
+      this knowledge will allow for the development of clinical triggers that will 
+      improve identification, and increase realisation, of potential donors.
+CI  - © 2016 Australasian College for Emergency Medicine and Australasian Society for 
+      Emergency Medicine.
+FAU - Johnson, Damian
+AU  - Johnson D
+AD  - Ballarat Health Services, Ballarat Base Hospital, Ballarat, Victoria, Australia.
+FAU - Dutch, Martin
+AU  - Dutch M
+AD  - Emergency Department, The Royal Melbourne Hospital, Melbourne, Victoria, 
+      Australia.
+FAU - Knott, Jonathan
+AU  - Knott J
+AD  - Emergency Medicine Research Unit, The Royal Melbourne Hospital, Melbourne, 
+      Victoria, Australia.
+LA  - eng
+PT  - Journal Article
+PT  - Observational Study
+DEP - 20160413
+PL  - Australia
+TA  - Emerg Med Australas
+JT  - Emergency medicine Australasia : EMA
+JID - 101199824
+SB  - IM
+MH  - Adult
+MH  - Aged
+MH  - Algorithms
+MH  - *Emergency Service, Hospital
+MH  - Eye/*transplantation
+MH  - Female
+MH  - Humans
+MH  - Male
+MH  - Middle Aged
+MH  - Retrospective Studies
+MH  - *Tissue Donors
+MH  - *Tissue and Organ Procurement
+MH  - Victoria
+OTO - NOTNLM
+OT  - donation
+OT  - donor potential
+OT  - emergency department
+OT  - eye
+OT  - tissue
+EDAT- 2016/06/03 06:00
+MHDA- 2017/02/22 06:00
+CRDT- 2016/06/03 06:00
+PHST- 2015/12/03 00:00 [received]
+PHST- 2016/02/09 00:00 [revised]
+PHST- 2016/02/25 00:00 [accepted]
+PHST- 2016/06/03 06:00 [entrez]
+PHST- 2016/06/03 06:00 [pubmed]
+PHST- 2017/02/22 06:00 [medline]
+AID - 10.1111/1742-6723.12576 [doi]
+PST - ppublish
+SO  - Emerg Med Australas. 2016 Jun;28(3):300-6. doi: 10.1111/1742-6723.12576. Epub 
+      2016 Apr 13.
